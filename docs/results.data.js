@@ -1,4 +1,4 @@
-/* Generated 2025-10-11T15:53:15.187Z */
+/* Generated 2025-10-11T15:54:47.541Z */
 window.RESULTS  = [
   {
     "competition": "South Africa Series",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "South Africa",
     "watch": "Netball pass",
     "score1": "67",
-    "score2": "45"
+    "score2": "40"
   },
   {
     "competition": "South Africa Series",
