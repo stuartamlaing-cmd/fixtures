@@ -1,4 +1,4 @@
-/* Generated 2025-10-11T14:09:44.517Z */
+/* Generated 2025-10-11T15:45:55.256Z */
 window.FIXTURES = [
   {
     "competition": "South Africa Series",
