@@ -1,9 +1,9 @@
-/* Generated 2025-10-11T13:45:57.852Z */
+/* Generated 2025-10-11T14:09:44.517Z */
 window.FIXTURES = [
   {
     "competition": "South Africa Series",
     "date": "2025-10-12",
-    "timeUK": "Sat Dec 30 1899 07:30:00 GMT+0000 (Greenwich Mean Time)",
+    "timeUK": "07:30",
     "location": "Adelaide, Australia",
     "team1": "Australia",
     "team2": "South Africa",
@@ -12,7 +12,7 @@ window.FIXTURES = [
   {
     "competition": "Constellation Cup",
     "date": "2025-10-17",
-    "timeUK": "Sat Dec 30 1899 10:30:00 GMT+0000 (Greenwich Mean Time)",
+    "timeUK": "10:30",
     "location": "John Cain Arena, Melbourne, Australia",
     "team1": "Australia",
     "team2": "New Zealand",
@@ -21,7 +21,7 @@ window.FIXTURES = [
   {
     "competition": "Constellation Cup",
     "date": "2025-10-22",
-    "timeUK": "Sat Dec 30 1899 10:30:00 GMT+0000 (Greenwich Mean Time)",
+    "timeUK": "10:30",
     "location": "Qudos Bank Arena, Sydney, Australia",
     "team1": "Australia",
     "team2": "New Zealand",
@@ -30,7 +30,7 @@ window.FIXTURES = [
   {
     "competition": "Constellation Cup",
     "date": "2025-10-26",
-    "timeUK": "Sat Dec 30 1899 04:10:00 GMT+0000 (Greenwich Mean Time)",
+    "timeUK": "04:10",
     "location": "GLOBOX Arena, Hamilton, New Zealand",
     "team1": "New Zealand",
     "team2": "Australia",
@@ -39,7 +39,7 @@ window.FIXTURES = [
   {
     "competition": "Constellation Cup",
     "date": "2025-10-29",
-    "timeUK": "Sat Dec 30 1899 07:40:00 GMT+0000 (Greenwich Mean Time)",
+    "timeUK": "07:40",
     "location": "Wolfbrook Arena, Christchurch, New Zealand",
     "team1": "New Zealand",
     "team2": "Australia",
@@ -48,7 +48,7 @@ window.FIXTURES = [
   {
     "competition": "Vitality Netball International",
     "date": "2025-11-15",
-    "timeUK": "Sat Dec 30 1899 17:00:00 GMT+0000 (Greenwich Mean Time)",
+    "timeUK": "17:00",
     "location": "Copper Box Arena, London",
     "team1": "England",
     "team2": "New Zealand",
@@ -57,7 +57,7 @@ window.FIXTURES = [
   {
     "competition": "Vitality Netball International",
     "date": "2025-11-16",
-    "timeUK": "Sat Dec 30 1899 15:00:00 GMT+0000 (Greenwich Mean Time)",
+    "timeUK": "15:00",
     "location": "Copper Box Arena, London",
     "team1": "England",
     "team2": "New Zealand",
@@ -66,7 +66,7 @@ window.FIXTURES = [
   {
     "competition": "Vitality Netball International",
     "date": "2025-11-19",
-    "timeUK": "Sat Dec 30 1899 19:00:00 GMT+0000 (Greenwich Mean Time)",
+    "timeUK": "19:00",
     "location": "AO Arena, Manchester",
     "team1": "England",
     "team2": "New Zealand",
@@ -120,7 +120,7 @@ window.FIXTURES = [
   {
     "competition": "The Horizon Series",
     "date": "2025-12-06",
-    "timeUK": "Sat Dec 30 1899 00:00:00 GMT+0000 (Greenwich Mean Time)",
+    "timeUK": "00:00",
     "location": "National Indoor Sports Centre, Kingston, Jamaica",
     "team1": "Jamaica",
     "team2": "England",
@@ -129,7 +129,7 @@ window.FIXTURES = [
   {
     "competition": "The Horizon Series",
     "date": "2025-12-07",
-    "timeUK": "Sat Dec 30 1899 00:00:00 GMT+0000 (Greenwich Mean Time)",
+    "timeUK": "00:00",
     "location": "National Indoor Sports Centre, Kingston, Jamaica",
     "team1": "Jamaica",
     "team2": "England",
@@ -138,7 +138,7 @@ window.FIXTURES = [
   {
     "competition": "The Horizon Series",
     "date": "2025-12-13",
-    "timeUK": "Sat Dec 30 1899 14:15:00 GMT+0000 (Greenwich Mean Time)",
+    "timeUK": "14:15",
     "location": "Copper Box Arena, London",
     "team1": "England",
     "team2": "Jamaica",
@@ -147,7 +147,7 @@ window.FIXTURES = [
   {
     "competition": "The Horizon Series",
     "date": "2025-12-14",
-    "timeUK": "Sat Dec 30 1899 14:00:00 GMT+0000 (Greenwich Mean Time)",
+    "timeUK": "14:00",
     "location": "Copper Box Arena, London",
     "team1": "England",
     "team2": "Jamaica",
