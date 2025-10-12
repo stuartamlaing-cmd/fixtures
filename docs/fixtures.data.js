@@ -1,14 +1,5 @@
-/* Generated 2025-10-11T15:54:47.540Z */
+/* Generated 2025-10-12T15:06:23.465Z */
 window.FIXTURES = [
-  {
-    "competition": "South Africa Series",
-    "date": "2025-10-12",
-    "timeUK": "07:30",
-    "location": "Adelaide, Australia",
-    "team1": "Australia",
-    "team2": "South Africa",
-    "watch": "Netball pass"
-  },
   {
     "competition": "Constellation Cup",
     "date": "2025-10-17",
