@@ -1,5 +1,16 @@
-/* Generated 2025-10-11T15:54:47.541Z */
+/* Generated 2025-10-12T15:06:23.480Z */
 window.RESULTS  = [
+  {
+    "competition": "South Africa Series",
+    "date": "2025-10-12",
+    "timeUK": "07:30",
+    "location": "Adelaide, Australia",
+    "team1": "Australia",
+    "team2": "South Africa",
+    "watch": "Netball pass",
+    "score1": "65",
+    "score2": "42"
+  },
   {
     "competition": "South Africa Series",
     "date": "2025-10-08",
