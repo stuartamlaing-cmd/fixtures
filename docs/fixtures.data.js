@@ -1,4 +1,4 @@
-/* Generated 2025-10-16T18:41:15.301Z */
+/* Generated 2025-10-16T18:41:48.454Z */
 window.FIXTURES = [
   {
     "competition": "Constellation Cup",
@@ -100,6 +100,15 @@ window.FIXTURES = [
     "watch": "BBC Sport Scotland Website;BBC iPlayer"
   },
   {
+    "competition": "Celtic Cup 2025",
+    "date": "2025-11-27",
+    "timeUK": "14:30",
+    "location": "",
+    "team1": "",
+    "team2": "",
+    "watch": ""
+  },
+  {
     "competition": "Celtic Cup",
     "date": "2025-11-27",
     "timeUK": "TBC",
@@ -107,15 +116,6 @@ window.FIXTURES = [
     "team1": "Northern Ireland, Wales, Scotland, Uganda, Zimbabwe, Namibia",
     "team2": "",
     "watch": "BBC Sport Scotland Website;BBC iPlayer"
-  },
-  {
-    "competition": "Celtic Cup 2025",
-    "date": "2025-11-27",
-    "timeUK": "",
-    "location": "",
-    "team1": "",
-    "team2": "",
-    "watch": ""
   },
   {
     "competition": "Celtic Cup",
