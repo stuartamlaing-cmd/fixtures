@@ -1,4 +1,4 @@
-/* Generated 2025-10-16T18:36:56.258Z */
+/* Generated 2025-10-16T18:37:27.833Z */
 window.FIXTURES = [
   {
     "competition": "Constellation Cup",
@@ -64,6 +64,15 @@ window.FIXTURES = [
     "watch": "Sky Sports"
   },
   {
+    "competition": "Celtic Cup 2025",
+    "date": "2025-11-26",
+    "timeUK": "17:00",
+    "location": "",
+    "team1": "",
+    "team2": "",
+    "watch": ""
+  },
+  {
     "competition": "Celtic Cup",
     "date": "2025-11-26",
     "timeUK": "TBC",
@@ -80,15 +89,6 @@ window.FIXTURES = [
     "team1": "Uganda",
     "team2": "Namibia",
     "watch": "BBC Sport Scotland Website;BBC iPlayer"
-  },
-  {
-    "competition": "Celtic Cup 2025",
-    "date": "2025-11-26",
-    "timeUK": "",
-    "location": "",
-    "team1": "",
-    "team2": "",
-    "watch": ""
   },
   {
     "competition": "Celtic Cup",
