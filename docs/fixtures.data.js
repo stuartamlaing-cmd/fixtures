@@ -1,4 +1,4 @@
-/* Generated 2025-10-16T18:46:17.108Z */
+/* Generated 2025-10-16T19:14:12.531Z */
 window.FIXTURES = [
   {
     "competition": "Constellation Cup",
@@ -118,7 +118,7 @@ window.FIXTURES = [
     "watch": "BBC Sport Scotland Website;BBC iPlayer"
   },
   {
-    "competition": "Celtic Cup 2026",
+    "competition": "Celtic Cup 2025",
     "date": "2025-11-27",
     "timeUK": "19:30",
     "location": "Emirates Arena, Glasgow",
@@ -150,7 +150,7 @@ window.FIXTURES = [
     "timeUK": "17:00",
     "location": "Emirates Arena, Glasgow",
     "team1": "Wales",
-    "team2": "",
+    "team2": "Northern Ireland",
     "watch": "BBC Sport Scotland Website;BBC iPlayer"
   },
   {
