@@ -1,4 +1,4 @@
-/* Generated 2025-10-16T19:14:12.531Z */
+/* Generated 2025-10-16T19:14:51.518Z */
 window.FIXTURES = [
   {
     "competition": "Constellation Cup",
@@ -136,7 +136,7 @@ window.FIXTURES = [
     "watch": "BBC Sport Scotland Website;BBC iPlayer"
   },
   {
-    "competition": "Celtic Cup 2027",
+    "competition": "Celtic Cup 2025",
     "date": "2025-11-28",
     "timeUK": "14:30",
     "location": "Emirates Arena, Glasgow",
@@ -145,13 +145,22 @@ window.FIXTURES = [
     "watch": "BBC Sport Scotland Website;BBC iPlayer"
   },
   {
-    "competition": "Celtic Cup 2028",
+    "competition": "Celtic Cup 2025",
     "date": "2025-11-28",
     "timeUK": "17:00",
     "location": "Emirates Arena, Glasgow",
     "team1": "Wales",
     "team2": "Northern Ireland",
     "watch": "BBC Sport Scotland Website;BBC iPlayer"
+  },
+  {
+    "competition": "Celtic Cup 2025",
+    "date": "2025-11-28",
+    "timeUK": "19:30",
+    "location": "Emirates Arena, Glasgow",
+    "team1": "",
+    "team2": "",
+    "watch": ""
   },
   {
     "competition": "Celtic Cup",
