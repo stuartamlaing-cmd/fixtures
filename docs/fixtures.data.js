@@ -1,4 +1,4 @@
-/* Generated 2025-10-16T19:20:07.782Z */
+/* Generated 2025-10-16T19:26:32.495Z */
 window.FIXTURES = [
   {
     "competition": "Constellation Cup",
@@ -91,15 +91,6 @@ window.FIXTURES = [
     "watch": "BBC Sport Scotland Website;BBC iPlayer"
   },
   {
-    "competition": "Celtic Cup",
-    "date": "2025-11-26",
-    "timeUK": "TBC",
-    "location": "Emirates Arena, Glasgow",
-    "team1": "Northern Ireland, Wales, Scotland, Uganda, Zimbabwe, Namibia",
-    "team2": "",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
-  },
-  {
     "competition": "Celtic Cup 2025",
     "date": "2025-11-27",
     "timeUK": "14:30",
@@ -127,15 +118,6 @@ window.FIXTURES = [
     "watch": "BBC Sport Scotland Website;BBC iPlayer"
   },
   {
-    "competition": "Celtic Cup",
-    "date": "2025-11-27",
-    "timeUK": "TBC",
-    "location": "Emirates Arena, Glasgow",
-    "team1": "Northern Ireland, Wales, Scotland, Uganda, Zimbabwe, Namibia",
-    "team2": "",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
-  },
-  {
     "competition": "Celtic Cup 2025",
     "date": "2025-11-28",
     "timeUK": "14:30",
@@ -160,15 +142,6 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Scotland",
     "team2": "Uganda",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
-  },
-  {
-    "competition": "Celtic Cup",
-    "date": "2025-11-28",
-    "timeUK": "TBC",
-    "location": "Emirates Arena, Glasgow",
-    "team1": "Northern Ireland, Wales, Scotland, Uganda, Zimbabwe, Namibia",
-    "team2": "",
     "watch": "BBC Sport Scotland Website;BBC iPlayer"
   },
   {
@@ -199,15 +172,6 @@ window.FIXTURES = [
     "watch": "BBC Sport Scotland Website;BBC iPlayer"
   },
   {
-    "competition": "Celtic Cup",
-    "date": "2025-11-29",
-    "timeUK": "TBC",
-    "location": "Emirates Arena, Glasgow",
-    "team1": "Northern Ireland, Wales, Scotland, Uganda, Zimbabwe, Namibia",
-    "team2": "",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
-  },
-  {
     "competition": "Celtic Cup 2025",
     "date": "2025-11-30",
     "timeUK": "12:30",
@@ -232,15 +196,6 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Scotland",
     "team2": "Zimbabwe",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
-  },
-  {
-    "competition": "Celtic Cup",
-    "date": "2025-11-30",
-    "timeUK": "TBC",
-    "location": "Emirates Arena, Glasgow",
-    "team1": "Northern Ireland, Wales, Scotland, Uganda, Zimbabwe, Namibia",
-    "team2": "",
     "watch": "BBC Sport Scotland Website;BBC iPlayer"
   },
   {
