@@ -1,4 +1,4 @@
-/* Generated 2025-10-16T18:41:48.454Z */
+/* Generated 2025-10-16T18:42:33.006Z */
 window.FIXTURES = [
   {
     "competition": "Constellation Cup",
@@ -103,8 +103,8 @@ window.FIXTURES = [
     "competition": "Celtic Cup 2025",
     "date": "2025-11-27",
     "timeUK": "14:30",
-    "location": "",
-    "team1": "",
+    "location": "Emirates Arena, Glasgow",
+    "team1": "Northern Ireland",
     "team2": "",
     "watch": ""
   },
