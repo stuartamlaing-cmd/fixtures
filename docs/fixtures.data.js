@@ -1,4 +1,4 @@
-/* Generated 2025-10-16T19:14:51.518Z */
+/* Generated 2025-10-16T19:15:22.398Z */
 window.FIXTURES = [
   {
     "competition": "Constellation Cup",
@@ -158,9 +158,9 @@ window.FIXTURES = [
     "date": "2025-11-28",
     "timeUK": "19:30",
     "location": "Emirates Arena, Glasgow",
-    "team1": "",
-    "team2": "",
-    "watch": ""
+    "team1": "Scotland",
+    "team2": "Uganda",
+    "watch": "BBC Sport Scotland Website;BBC iPlayer"
   },
   {
     "competition": "Celtic Cup",
