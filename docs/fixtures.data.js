@@ -1,4 +1,4 @@
-/* Generated 2025-10-16T18:39:38.125Z */
+/* Generated 2025-10-16T18:40:08.384Z */
 window.FIXTURES = [
   {
     "competition": "Constellation Cup",
@@ -80,6 +80,15 @@ window.FIXTURES = [
     "team1": "Zimbabwe",
     "team2": "Northern Ireland",
     "watch": "BBC Sport Scotland Website;BBC iPlayer"
+  },
+  {
+    "competition": "Celtic Cup 2025",
+    "date": "2025-11-26",
+    "timeUK": "19:30",
+    "location": "",
+    "team1": "",
+    "team2": "",
+    "watch": ""
   },
   {
     "competition": "Celtic Cup",
