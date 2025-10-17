@@ -1,5 +1,16 @@
-/* Generated 2025-10-16T19:26:32.515Z */
+/* Generated 2025-10-17T12:02:33.937Z */
 window.RESULTS  = [
+  {
+    "competition": "Constellation Cup",
+    "date": "2025-10-17",
+    "timeUK": "10:30",
+    "location": "John Cain Arena, Melbourne, Australia",
+    "team1": "Australia",
+    "team2": "New Zealand",
+    "watch": "Netball pass",
+    "score1": "69",
+    "score2": "52"
+  },
   {
     "competition": "South Africa Series",
     "date": "2025-10-12",
