@@ -1,14 +1,5 @@
-/* Generated 2025-10-16T19:26:32.495Z */
+/* Generated 2025-10-17T12:02:33.934Z */
 window.FIXTURES = [
-  {
-    "competition": "Constellation Cup",
-    "date": "2025-10-17",
-    "timeUK": "10:30",
-    "location": "John Cain Arena, Melbourne, Australia",
-    "team1": "Australia",
-    "team2": "New Zealand",
-    "watch": "Netball pass"
-  },
   {
     "competition": "Constellation Cup",
     "date": "2025-10-22",
