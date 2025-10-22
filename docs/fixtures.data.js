@@ -1,4 +1,4 @@
-/* Generated 2025-10-22T19:53:39.970Z */
+/* Generated 2025-10-22T19:54:16.046Z */
 window.FIXTURES = [
   {
     "competition": "Constellation Cup",
@@ -50,9 +50,9 @@ window.FIXTURES = [
     "date": "2025-11-22",
     "timeUK": "18:00",
     "location": "House Of Sport Cardiff",
-    "team1": "",
-    "team2": "",
-    "watch": ""
+    "team1": "Wales",
+    "team2": "Zimbabwe",
+    "watch": "BBC Sport Wales Website;BBC iPlayer"
   },
   {
     "competition": "Celtic Cup 2025",
