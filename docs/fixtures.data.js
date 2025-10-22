@@ -1,14 +1,5 @@
-/* Generated 2025-10-17T12:02:33.934Z */
+/* Generated 2025-10-22T13:25:39.861Z */
 window.FIXTURES = [
-  {
-    "competition": "Constellation Cup",
-    "date": "2025-10-22",
-    "timeUK": "10:30",
-    "location": "Qudos Bank Arena, Sydney, Australia",
-    "team1": "Australia",
-    "team2": "New Zealand",
-    "watch": "Netball pass"
-  },
   {
     "competition": "Constellation Cup",
     "date": "2025-10-26",
