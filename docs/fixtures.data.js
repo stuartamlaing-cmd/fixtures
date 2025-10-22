@@ -1,4 +1,4 @@
-/* Generated 2025-10-22T19:56:19.747Z */
+/* Generated 2025-10-22T19:56:51.632Z */
 window.FIXTURES = [
   {
     "competition": "Constellation Cup",
@@ -57,10 +57,10 @@ window.FIXTURES = [
   {
     "competition": "International Test series",
     "date": "2025-11-23",
-    "timeUK": "",
-    "location": "",
-    "team1": "",
-    "team2": "",
+    "timeUK": "15:30",
+    "location": "House Of Sport Cardiff",
+    "team1": "Wales",
+    "team2": "Zimbabwe",
     "watch": ""
   },
   {
