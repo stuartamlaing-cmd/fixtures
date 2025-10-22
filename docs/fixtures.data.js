@@ -1,4 +1,4 @@
-/* Generated 2025-10-22T19:55:07.977Z */
+/* Generated 2025-10-22T19:56:19.747Z */
 window.FIXTURES = [
   {
     "competition": "Constellation Cup",
@@ -53,6 +53,15 @@ window.FIXTURES = [
     "team1": "Wales",
     "team2": "Zimbabwe",
     "watch": "BBC Sport Wales Website;BBC iPlayer"
+  },
+  {
+    "competition": "International Test series",
+    "date": "2025-11-23",
+    "timeUK": "",
+    "location": "",
+    "team1": "",
+    "team2": "",
+    "watch": ""
   },
   {
     "competition": "Celtic Cup 2025",
