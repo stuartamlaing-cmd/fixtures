@@ -1,5 +1,16 @@
-/* Generated 2025-10-17T12:02:33.937Z */
+/* Generated 2025-10-22T13:25:39.862Z */
 window.RESULTS  = [
+  {
+    "competition": "Constellation Cup",
+    "date": "2025-10-22",
+    "timeUK": "10:30",
+    "location": "Qudos Bank Arena, Sydney, Australia",
+    "team1": "Australia",
+    "team2": "New Zealand",
+    "watch": "Netball pass",
+    "score1": "68",
+    "score2": "51"
+  },
   {
     "competition": "Constellation Cup",
     "date": "2025-10-17",
