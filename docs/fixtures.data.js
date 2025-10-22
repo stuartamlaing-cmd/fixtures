@@ -1,4 +1,4 @@
-/* Generated 2025-10-22T13:25:39.861Z */
+/* Generated 2025-10-22T19:53:02.037Z */
 window.FIXTURES = [
   {
     "competition": "Constellation Cup",
