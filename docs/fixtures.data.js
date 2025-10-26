@@ -1,4 +1,4 @@
-/* Generated 2025-10-26T08:24:06.500Z */
+/* Generated 2025-10-26T08:24:43.198Z */
 window.FIXTURES = [
   {
     "competition": "Constellation Cup",
@@ -25,7 +25,7 @@ window.FIXTURES = [
     "location": "Copper Box Arena, London",
     "team1": "England",
     "team2": "New Zealand",
-    "watch": "Sky Sports"
+    "watch": "Sky Sports; Netball Pass"
   },
   {
     "competition": "Vitality Netball International",
@@ -34,7 +34,7 @@ window.FIXTURES = [
     "location": "AO Arena, Manchester",
     "team1": "England",
     "team2": "New Zealand",
-    "watch": "Sky Sports"
+    "watch": "Sky Sports; Netball Pass"
   },
   {
     "competition": "International Test series",
@@ -196,7 +196,7 @@ window.FIXTURES = [
     "location": "National Indoor Sports Centre, Kingston, Jamaica",
     "team1": "Jamaica",
     "team2": "England",
-    "watch": "BBC Sport"
+    "watch": "BBC Sport; Netball Pass"
   },
   {
     "competition": "The Horizon Series",
@@ -205,7 +205,7 @@ window.FIXTURES = [
     "location": "National Indoor Sports Centre, Kingston, Jamaica",
     "team1": "Jamaica",
     "team2": "England",
-    "watch": "BBC Sport"
+    "watch": "BBC Sport; Netball Pass"
   },
   {
     "competition": "The Horizon Series",
@@ -214,7 +214,7 @@ window.FIXTURES = [
     "location": "Copper Box Arena, London",
     "team1": "England",
     "team2": "Jamaica",
-    "watch": "BBC Sport"
+    "watch": "BBC Sport; Netball Pass"
   },
   {
     "competition": "The Horizon Series",
