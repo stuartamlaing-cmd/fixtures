@@ -1,4 +1,4 @@
-/* Generated 2025-10-26T08:22:44.713Z */
+/* Generated 2025-10-26T08:24:06.505Z */
 window.RESULTS  = [
   {
     "competition": "Constellation Cup",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "Australia",
     "watch": "Netball pass",
     "score1": "61",
-    "score2": ""
+    "score2": "52"
   },
   {
     "competition": "Constellation Cup",
