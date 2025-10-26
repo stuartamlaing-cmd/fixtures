@@ -1,4 +1,4 @@
-/* Generated 2025-10-26T08:22:44.711Z */
+/* Generated 2025-10-26T08:24:06.500Z */
 window.FIXTURES = [
   {
     "competition": "Constellation Cup",
@@ -16,7 +16,7 @@ window.FIXTURES = [
     "location": "Copper Box Arena, London",
     "team1": "England",
     "team2": "New Zealand",
-    "watch": "Sky Sports"
+    "watch": "Sky Sports; Netball Pass"
   },
   {
     "competition": "Vitality Netball International",
