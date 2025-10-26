@@ -1,14 +1,5 @@
-/* Generated 2025-10-22T20:05:48.277Z */
+/* Generated 2025-10-26T07:45:55.730Z */
 window.FIXTURES = [
-  {
-    "competition": "Constellation Cup",
-    "date": "2025-10-26",
-    "timeUK": "04:10",
-    "location": "GLOBOX Arena, Hamilton, New Zealand",
-    "team1": "New Zealand",
-    "team2": "Australia",
-    "watch": "Netball pass"
-  },
   {
     "competition": "Constellation Cup",
     "date": "2025-10-29",
