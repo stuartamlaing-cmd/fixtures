@@ -1,14 +1,5 @@
-/* Generated 2025-10-26T08:24:43.198Z */
+/* Generated 2025-10-29T12:14:03.506Z */
 window.FIXTURES = [
-  {
-    "competition": "Constellation Cup",
-    "date": "2025-10-29",
-    "timeUK": "07:40",
-    "location": "Wolfbrook Arena, Christchurch, New Zealand",
-    "team1": "New Zealand",
-    "team2": "Australia",
-    "watch": "Netball pass"
-  },
   {
     "competition": "Vitality Netball International",
     "date": "2025-11-15",
@@ -223,6 +214,6 @@ window.FIXTURES = [
     "location": "Copper Box Arena, London",
     "team1": "England",
     "team2": "Jamaica",
-    "watch": "BBC Sport"
+    "watch": "BBC Sport; Netball Pass"
   }
 ];
