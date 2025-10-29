@@ -1,5 +1,16 @@
-/* Generated 2025-10-26T08:24:43.202Z */
+/* Generated 2025-10-29T12:14:03.512Z */
 window.RESULTS  = [
+  {
+    "competition": "Constellation Cup",
+    "date": "2025-10-29",
+    "timeUK": "07:40",
+    "location": "Wolfbrook Arena, Christchurch, New Zealand",
+    "team1": "New Zealand",
+    "team2": "Australia",
+    "watch": "Netball pass",
+    "score1": "11",
+    "score2": ""
+  },
   {
     "competition": "Constellation Cup",
     "date": "2025-10-26",
