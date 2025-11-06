@@ -1,11 +1,11 @@
-/* Generated 2025-11-06T12:36:15.722Z */
+/* Generated 2025-11-06T12:37:38.233Z */
 window.FIXTURES = [
   {
     "competition": "NZ Test Series 2025",
     "date": "2025-11-09",
     "timeUK": "16:00",
     "location": "",
-    "team1": "",
+    "team1": "Scotland",
     "team2": "",
     "watch": ""
   },
