@@ -1,4 +1,4 @@
-/* Generated 2025-11-06T12:37:38.233Z */
+/* Generated 2025-11-06T12:41:57.904Z */
 window.FIXTURES = [
   {
     "competition": "NZ Test Series 2025",
@@ -6,8 +6,8 @@ window.FIXTURES = [
     "timeUK": "16:00",
     "location": "",
     "team1": "Scotland",
-    "team2": "",
-    "watch": ""
+    "team2": "New Zealand",
+    "watch": "BBC Sport; BBC iPLAYER; Netball Pass"
   },
   {
     "competition": "Vitality Netball International",
