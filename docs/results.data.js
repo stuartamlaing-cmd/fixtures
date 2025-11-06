@@ -1,4 +1,4 @@
-/* Generated 2025-11-06T12:36:15.722Z */
+/* Generated 2025-11-06T12:37:38.233Z */
 window.RESULTS  = [
   {
     "competition": "Constellation Cup",
