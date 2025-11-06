@@ -1,4 +1,4 @@
-/* Generated 2025-11-06T12:44:08.800Z */
+/* Generated 2025-11-06T12:44:47.413Z */
 window.FIXTURES = [
   {
     "competition": "NZ Test Series 2025",
@@ -12,7 +12,7 @@ window.FIXTURES = [
   {
     "competition": "NZ Test Series 2025",
     "date": "2025-11-11",
-    "timeUK": "",
+    "timeUK": "19:30",
     "location": "Play Sport Arena, East Kilbride",
     "team1": "",
     "team2": "",
