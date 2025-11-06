@@ -1,5 +1,14 @@
-/* Generated 2025-11-06T12:35:44.424Z */
+/* Generated 2025-11-06T12:36:15.722Z */
 window.FIXTURES = [
+  {
+    "competition": "NZ Test Series 2025",
+    "date": "2025-11-09",
+    "timeUK": "16:00",
+    "location": "",
+    "team1": "",
+    "team2": "",
+    "watch": ""
+  },
   {
     "competition": "Vitality Netball International",
     "date": "2025-11-15",
