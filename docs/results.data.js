@@ -1,5 +1,16 @@
-/* Generated 2025-11-06T12:46:09.050Z */
+/* Generated 2025-11-09T21:07:46.309Z */
 window.RESULTS  = [
+  {
+    "competition": "NZ Test Series 2025",
+    "date": "2025-11-09",
+    "timeUK": "16:00",
+    "location": "Play Sport Arena, East Kilbride",
+    "team1": "Scotland",
+    "team2": "New Zealand",
+    "watch": "BBC Sport; BBC iPLAYER; Netball Pass",
+    "score1": "41",
+    "score2": ""
+  },
   {
     "competition": "Constellation Cup",
     "date": "2025-10-29",
