@@ -1,4 +1,4 @@
-/* Generated 2025-11-10T13:01:29.929Z */
+/* Generated 2025-11-10T13:07:06.878Z */
 window.RESULTS  = [
   {
     "competition": "NZ Test Series 2025",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "New Zealand",
     "watch": "BBC Sport; BBC iPLAYER; Netball Pass",
     "score1": "41",
-    "score2": ""
+    "score2": "63"
   },
   {
     "competition": "Constellation Cup",
