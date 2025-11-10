@@ -1,4 +1,4 @@
-/* Generated 2025-11-09T21:07:46.306Z */
+/* Generated 2025-11-10T13:01:29.928Z */
 window.FIXTURES = [
   {
     "competition": "NZ Test Series 2025",
