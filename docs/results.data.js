@@ -1,5 +1,16 @@
-/* Generated 2025-11-10T13:07:06.878Z */
+/* Generated 2025-11-12T11:49:03.046Z */
 window.RESULTS  = [
+  {
+    "competition": "NZ Test Series 2025",
+    "date": "2025-11-11",
+    "timeUK": "19:30",
+    "location": "Play Sport Arena, East Kilbride",
+    "team1": "Scotland",
+    "team2": "New Zealand",
+    "watch": "BBC Sport; BBC iPLAYER; Netball Pass",
+    "score1": "48",
+    "score2": ""
+  },
   {
     "competition": "NZ Test Series 2025",
     "date": "2025-11-09",
