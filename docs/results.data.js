@@ -1,4 +1,4 @@
-/* Generated 2025-11-15T19:43:17.614Z */
+/* Generated 2025-11-15T22:42:30.453Z */
 window.RESULTS  = [
   {
     "competition": "Vitality International Series",
@@ -7,7 +7,7 @@ window.RESULTS  = [
     "location": "Copper Box Arena, London",
     "team1": "England",
     "team2": "New Zealand",
-    "watch": "Sky Sports; Netball Pass",
+    "watch": "Sky Sports;",
     "score1": "58",
     "score2": "61"
   },
