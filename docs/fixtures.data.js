@@ -1,4 +1,4 @@
-/* Generated 2025-11-15T19:41:02.424Z */
+/* Generated 2025-11-15T19:43:17.613Z */
 window.FIXTURES = [
   {
     "competition": "Vitality Netball International",
