@@ -1,5 +1,16 @@
-/* Generated 2025-11-12T11:49:03.046Z */
+/* Generated 2025-11-15T19:07:17.432Z */
 window.RESULTS  = [
+  {
+    "competition": "Vitality Netball International",
+    "date": "2025-11-15",
+    "timeUK": "17:00",
+    "location": "Copper Box Arena, London",
+    "team1": "England",
+    "team2": "New Zealand",
+    "watch": "Sky Sports; Netball Pass",
+    "score1": "58",
+    "score2": ""
+  },
   {
     "competition": "NZ Test Series 2025",
     "date": "2025-11-11",
@@ -9,7 +20,7 @@ window.RESULTS  = [
     "team2": "New Zealand",
     "watch": "BBC Sport; BBC iPLAYER; Netball Pass",
     "score1": "48",
-    "score2": ""
+    "score2": "80"
   },
   {
     "competition": "NZ Test Series 2025",
