@@ -1,14 +1,5 @@
-/* Generated 2025-11-12T11:49:03.040Z */
+/* Generated 2025-11-15T19:07:17.431Z */
 window.FIXTURES = [
-  {
-    "competition": "Vitality Netball International",
-    "date": "2025-11-15",
-    "timeUK": "17:00",
-    "location": "Copper Box Arena, London",
-    "team1": "England",
-    "team2": "New Zealand",
-    "watch": "Sky Sports; Netball Pass"
-  },
   {
     "competition": "Vitality Netball International",
     "date": "2025-11-16",
