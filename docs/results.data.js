@@ -1,18 +1,7 @@
-/* Generated 2025-11-15T19:41:02.430Z */
+/* Generated 2025-11-15T19:43:17.614Z */
 window.RESULTS  = [
   {
-    "competition": "Vitality Netball International",
-    "date": "2025-11-15",
-    "timeUK": "17:00",
-    "location": "Copper Box Arena, London",
-    "team1": "England",
-    "team2": "New Zealand",
-    "watch": "Sky Sports; Netball Pass",
-    "score1": "58",
-    "score2": "61"
-  },
-  {
-    "competition": "Vitality Netball International",
+    "competition": "Vitality International Series",
     "date": "2025-11-15",
     "timeUK": "17:00",
     "location": "Copper Box Arena, London",
