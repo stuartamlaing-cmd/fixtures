@@ -1,4 +1,4 @@
-/* Generated 2025-11-15T22:42:30.452Z */
+/* Generated 2025-11-16T15:40:20.981Z */
 window.FIXTURES = [
   {
     "competition": "Vitality International Series",
@@ -7,7 +7,7 @@ window.FIXTURES = [
     "location": "Copper Box Arena, London",
     "team1": "England",
     "team2": "New Zealand",
-    "watch": "Sky Sports; Netball Pass"
+    "watch": "Sky Sports;"
   },
   {
     "competition": "Vitality International Series",
@@ -16,7 +16,7 @@ window.FIXTURES = [
     "location": "AO Arena, Manchester",
     "team1": "England",
     "team2": "New Zealand",
-    "watch": "Sky Sports; Netball Pass"
+    "watch": "Sky Sports;"
   },
   {
     "competition": "International Test series",
