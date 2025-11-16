@@ -1,4 +1,4 @@
-/* Generated 2025-11-16T15:40:20.985Z */
+/* Generated 2025-11-16T15:40:49.684Z */
 window.RESULTS  = [
   {
     "competition": "Vitality International Series",
@@ -7,7 +7,7 @@ window.RESULTS  = [
     "location": "Copper Box Arena, London",
     "team1": "England",
     "team2": "New Zealand",
-    "watch": "",
+    "watch": "Sky sports",
     "score1": "58",
     "score2": "61"
   },
