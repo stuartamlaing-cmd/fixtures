@@ -1,4 +1,4 @@
-/* Generated 2025-11-16T20:14:45.235Z */
+/* Generated 2025-11-16T21:29:07.778Z */
 window.FIXTURES = [
   {
     "competition": "Vitality International Series",
