@@ -1,4 +1,4 @@
-/* Generated 2025-11-16T21:29:07.778Z */
+/* Generated 2025-11-19T12:11:02.169Z */
 window.FIXTURES = [
   {
     "competition": "Vitality International Series",
@@ -169,7 +169,7 @@ window.FIXTURES = [
     "location": "National Indoor Sports Centre, Kingston, Jamaica",
     "team1": "Jamaica",
     "team2": "England",
-    "watch": "BBC Sport; Netball Pass"
+    "watch": "Netball Pass"
   },
   {
     "competition": "The Horizon Series",
