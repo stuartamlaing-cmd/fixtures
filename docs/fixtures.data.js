@@ -1,4 +1,4 @@
-/* Generated 2025-11-19T12:12:15.212Z */
+/* Generated 2025-11-19T12:23:29.630Z */
 window.FIXTURES = [
   {
     "competition": "Vitality International Series",
@@ -16,7 +16,16 @@ window.FIXTURES = [
     "location": "House Of Sport Cardiff",
     "team1": "Wales",
     "team2": "Zimbabwe",
-    "watch": ""
+    "watch": "TBC"
+  },
+  {
+    "competition": "International Test series",
+    "date": "2025-11-22",
+    "timeUK": "18:00",
+    "location": "House Of Sport Cardiff",
+    "team1": "Wales",
+    "team2": "Zimbabwe",
+    "watch": "TBC"
   },
   {
     "competition": "International Test series",
@@ -25,7 +34,7 @@ window.FIXTURES = [
     "location": "House Of Sport Cardiff",
     "team1": "Wales",
     "team2": "Zimbabwe",
-    "watch": "BBC Sport Wales Website;BBC iPlayer"
+    "watch": "TBC"
   },
   {
     "competition": "Celtic Cup 2025",
