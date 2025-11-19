@@ -1,4 +1,4 @@
-/* Generated 2025-11-19T12:11:02.169Z */
+/* Generated 2025-11-19T12:12:15.212Z */
 window.FIXTURES = [
   {
     "competition": "Vitality International Series",
@@ -16,7 +16,7 @@ window.FIXTURES = [
     "location": "House Of Sport Cardiff",
     "team1": "Wales",
     "team2": "Zimbabwe",
-    "watch": "BBC Sport Wales Website;BBC iPlayer"
+    "watch": ""
   },
   {
     "competition": "International Test series",
@@ -178,7 +178,7 @@ window.FIXTURES = [
     "location": "National Indoor Sports Centre, Kingston, Jamaica",
     "team1": "Jamaica",
     "team2": "England",
-    "watch": "BBC Sport; Netball Pass"
+    "watch": "Netball Pass"
   },
   {
     "competition": "The Horizon Series",
@@ -187,7 +187,7 @@ window.FIXTURES = [
     "location": "Copper Box Arena, London",
     "team1": "England",
     "team2": "Jamaica",
-    "watch": "BBC Sport; Netball Pass"
+    "watch": "Netball Pass"
   },
   {
     "competition": "The Horizon Series",
@@ -196,6 +196,6 @@ window.FIXTURES = [
     "location": "Copper Box Arena, London",
     "team1": "England",
     "team2": "Jamaica",
-    "watch": "BBC Sport; Netball Pass"
+    "watch": "Netball Pass"
   }
 ];
