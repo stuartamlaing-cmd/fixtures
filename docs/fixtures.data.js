@@ -1,23 +1,5 @@
-/* Generated 2025-11-19T12:23:29.630Z */
+/* Generated 2025-11-19T22:20:46.763Z */
 window.FIXTURES = [
-  {
-    "competition": "Vitality International Series",
-    "date": "2025-11-19",
-    "timeUK": "19:00",
-    "location": "AO Arena, Manchester",
-    "team1": "England",
-    "team2": "New Zealand",
-    "watch": "Sky Sports"
-  },
-  {
-    "competition": "International Test series",
-    "date": "2025-11-22",
-    "timeUK": "18:00",
-    "location": "House Of Sport Cardiff",
-    "team1": "Wales",
-    "team2": "Zimbabwe",
-    "watch": "TBC"
-  },
   {
     "competition": "International Test series",
     "date": "2025-11-22",
