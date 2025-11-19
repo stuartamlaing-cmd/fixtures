@@ -1,5 +1,16 @@
-/* Generated 2025-11-19T12:23:29.630Z */
+/* Generated 2025-11-19T22:20:46.773Z */
 window.RESULTS  = [
+  {
+    "competition": "Vitality International Series",
+    "date": "2025-11-19",
+    "timeUK": "19:00",
+    "location": "AO Arena, Manchester",
+    "team1": "England",
+    "team2": "New Zealand",
+    "watch": "Sky Sports",
+    "score1": "49",
+    "score2": ""
+  },
   {
     "competition": "Vitality International Series",
     "date": "2025-11-16",
