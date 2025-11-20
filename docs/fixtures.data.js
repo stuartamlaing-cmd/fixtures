@@ -1,4 +1,4 @@
-/* Generated 2025-11-19T22:20:46.763Z */
+/* Generated 2025-11-20T14:45:13.047Z */
 window.FIXTURES = [
   {
     "competition": "International Test series",
