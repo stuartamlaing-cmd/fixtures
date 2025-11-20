@@ -1,4 +1,4 @@
-/* Generated 2025-11-19T22:20:46.773Z */
+/* Generated 2025-11-20T14:45:13.054Z */
 window.RESULTS  = [
   {
     "competition": "Vitality International Series",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "New Zealand",
     "watch": "Sky Sports",
     "score1": "49",
-    "score2": ""
+    "score2": "55"
   },
   {
     "competition": "Vitality International Series",
