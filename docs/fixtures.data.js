@@ -1,23 +1,5 @@
-/* Generated 2025-11-21T14:50:41.666Z */
+/* Generated 2025-11-21T15:54:56.621Z */
 window.FIXTURES = [
-  {
-    "competition": "International Test series",
-    "date": "2025-11-22",
-    "timeUK": "18:00",
-    "location": "House Of Sport Cardiff",
-    "team1": "Wales",
-    "team2": "Zimbabwe",
-    "watch": "TBC"
-  },
-  {
-    "competition": "International Test series",
-    "date": "2025-11-23",
-    "timeUK": "15:30",
-    "location": "House Of Sport Cardiff",
-    "team1": "Wales",
-    "team2": "Zimbabwe",
-    "watch": "TBC"
-  },
   {
     "competition": "Celtic Cup 2025",
     "date": "2025-11-26",
@@ -160,7 +142,7 @@ window.FIXTURES = [
     "location": "National Indoor Sports Centre, Kingston, Jamaica",
     "team1": "Jamaica",
     "team2": "England",
-    "watch": "Netball Pass"
+    "watch": ""
   },
   {
     "competition": "The Horizon Series",
