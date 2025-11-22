@@ -1,4 +1,4 @@
-/* Generated 2025-11-21T15:54:56.621Z */
+/* Generated 2025-11-22T10:00:39.581Z */
 window.FIXTURES = [
   {
     "competition": "Celtic Cup 2025",
@@ -7,7 +7,7 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Uganda",
     "team2": "Namibia",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
+    "watch": "Netball Pass"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -134,24 +134,6 @@ window.FIXTURES = [
     "team1": "Scotland",
     "team2": "Zimbabwe",
     "watch": "BBC Sport Scotland Website;BBC iPlayer"
-  },
-  {
-    "competition": "The Horizon Series",
-    "date": "2025-12-06",
-    "timeUK": "00:00",
-    "location": "National Indoor Sports Centre, Kingston, Jamaica",
-    "team1": "Jamaica",
-    "team2": "England",
-    "watch": ""
-  },
-  {
-    "competition": "The Horizon Series",
-    "date": "2025-12-07",
-    "timeUK": "00:00",
-    "location": "National Indoor Sports Centre, Kingston, Jamaica",
-    "team1": "Jamaica",
-    "team2": "England",
-    "watch": "Netball Pass"
   },
   {
     "competition": "The Horizon Series",
