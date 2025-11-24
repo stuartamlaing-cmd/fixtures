@@ -1,4 +1,4 @@
-/* Generated 2025-11-22T10:00:39.581Z */
+/* Generated 2025-11-24T20:42:10.702Z */
 window.FIXTURES = [
   {
     "competition": "Celtic Cup 2025",
@@ -16,7 +16,7 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Zimbabwe",
     "team2": "Northern Ireland",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
+    "watch": "Netball Pass"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -25,7 +25,7 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Scotland",
     "team2": "Wales",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
+    "watch": "Netball Pass"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -34,7 +34,7 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Northern Ireland",
     "team2": "Uganda",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
+    "watch": "Netball Pass"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -43,7 +43,7 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Namibia",
     "team2": "Scotland",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
+    "watch": "Netball Pass"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -52,7 +52,7 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Wales",
     "team2": "Zimbabwe",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
+    "watch": "Netball Pass"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -61,7 +61,7 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Namibia",
     "team2": "Zimbabwe",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
+    "watch": "Netball Pass"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -70,7 +70,7 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Wales",
     "team2": "Northern Ireland",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
+    "watch": "Netball Pass"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -79,7 +79,7 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Scotland",
     "team2": "Uganda",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
+    "watch": "Netball Pass"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -88,7 +88,7 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Wales",
     "team2": "Namibia",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
+    "watch": "Netball Pass"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -97,7 +97,7 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Uganda",
     "team2": "Zimbabwe",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
+    "watch": "Netball Pass"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -106,7 +106,7 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Northern Ireland",
     "team2": "Scotland",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
+    "watch": "Netball Pass"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -115,7 +115,7 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Namibia",
     "team2": "Northern Ireland",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
+    "watch": "Netball Pass"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -124,7 +124,7 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Wales",
     "team2": "Uganda",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
+    "watch": "Netball Pass"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -133,7 +133,7 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Scotland",
     "team2": "Zimbabwe",
-    "watch": "BBC Sport Scotland Website;BBC iPlayer"
+    "watch": "Netball Pass"
   },
   {
     "competition": "The Horizon Series",
@@ -151,6 +151,6 @@ window.FIXTURES = [
     "location": "Copper Box Arena, London",
     "team1": "England",
     "team2": "Jamaica",
-    "watch": "Netball Pass"
+    "watch": ""
   }
 ];
