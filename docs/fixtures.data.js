@@ -1,4 +1,4 @@
-/* Generated 2025-11-24T20:46:01.922Z */
+/* Generated 2025-11-24T20:48:41.961Z */
 window.FIXTURES = [
   {
     "competition": "Celtic Cup 2025",
