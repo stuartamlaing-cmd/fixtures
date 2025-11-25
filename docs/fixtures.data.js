@@ -1,4 +1,4 @@
-/* Generated 2025-11-24T20:51:37.860Z */
+/* Generated 2025-11-25T18:53:04.824Z */
 window.FIXTURES = [
   {
     "competition": "Celtic Cup 2025",
@@ -25,7 +25,7 @@ window.FIXTURES = [
     "location": "Emirates Arena, Glasgow",
     "team1": "Scotland",
     "team2": "Wales",
-    "watch": "Netball Pass"
+    "watch": "Netball Pass; BBC iplayer"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -51,15 +51,6 @@ window.FIXTURES = [
     "timeUK": "19:30",
     "location": "Emirates Arena, Glasgow",
     "team1": "Wales",
-    "team2": "Zimbabwe",
-    "watch": "Netball Pass"
-  },
-  {
-    "competition": "Celtic Cup 2025",
-    "date": "2025-11-28",
-    "timeUK": "14:30",
-    "location": "Emirates Arena, Glasgow",
-    "team1": "Namibia",
     "team2": "Zimbabwe",
     "watch": "Netball Pass"
   },
