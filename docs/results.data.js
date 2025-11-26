@@ -1,4 +1,4 @@
-/* Generated 2025-11-26T20:57:56.452Z */
+/* Generated 2025-11-26T20:58:30.554Z */
 window.RESULTS  = [
   {
     "competition": "Vitality International Series",
