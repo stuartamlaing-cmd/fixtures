@@ -1,4 +1,4 @@
-/* Generated 2025-11-26T22:33:37.811Z */
+/* Generated 2025-11-26T22:35:14.128Z */
 window.RESULTS  = [
   {
     "competition": "Celtic Cup 2025",
@@ -31,7 +31,7 @@ window.RESULTS  = [
     "team2": "Namibia",
     "watch": "Netball Pass",
     "score1": "65",
-    "score2": ""
+    "score2": "0"
   },
   {
     "competition": "Vitality International Series",
