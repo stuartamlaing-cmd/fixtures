@@ -1,5 +1,16 @@
-/* Generated 2025-11-26T22:43:24.553Z */
+/* Generated 2025-11-27T16:57:55.781Z */
 window.RESULTS  = [
+  {
+    "competition": "Celtic Cup 2025",
+    "date": "2025-11-27",
+    "timeUK": "14:30",
+    "location": "Emirates Arena, Glasgow",
+    "team1": "Northern Ireland",
+    "team2": "Uganda",
+    "watch": "Netball Pass",
+    "score1": "45",
+    "score2": ""
+  },
   {
     "competition": "Celtic Cup 2025",
     "date": "2025-11-26",
@@ -31,7 +42,7 @@ window.RESULTS  = [
     "team2": "Namibia",
     "watch": "Netball Pass",
     "score1": "65",
-    "score2": "39"
+    "score2": "38"
   },
   {
     "competition": "Vitality International Series",
