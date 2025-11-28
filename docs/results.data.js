@@ -1,5 +1,16 @@
-/* Generated 2025-11-28T19:26:33.599Z */
+/* Generated 2025-11-28T19:30:32.603Z */
 window.RESULTS  = [
+  {
+    "competition": "Celtic Cup 2025",
+    "date": "2025-11-28",
+    "timeUK": "14:30",
+    "location": "Emirates Arena, Glasgow",
+    "team1": "Namibia",
+    "team2": "Zimbabwe",
+    "watch": "Netball Pass",
+    "score1": "39",
+    "score2": ""
+  },
   {
     "competition": "Celtic Cup 2025",
     "date": "2025-11-28",
