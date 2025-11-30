@@ -1,5 +1,16 @@
-/* Generated 2025-11-29T20:37:19.313Z */
+/* Generated 2025-11-30T18:27:29.923Z */
 window.RESULTS  = [
+  {
+    "competition": "Celtic Cup 2025",
+    "date": "2025-11-30",
+    "timeUK": "12:30",
+    "location": "Emirates Arena, Glasgow",
+    "team1": "Namibia",
+    "team2": "Northern Ireland",
+    "watch": "Netball Pass",
+    "score1": "43",
+    "score2": ""
+  },
   {
     "competition": "Celtic Cup 2025",
     "date": "2025-11-29",
@@ -31,7 +42,7 @@ window.RESULTS  = [
     "team2": "Scotland",
     "watch": "BBC iplayer; Netball Pass",
     "score1": "43",
-    "score2": ""
+    "score2": "60"
   },
   {
     "competition": "Celtic Cup 2025",
