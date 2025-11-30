@@ -1,4 +1,4 @@
-/* Generated 2025-11-30T20:48:22.860Z */
+/* Generated 2025-11-30T20:52:13.505Z */
 window.FIXTURES = [
   {
     "competition": "The Horizon Series",
