@@ -1,14 +1,5 @@
-/* Generated 2025-11-29T20:37:19.311Z */
+/* Generated 2025-11-30T18:27:29.923Z */
 window.FIXTURES = [
-  {
-    "competition": "Celtic Cup 2025",
-    "date": "2025-11-30",
-    "timeUK": "12:30",
-    "location": "Emirates Arena, Glasgow",
-    "team1": "Namibia",
-    "team2": "Northern Ireland",
-    "watch": "Netball Pass"
-  },
   {
     "competition": "Celtic Cup 2025",
     "date": "2025-11-30",
