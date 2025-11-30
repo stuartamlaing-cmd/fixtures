@@ -1,14 +1,5 @@
-/* Generated 2025-11-30T18:28:17.993Z */
+/* Generated 2025-11-30T18:28:52.114Z */
 window.FIXTURES = [
-  {
-    "competition": "Celtic Cup 2025",
-    "date": "2025-11-30",
-    "timeUK": "15:00",
-    "location": "Emirates Arena, Glasgow",
-    "team1": "Wales",
-    "team2": "Uganda",
-    "watch": "BBC iplayer; Netball Pass"
-  },
   {
     "competition": "Celtic Cup 2025",
     "date": "2025-11-30",
