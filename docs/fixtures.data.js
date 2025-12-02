@@ -1,4 +1,4 @@
-/* Generated 2025-12-02T11:42:28.258Z */
+/* Generated 2025-12-02T11:46:30.995Z */
 window.FIXTURES = [
   {
     "competition": "The Horizon Series",
@@ -19,7 +19,7 @@ window.FIXTURES = [
     "watch": "Netball Pass"
   },
   {
-    "competition": "",
+    "competition": "South Africa Test Series 2026",
     "date": "2026-01-29",
     "timeUK": "16:00",
     "location": "",
@@ -39,10 +39,10 @@ window.FIXTURES = [
   {
     "competition": "",
     "date": "2026-02-01",
-    "timeUK": "",
+    "timeUK": "14:00",
     "location": "",
-    "team1": "",
-    "team2": "",
-    "watch": ""
+    "team1": "South Africa",
+    "team2": "Vitality Roses",
+    "watch": "TBC"
   }
 ];
