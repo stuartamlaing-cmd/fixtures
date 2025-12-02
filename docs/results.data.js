@@ -1,4 +1,4 @@
-/* Generated 2025-12-02T11:42:28.258Z */
+/* Generated 2025-12-02T11:46:30.995Z */
 window.RESULTS  = [
   {
     "competition": "Celtic Cup 2025",
