@@ -1,4 +1,4 @@
-/* Generated 2025-12-02T11:41:26.771Z */
+/* Generated 2025-12-02T11:42:28.258Z */
 window.FIXTURES = [
   {
     "competition": "The Horizon Series",
@@ -30,6 +30,15 @@ window.FIXTURES = [
   {
     "competition": "",
     "date": "2026-01-31",
+    "timeUK": "15:00",
+    "location": "",
+    "team1": "South Africa",
+    "team2": "Vitality Roses",
+    "watch": "TBC"
+  },
+  {
+    "competition": "",
+    "date": "2026-02-01",
     "timeUK": "",
     "location": "",
     "team1": "",
