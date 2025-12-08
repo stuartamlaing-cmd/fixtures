@@ -1,4 +1,4 @@
-/* Generated 2025-12-02T11:46:30.995Z */
+/* Generated 2025-12-08T19:46:38.180Z */
 window.FIXTURES = [
   {
     "competition": "The Horizon Series",
@@ -7,7 +7,7 @@ window.FIXTURES = [
     "location": "Copper Box Arena, London",
     "team1": "England",
     "team2": "Jamaica",
-    "watch": "BBC TWO; Netball Pass"
+    "watch": "BBC TWO; BBC iplayer; BBC Sport website; Netball Pass"
   },
   {
     "competition": "The Horizon Series",
@@ -22,25 +22,25 @@ window.FIXTURES = [
     "competition": "South Africa Test Series 2026",
     "date": "2026-01-29",
     "timeUK": "16:00",
-    "location": "",
+    "location": "TBC",
     "team1": "South Africa",
     "team2": "Vitality Roses",
     "watch": "TBC"
   },
   {
-    "competition": "",
+    "competition": "South Africa Test Series 2026",
     "date": "2026-01-31",
     "timeUK": "15:00",
-    "location": "",
+    "location": "TBC",
     "team1": "South Africa",
     "team2": "Vitality Roses",
     "watch": "TBC"
   },
   {
-    "competition": "",
+    "competition": "South Africa Test Series 2026",
     "date": "2026-02-01",
     "timeUK": "14:00",
-    "location": "",
+    "location": "TBC",
     "team1": "South Africa",
     "team2": "Vitality Roses",
     "watch": "TBC"
