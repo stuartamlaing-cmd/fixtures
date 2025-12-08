@@ -1,4 +1,4 @@
-/* Generated 2025-12-08T19:47:36.436Z */
+/* Generated 2025-12-08T20:44:47.812Z */
 window.FIXTURES = [
   {
     "competition": "The Horizon Series",
@@ -7,7 +7,7 @@ window.FIXTURES = [
     "location": "Copper Box Arena, London",
     "team1": "England",
     "team2": "Jamaica",
-    "watch": "BBC TWO; BBC iplayer; BBC Sport website; Netball Pass"
+    "watch": "BBC TWO; BBC iplayer; BBC Sport; Netball Pass"
   },
   {
     "competition": "The Horizon Series",
