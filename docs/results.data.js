@@ -1,5 +1,16 @@
-/* Generated 2025-12-12T18:32:56.935Z */
+/* Generated 2025-12-13T17:05:06.936Z */
 window.RESULTS  = [
+  {
+    "competition": "The Horizon Series",
+    "date": "2025-12-13",
+    "timeUK": "14:15",
+    "location": "Copper Box Arena, London",
+    "team1": "England",
+    "team2": "Jamaica",
+    "watch": "BBC TWO; BBC iplayer; BBC Sport; Netball Pass",
+    "score1": "80",
+    "score2": ""
+  },
   {
     "competition": "Celtic Cup 2025",
     "date": "2025-11-30",
