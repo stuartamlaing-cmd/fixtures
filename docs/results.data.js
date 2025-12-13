@@ -1,4 +1,4 @@
-/* Generated 2025-12-13T17:05:06.936Z */
+/* Generated 2025-12-13T17:24:13.120Z */
 window.RESULTS  = [
   {
     "competition": "The Horizon Series",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "Jamaica",
     "watch": "BBC TWO; BBC iplayer; BBC Sport; Netball Pass",
     "score1": "80",
-    "score2": ""
+    "score2": "20"
   },
   {
     "competition": "Celtic Cup 2025",
