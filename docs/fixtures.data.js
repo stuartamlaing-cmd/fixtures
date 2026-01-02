@@ -1,4 +1,4 @@
-/* Generated 2026-01-02T09:11:29.348Z */
+/* Generated 2026-01-02T09:11:59.870Z */
 window.FIXTURES = [
   {
     "competition": "South Africa Test Series 2026",
@@ -48,10 +48,10 @@ window.FIXTURES = [
   {
     "competition": "Australia vs Jamaica Series",
     "date": "2026-02-12",
-    "timeUK": "",
+    "timeUK": "08:00",
     "location": "",
-    "team1": "",
-    "team2": "",
-    "watch": ""
+    "team1": "Australia",
+    "team2": "Jamaica",
+    "watch": "Netball Pass"
   }
 ];
