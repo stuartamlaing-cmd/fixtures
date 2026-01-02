@@ -1,4 +1,4 @@
-/* Generated 2025-12-14T18:43:26.035Z */
+/* Generated 2026-01-02T09:08:14.162Z */
 window.FIXTURES = [
   {
     "competition": "South Africa Test Series 2026",
