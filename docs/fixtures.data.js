@@ -1,4 +1,4 @@
-/* Generated 2026-01-13T19:45:30.314Z */
+/* Generated 2026-01-13T19:46:12.228Z */
 window.FIXTURES = [
   {
     "competition": "Nations Series",
@@ -8,15 +8,6 @@ window.FIXTURES = [
     "team1": "England Men",
     "team2": "New Zealand",
     "watch": "SG Sports live"
-  },
-  {
-    "competition": "South Africa Test Series 2026",
-    "date": "2026-01-29",
-    "timeUK": "16:00",
-    "location": "TBC",
-    "team1": "South Africa",
-    "team2": "Vitality Roses",
-    "watch": "TBC"
   },
   {
     "competition": "South Africa Test Series 2026",
