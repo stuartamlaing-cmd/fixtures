@@ -1,4 +1,4 @@
-/* Generated 2026-01-13T19:46:42.683Z */
+/* Generated 2026-01-13T19:56:49.701Z */
 window.RESULTS  = [
   {
     "competition": "Nations Series",
@@ -29,7 +29,7 @@ window.RESULTS  = [
     "location": "Singapore, Jurong East",
     "team1": "England Men",
     "team2": "UAE",
-    "watch": "Netball Pass",
+    "watch": "SG Sports live",
     "score1": "65",
     "score2": "16"
   },
