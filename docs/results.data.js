@@ -1,5 +1,38 @@
-/* Generated 2026-01-13T14:34:00.518Z */
+/* Generated 2026-01-13T19:30:53.213Z */
 window.RESULTS  = [
+  {
+    "competition": "Nations Series",
+    "date": "2026-01-13",
+    "timeUK": "11:30",
+    "location": "Singapore, Jurong East",
+    "team1": "England Men's",
+    "team2": "Australia",
+    "watch": "SG Sports live",
+    "score1": "28",
+    "score2": "72"
+  },
+  {
+    "competition": "Nations Series",
+    "date": "2026-01-12",
+    "timeUK": "11:30",
+    "location": "Singapore, Jurong East",
+    "team1": "England Men's",
+    "team2": "Singapore",
+    "watch": "SG Sports live",
+    "score1": "56",
+    "score2": "42"
+  },
+  {
+    "competition": "Nations Series",
+    "date": "2026-01-11",
+    "timeUK": "09:30",
+    "location": "Singapore, Jurong East",
+    "team1": "England Men's",
+    "team2": "UAE",
+    "watch": "SG Sports live",
+    "score1": "65",
+    "score2": "16"
+  },
   {
     "competition": "The Horizon Series",
     "date": "2025-12-14",
