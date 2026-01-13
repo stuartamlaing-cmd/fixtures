@@ -1,5 +1,14 @@
-/* Generated 2026-01-13T19:32:03.813Z */
+/* Generated 2026-01-13T19:33:06.182Z */
 window.FIXTURES = [
+  {
+    "competition": "Nations Series",
+    "date": "2026-01-14",
+    "timeUK": "09:00",
+    "location": "Singapore, Jurong East",
+    "team1": "England Men's",
+    "team2": "New Zealand",
+    "watch": "SG Sports live"
+  },
   {
     "competition": "South Africa Test Series 2026",
     "date": "2026-01-29",
@@ -53,14 +62,5 @@ window.FIXTURES = [
     "team1": "Australia",
     "team2": "Jamaica",
     "watch": "Netball Pass"
-  },
-  {
-    "competition": "Nations Series",
-    "date": "2026-02-16",
-    "timeUK": "09:00",
-    "location": "Singapore, Jurong East",
-    "team1": "England Men's",
-    "team2": "New Zealand",
-    "watch": "SG Sports live"
   }
 ];
