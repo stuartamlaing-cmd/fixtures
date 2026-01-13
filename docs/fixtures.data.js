@@ -1,4 +1,4 @@
-/* Generated 2026-01-13T19:33:06.182Z */
+/* Generated 2026-01-13T19:37:51.367Z */
 window.FIXTURES = [
   {
     "competition": "Nations Series",
