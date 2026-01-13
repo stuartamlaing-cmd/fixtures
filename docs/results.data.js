@@ -1,4 +1,4 @@
-/* Generated 2026-01-13T19:37:51.368Z */
+/* Generated 2026-01-13T19:41:02.989Z */
 window.RESULTS  = [
   {
     "competition": "Nations Series",
@@ -27,7 +27,7 @@ window.RESULTS  = [
     "date": "2026-01-11",
     "timeUK": "09:30",
     "location": "Singapore, Jurong East",
-    "team1": "England Men's",
+    "team1": "England Men",
     "team2": "UAE",
     "watch": "SG Sports live",
     "score1": "65",
