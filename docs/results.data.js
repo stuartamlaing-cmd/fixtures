@@ -1,4 +1,4 @@
-/* Generated 2026-01-13T14:32:44.329Z */
+/* Generated 2026-01-13T14:34:00.518Z */
 window.RESULTS  = [
   {
     "competition": "The Horizon Series",
