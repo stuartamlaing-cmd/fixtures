@@ -1,8 +1,8 @@
-/* Generated 2026-01-13T19:30:53.213Z */
+/* Generated 2026-01-13T19:31:28.047Z */
 window.RESULTS  = [
   {
     "competition": "Nations Series",
-    "date": "2026-01-13",
+    "date": "2026-02-15",
     "timeUK": "11:30",
     "location": "Singapore, Jurong East",
     "team1": "England Men's",
@@ -13,7 +13,7 @@ window.RESULTS  = [
   },
   {
     "competition": "Nations Series",
-    "date": "2026-01-12",
+    "date": "2026-02-14",
     "timeUK": "11:30",
     "location": "Singapore, Jurong East",
     "team1": "England Men's",
@@ -24,7 +24,7 @@ window.RESULTS  = [
   },
   {
     "competition": "Nations Series",
-    "date": "2026-01-11",
+    "date": "2026-02-13",
     "timeUK": "09:30",
     "location": "Singapore, Jurong East",
     "team1": "England Men's",
