@@ -1,5 +1,14 @@
-/* Generated 2026-01-13T14:34:00.518Z */
+/* Generated 2026-01-13T19:30:53.212Z */
 window.FIXTURES = [
+  {
+    "competition": "Nations Series",
+    "date": "2026-01-14",
+    "timeUK": "09:00",
+    "location": "Singapore, Jurong East",
+    "team1": "England Men's",
+    "team2": "New Zealand",
+    "watch": "SG Sports live"
+  },
   {
     "competition": "South Africa Test Series 2026",
     "date": "2026-01-29",
