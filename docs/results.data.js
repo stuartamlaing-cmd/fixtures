@@ -1,16 +1,5 @@
-/* Generated 2026-01-13T19:46:12.229Z */
+/* Generated 2026-01-13T19:46:42.683Z */
 window.RESULTS  = [
-  {
-    "competition": "South Africa Test Series 2026",
-    "date": "2026-01-29",
-    "timeUK": "16:00",
-    "location": "TBC",
-    "team1": "South Africa",
-    "team2": "Vitality Roses",
-    "watch": "TBC",
-    "score1": "10",
-    "score2": ""
-  },
   {
     "competition": "Nations Series",
     "date": "2026-01-13",
@@ -273,7 +262,7 @@ window.RESULTS  = [
     "team2": "New Zealand",
     "watch": "BBC Sport; BBC iPLAYER; Netball Pass",
     "score1": "48",
-    "score2": "80"
+    "score2": "800"
   },
   {
     "competition": "NZ Test Series 2025",
