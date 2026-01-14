@@ -1,4 +1,4 @@
-/* Generated 2026-01-14T14:03:45.064Z */
+/* Generated 2026-01-14T14:04:27.415Z */
 window.RESULTS  = [
   {
     "competition": "Nations Series",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "New Zealand",
     "watch": "SG Sports live",
     "score1": "49",
-    "score2": ""
+    "score2": "46"
   },
   {
     "competition": "Nations Series",
@@ -38,7 +38,7 @@ window.RESULTS  = [
     "date": "2026-01-11",
     "timeUK": "09:30",
     "location": "Singapore, Jurong East",
-    "team1": "England Men",
+    "team1": "England A",
     "team2": "UAE",
     "watch": "SG Sports live",
     "score1": "65",
