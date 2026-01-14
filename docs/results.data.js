@@ -1,5 +1,16 @@
-/* Generated 2026-01-13T20:01:09.560Z */
+/* Generated 2026-01-14T14:03:45.064Z */
 window.RESULTS  = [
+  {
+    "competition": "Nations Series",
+    "date": "2026-01-14",
+    "timeUK": "09:00",
+    "location": "Singapore, Jurong East",
+    "team1": "England Men",
+    "team2": "New Zealand",
+    "watch": "SG Sports live",
+    "score1": "49",
+    "score2": ""
+  },
   {
     "competition": "Nations Series",
     "date": "2026-01-13",
@@ -256,7 +267,7 @@ window.RESULTS  = [
   {
     "competition": "NZ Test Series 2025",
     "date": "2025-11-11",
-    "timeUK": "18:30",
+    "timeUK": "19:30",
     "location": "Play Sport Arena, East Kilbride",
     "team1": "Scotland",
     "team2": "New Zealand",
