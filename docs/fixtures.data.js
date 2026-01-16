@@ -1,13 +1,22 @@
-/* Generated 2026-01-16T15:15:11.333Z */
+/* Generated 2026-01-16T15:22:20.763Z */
 window.FIXTURES = [
   {
     "competition": "Nations Series Final",
     "date": "2026-01-17",
     "timeUK": "05:30",
     "location": "Singapore, Jurong East",
-    "team1": "EN",
-    "team2": "",
-    "watch": ""
+    "team1": "England A",
+    "team2": "Australia",
+    "watch": "SG Sports live"
+  },
+  {
+    "competition": "Nations Series Final",
+    "date": "2026-01-17",
+    "timeUK": "05:30",
+    "location": "Singapore, Jurong East",
+    "team1": "England A",
+    "team2": "Australia",
+    "watch": "SG Sports live"
   },
   {
     "competition": "South Africa Test Series 2026",
