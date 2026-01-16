@@ -1,11 +1,11 @@
-/* Generated 2026-01-16T15:14:38.451Z */
+/* Generated 2026-01-16T15:15:11.333Z */
 window.FIXTURES = [
   {
     "competition": "Nations Series Final",
     "date": "2026-01-17",
     "timeUK": "05:30",
-    "location": "",
-    "team1": "",
+    "location": "Singapore, Jurong East",
+    "team1": "EN",
     "team2": "",
     "watch": ""
   },
