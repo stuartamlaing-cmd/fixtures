@@ -1,9 +1,9 @@
-/* Generated 2026-01-16T11:39:44.905Z */
+/* Generated 2026-01-16T11:40:24.971Z */
 window.FIXTURES = [
   {
-    "competition": "",
+    "competition": "Nations Series - Semi Final",
     "date": "2026-01-16",
-    "timeUK": "",
+    "timeUK": "11:30",
     "location": "",
     "team1": "",
     "team2": "",
