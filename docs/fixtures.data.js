@@ -1,5 +1,14 @@
-/* Generated 2026-01-14T14:04:27.414Z */
+/* Generated 2026-01-16T11:39:44.905Z */
 window.FIXTURES = [
+  {
+    "competition": "",
+    "date": "2026-01-16",
+    "timeUK": "",
+    "location": "",
+    "team1": "",
+    "team2": "",
+    "watch": ""
+  },
   {
     "competition": "South Africa Test Series 2026",
     "date": "2026-01-29",
