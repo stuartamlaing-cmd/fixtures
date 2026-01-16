@@ -1,13 +1,13 @@
-/* Generated 2026-01-16T11:40:24.971Z */
+/* Generated 2026-01-16T11:40:58.988Z */
 window.FIXTURES = [
   {
     "competition": "Nations Series - Semi Final",
     "date": "2026-01-16",
     "timeUK": "11:30",
-    "location": "",
-    "team1": "",
-    "team2": "",
-    "watch": ""
+    "location": "Singapore, Jurong East",
+    "team1": "England A",
+    "team2": "New Zealand",
+    "watch": "SG Sports live"
   },
   {
     "competition": "South Africa Test Series 2026",
