@@ -1,5 +1,16 @@
-/* Generated 2026-01-16T15:22:20.766Z */
+/* Generated 2026-01-17T09:02:29.174Z */
 window.RESULTS  = [
+  {
+    "competition": "Nations Series Final",
+    "date": "2026-01-17",
+    "timeUK": "05:30",
+    "location": "Singapore, Jurong East",
+    "team1": "England A",
+    "team2": "Australia",
+    "watch": "SG Sports live",
+    "score1": "68",
+    "score2": ""
+  },
   {
     "competition": "Nations Series - Semi Final",
     "date": "2026-01-16",
