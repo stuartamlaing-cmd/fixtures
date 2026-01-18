@@ -1,4 +1,4 @@
-/* Generated 2026-01-18T20:37:42.962Z */
+/* Generated 2026-01-18T20:40:17.449Z */
 window.RESULTS  = [
   {
     "competition": "Nations Series Final",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "Australia",
     "watch": "SG Sports live",
     "score1": "24",
-    "score2": "24"
+    "score2": "68"
   },
   {
     "competition": "Nations Series - Semi Final",
