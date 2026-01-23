@@ -1,10 +1,10 @@
-/* Generated 2026-01-23T19:08:08.885Z */
+/* Generated 2026-01-23T19:10:14.845Z */
 window.FIXTURES = [
   {
     "competition": "South Africa Test Series 2026",
     "date": "2026-01-29",
     "timeUK": "16:00",
-    "location": "TBC",
+    "location": "Ellis Park Indoor Arena",
     "team1": "South Africa",
     "team2": "Vitality Roses",
     "watch": "Sky Sports"
@@ -16,7 +16,7 @@ window.FIXTURES = [
     "location": "TBC",
     "team1": "South Africa",
     "team2": "Vitality Roses",
-    "watch": "TBC"
+    "watch": "Sky Sports"
   },
   {
     "competition": "South Africa Test Series 2026",
@@ -25,7 +25,7 @@ window.FIXTURES = [
     "location": "TBC",
     "team1": "South Africa",
     "team2": "Vitality Roses",
-    "watch": "TBC"
+    "watch": "Sky Sports"
   },
   {
     "competition": "Australia vs Jamaica Series",
