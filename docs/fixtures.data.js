@@ -1,4 +1,4 @@
-/* Generated 2026-01-18T20:40:17.447Z */
+/* Generated 2026-01-23T19:08:08.885Z */
 window.FIXTURES = [
   {
     "competition": "South Africa Test Series 2026",
@@ -7,7 +7,7 @@ window.FIXTURES = [
     "location": "TBC",
     "team1": "South Africa",
     "team2": "Vitality Roses",
-    "watch": "TBC"
+    "watch": "Sky Sports"
   },
   {
     "competition": "South Africa Test Series 2026",
