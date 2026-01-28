@@ -1,4 +1,4 @@
-/* Generated 2026-01-28T18:15:42.179Z */
+/* Generated 2026-01-28T18:16:17.816Z */
 window.FIXTURES = [
   {
     "competition": "SPAR Challenge Series 2026",
@@ -10,7 +10,7 @@ window.FIXTURES = [
     "watch": "Sky Sports"
   },
   {
-    "competition": "South Africa Test Series 2026",
+    "competition": "SPAR Challenge Series 2026",
     "date": "2026-01-31",
     "timeUK": "15:00",
     "location": "Ellis Park Indoor Arena",
@@ -19,7 +19,7 @@ window.FIXTURES = [
     "watch": "Sky Sports"
   },
   {
-    "competition": "South Africa Test Series 2026",
+    "competition": "Spar Challenge Series 2026",
     "date": "2026-02-01",
     "timeUK": "14:00",
     "location": "Ellis Park Indoor Arena",
