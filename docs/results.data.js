@@ -1,4 +1,4 @@
-/* Generated 2026-01-28T20:31:41.554Z */
+/* Generated 2026-01-28T20:34:11.292Z */
 window.RESULTS  = [
   {
     "competition": "Nations Series Final",
