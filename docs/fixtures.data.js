@@ -1,4 +1,4 @@
-/* Generated 2026-01-28T20:34:11.291Z */
+/* Generated 2026-01-28T20:34:43.134Z */
 window.FIXTURES = [
   {
     "competition": "SPAR Challenge Series 2026",
@@ -16,7 +16,7 @@ window.FIXTURES = [
     "location": "Ellis Park Indoor Arena",
     "team1": "South Africa",
     "team2": "Vitality Roses",
-    "watch": "Sky Sports; Sky sports Youtube channel"
+    "watch": "Sky Sports; Sky Sports Youtube"
   },
   {
     "competition": "SPAR Challenge Series 2026",
@@ -25,7 +25,7 @@ window.FIXTURES = [
     "location": "Ellis Park Indoor Arena",
     "team1": "South Africa",
     "team2": "Vitality Roses",
-    "watch": "Sky Sports; Sky sports Youtube channel"
+    "watch": "Sky Sports; Sky Sports Youtube"
   },
   {
     "competition": "Australia vs Jamaica Series",
