@@ -1,4 +1,4 @@
-/* Generated 2026-01-29T19:24:46.405Z */
+/* Generated 2026-01-29T20:05:40.778Z */
 window.RESULTS  = [
   {
     "competition": "SPAR Challenge Series 2026",
@@ -9,7 +9,18 @@ window.RESULTS  = [
     "team2": "Vitality Roses",
     "watch": "Sky Sports; Sky Sports Youtube",
     "score1": "52",
-    "score2": ""
+    "score2": "48"
+  },
+  {
+    "competition": "SPAR Challenge Series 2026",
+    "date": "2026-01-29",
+    "timeUK": "16:00",
+    "location": "Ellis Park Indoor Arena",
+    "team1": "South Africa",
+    "team2": "Vitality Roses",
+    "watch": "Sky Sports; Sky Sports Youtube",
+    "score1": "52",
+    "score2": "48"
   },
   {
     "competition": "Nations Series Final",
