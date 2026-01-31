@@ -1,4 +1,4 @@
-/* Generated 2026-01-31T18:59:23.355Z */
+/* Generated 2026-01-31T18:59:55.114Z */
 window.FIXTURES = [
   {
     "competition": "SPAR Challenge Series 2026",
