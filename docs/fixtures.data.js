@@ -1,14 +1,5 @@
-/* Generated 2026-01-29T20:05:40.778Z */
+/* Generated 2026-01-31T18:59:23.355Z */
 window.FIXTURES = [
-  {
-    "competition": "SPAR Challenge Series 2026",
-    "date": "2026-01-31",
-    "timeUK": "15:00",
-    "location": "Ellis Park Indoor Arena",
-    "team1": "South Africa",
-    "team2": "Vitality Roses",
-    "watch": "Sky Sports; Sky Sports Youtube"
-  },
   {
     "competition": "SPAR Challenge Series 2026",
     "date": "2026-02-01",
