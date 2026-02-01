@@ -1,4 +1,4 @@
-/* Generated 2026-02-01T15:36:23.261Z */
+/* Generated 2026-02-01T15:38:51.129Z */
 window.RESULTS  = [
   {
     "competition": "SPAR Challenge Series 2026",
@@ -8,8 +8,8 @@ window.RESULTS  = [
     "team1": "South Africa",
     "team2": "Vitality Roses",
     "watch": "Sky Sports; Sky Sports Youtube",
-    "score1": "50",
-    "score2": ""
+    "score1": "65",
+    "score2": "50"
   },
   {
     "competition": "SPAR Challenge Series 2026",
