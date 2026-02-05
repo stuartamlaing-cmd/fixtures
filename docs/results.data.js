@@ -1,5 +1,16 @@
-/* Generated 2026-02-01T15:38:51.129Z */
+/* Generated 2026-02-05T13:50:29.125Z */
 window.RESULTS  = [
+  {
+    "competition": "Australia vs Jamaica Series",
+    "date": "2026-02-05",
+    "timeUK": "08:00",
+    "location": "Adelaide Entertainment Centre",
+    "team1": "Australia",
+    "team2": "Jamaica",
+    "watch": "Netball Pass",
+    "score1": "72",
+    "score2": ""
+  },
   {
     "competition": "SPAR Challenge Series 2026",
     "date": "2026-02-01",
