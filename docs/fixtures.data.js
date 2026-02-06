@@ -1,4 +1,4 @@
-/* Generated 2026-02-05T13:50:29.124Z */
+/* Generated 2026-02-06T11:53:01.787Z */
 window.FIXTURES = [
   {
     "competition": "Australia vs Jamaica Series",
