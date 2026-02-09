@@ -1,4 +1,4 @@
-/* Generated 2026-02-09T09:04:03.832Z */
+/* Generated 2026-02-09T09:06:40.017Z */
 window.FIXTURES = [
   {
     "competition": "Australia vs Jamaica Series",
@@ -119,7 +119,7 @@ window.FIXTURES = [
   },
   {
     "competition": "NSL - Super Cup",
-    "date": "2026-03-05",
+    "date": "2026-02-21",
     "timeUK": "17:45",
     "location": "Utilita Arena, Sheffield",
     "team1": "1st Group 1",
@@ -128,7 +128,7 @@ window.FIXTURES = [
   },
   {
     "competition": "NSL - Super Cup",
-    "date": "2026-03-06",
+    "date": "2026-02-21",
     "timeUK": "18:05",
     "location": "Utilita Arena, Sheffield",
     "team1": "2nd Group 1",
@@ -137,7 +137,7 @@ window.FIXTURES = [
   },
   {
     "competition": "NSL - Super Cup",
-    "date": "2026-03-07",
+    "date": "2026-02-21",
     "timeUK": "18:45",
     "location": "Utilita Arena, Sheffield",
     "team1": "Winner of Semi-Final 1",
