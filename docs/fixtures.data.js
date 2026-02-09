@@ -1,4 +1,4 @@
-/* Generated 2026-02-09T09:03:31.735Z */
+/* Generated 2026-02-09T09:04:03.832Z */
 window.FIXTURES = [
   {
     "competition": "Australia vs Jamaica Series",
@@ -74,7 +74,7 @@ window.FIXTURES = [
   },
   {
     "competition": "NSL - Super Cup",
-    "date": "2026-02-28",
+    "date": "2026-02-21",
     "timeUK": "14:55",
     "location": "Utilita Arena, Sheffield",
     "team1": "London Mavericks",
@@ -83,7 +83,7 @@ window.FIXTURES = [
   },
   {
     "competition": "NSL - Super Cup",
-    "date": "2026-03-01",
+    "date": "2026-02-21",
     "timeUK": "15:50",
     "location": "Utilita Arena, Sheffield",
     "team1": "Nottingham Forest",
@@ -92,7 +92,7 @@ window.FIXTURES = [
   },
   {
     "competition": "NSL - Super Cup",
-    "date": "2026-03-02",
+    "date": "2026-02-21",
     "timeUK": "16:10",
     "location": "Utilita Arena, Sheffield",
     "team1": "Manchester Thunder",
@@ -101,7 +101,7 @@ window.FIXTURES = [
   },
   {
     "competition": "NSL - Super Cup",
-    "date": "2026-03-03",
+    "date": "2026-02-21",
     "timeUK": "16:30",
     "location": "Utilita Arena, Sheffield",
     "team1": "NIC Leeds Rhinos",
@@ -110,7 +110,7 @@ window.FIXTURES = [
   },
   {
     "competition": "NSL - Super Cup",
-    "date": "2026-03-04",
+    "date": "2026-02-21",
     "timeUK": "16:50",
     "location": "Utilita Arena, Sheffield",
     "team1": "Birmingham Panthers",
