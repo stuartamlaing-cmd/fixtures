@@ -1,4 +1,4 @@
-/* Generated 2026-02-09T09:04:03.833Z */
+/* Generated 2026-02-09T09:06:40.018Z */
 window.RESULTS  = [
   {
     "competition": "Australia vs Jamaica Series",
@@ -8,7 +8,7 @@ window.RESULTS  = [
     "team1": "Australia",
     "team2": "Jamaica",
     "watch": "Netball Pass",
-    "score1": "",
+    "score1": "73",
     "score2": ""
   },
   {
