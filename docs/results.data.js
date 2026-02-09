@@ -1,5 +1,16 @@
-/* Generated 2026-02-06T13:37:13.263Z */
+/* Generated 2026-02-09T09:01:45.788Z */
 window.RESULTS  = [
+  {
+    "competition": "Australia vs Jamaica Series",
+    "date": "2026-02-08",
+    "timeUK": "08:00",
+    "location": "RAC Arena, Perth",
+    "team1": "Australia",
+    "team2": "Jamaica",
+    "watch": "Netball Pass",
+    "score1": "",
+    "score2": ""
+  },
   {
     "competition": "Australia vs Jamaica Series",
     "date": "2026-02-05",
