@@ -1,5 +1,16 @@
-/* Generated 2026-02-09T09:06:40.018Z */
+/* Generated 2026-02-12T12:57:51.274Z */
 window.RESULTS  = [
+  {
+    "competition": "Australia vs Jamaica Series",
+    "date": "2026-02-12",
+    "timeUK": "08:00",
+    "location": "John Cain Arena, Melbourne, Australia",
+    "team1": "Australia",
+    "team2": "Jamaica",
+    "watch": "Netball Pass",
+    "score1": "80",
+    "score2": ""
+  },
   {
     "competition": "Australia vs Jamaica Series",
     "date": "2026-02-08",
@@ -9,7 +20,7 @@ window.RESULTS  = [
     "team2": "Jamaica",
     "watch": "Netball Pass",
     "score1": "73",
-    "score2": ""
+    "score2": "41"
   },
   {
     "competition": "Australia vs Jamaica Series",
