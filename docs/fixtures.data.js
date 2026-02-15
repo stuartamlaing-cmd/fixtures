@@ -1,4 +1,4 @@
-/* Generated 2026-02-15T17:51:32.531Z */
+/* Generated 2026-02-15T17:52:01.972Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
@@ -16,7 +16,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "Manchester Thunder",
     "team2": "NIC Leeds Rhinos",
-    "watch": "SKY sports mix"
+    "watch": "Sky Sports mix"
   },
   {
     "competition": "NSL - Super Cup",
@@ -25,7 +25,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "London Pulse",
     "team2": "London Mavericks",
-    "watch": "SKY sports mix"
+    "watch": "Sky Sports mix"
   },
   {
     "competition": "NSL - Super Cup",
@@ -34,7 +34,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "Birmingham Panthers",
     "team2": "Lexisnexis Dragons",
-    "watch": "SKY sports mix"
+    "watch": "Sky Sports mix"
   },
   {
     "competition": "NSL - Super Cup",
@@ -43,7 +43,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "London Pulse",
     "team2": "Manchester Thunder",
-    "watch": "SKY sports mix"
+    "watch": "Sky Sports mix"
   },
   {
     "competition": "NSL - Super Cup",
@@ -52,7 +52,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "Nottingham Forest",
     "team2": "Birmingham Panthers",
-    "watch": "SKY sports mix"
+    "watch": "Sky Sports mix"
   },
   {
     "competition": "NSL - Super Cup",
@@ -61,7 +61,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "Lexisnexis Dragons",
     "team2": "Loughborough Lightning",
-    "watch": "SKY sports mix"
+    "watch": "Sky Sports mix"
   },
   {
     "competition": "NSL - Super Cup",
@@ -70,7 +70,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "London Mavericks",
     "team2": "NIC Leeds Rhinos",
-    "watch": "SKY sports mix"
+    "watch": "Sky Sports mix"
   },
   {
     "competition": "NSL - Super Cup",
@@ -79,7 +79,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "Nottingham Forest",
     "team2": "Lexisnexis Dragons",
-    "watch": "SKY sports mix"
+    "watch": "Sky Sports mix"
   },
   {
     "competition": "NSL - Super Cup",
@@ -88,7 +88,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "Manchester Thunder",
     "team2": "London Mavericks",
-    "watch": "SKY sports mix"
+    "watch": "Sky Sports mix"
   },
   {
     "competition": "NSL - Super Cup",
@@ -97,7 +97,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "NIC Leeds Rhinos",
     "team2": "London Pulse",
-    "watch": "SKY sports mix"
+    "watch": "Sky Sports mix"
   },
   {
     "competition": "NSL - Super Cup",
@@ -106,7 +106,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "Birmingham Panthers",
     "team2": "Loughborough Lightning",
-    "watch": "SKY sports mix"
+    "watch": "Sky Sports mix"
   },
   {
     "competition": "NSL - Super Cup",
@@ -115,7 +115,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "1st Group 1",
     "team2": "2nd Group 2",
-    "watch": "SKY sports mix"
+    "watch": "Sky Sports mix"
   },
   {
     "competition": "NSL - Super Cup",
@@ -124,7 +124,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "2nd Group 1",
     "team2": "1st Group2",
-    "watch": "SKY sports mix"
+    "watch": "Sky Sports mix"
   },
   {
     "competition": "NSL - Super Cup",
@@ -133,7 +133,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "Winner of Semi-Final 1",
     "team2": "Winner of Semi-Final 2",
-    "watch": "SKY sports mix"
+    "watch": "Sky Sports mix"
   },
   {
     "competition": "NSL- Round 1",
@@ -160,7 +160,7 @@ window.FIXTURES = [
     "location": "Sir David Wallace Arena",
     "team1": "Loughborough Lightning",
     "team2": "Lexisnexis Dragons",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 1",
