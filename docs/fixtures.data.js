@@ -1,4 +1,4 @@
-/* Generated 2026-02-15T17:52:01.972Z */
+/* Generated 2026-02-15T17:52:35.032Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
@@ -142,7 +142,7 @@ window.FIXTURES = [
     "location": "Copper Box Arena",
     "team1": "London Pulse",
     "team2": "Manchester Thunder",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 1",
@@ -169,7 +169,7 @@ window.FIXTURES = [
     "location": "Worcester Arena",
     "team1": "Birmingham Panthers",
     "team2": "NIC Leeds Rhinos",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 2",
@@ -178,7 +178,7 @@ window.FIXTURES = [
     "location": "House Of Sport",
     "team1": "Lexisnexis Dragons",
     "team2": "London Pulse",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 2",
@@ -187,7 +187,7 @@ window.FIXTURES = [
     "location": "Canon Medical Arena",
     "team1": "NIC Leeds Rhinos",
     "team2": "Loughborough Lightning",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 2",
@@ -196,7 +196,7 @@ window.FIXTURES = [
     "location": "Belle Vue Arena",
     "team1": "Manchester Thunder",
     "team2": "London Mavericks",
-    "watch": "BBC Sport; Netball Pass"
+    "watch": "BBC Sports; Netball Pass"
   },
   {
     "competition": "NSL- Round 2",
