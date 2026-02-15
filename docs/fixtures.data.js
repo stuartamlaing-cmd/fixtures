@@ -1,4 +1,4 @@
-/* Generated 2026-02-15T17:52:35.032Z */
+/* Generated 2026-02-15T18:58:31.535Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
@@ -205,7 +205,7 @@ window.FIXTURES = [
     "location": "Motorpoint Arena",
     "team1": "Nottingham Forest",
     "team2": "Birmingham Panthers",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 3",
@@ -214,7 +214,7 @@ window.FIXTURES = [
     "location": "House Of Sport",
     "team1": "Lexisnexis Dragons",
     "team2": "Manchester Thunder",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 3",
@@ -223,7 +223,7 @@ window.FIXTURES = [
     "location": "Motorpoint Arena",
     "team1": "Birmingham Panthers",
     "team2": "London Mavericks",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 3",
@@ -232,7 +232,7 @@ window.FIXTURES = [
     "location": "Motorpoint Arena",
     "team1": "Loughborough Lightning",
     "team2": "London Pulse",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 3",
@@ -250,7 +250,7 @@ window.FIXTURES = [
     "location": "Canon Medical Arena",
     "team1": "NIC Leeds Rhinos",
     "team2": "Lexisnexis Dragons",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 4",
@@ -259,7 +259,7 @@ window.FIXTURES = [
     "location": "Utilita Arena",
     "team1": "Birmingham Panthers",
     "team2": "Manchester Thunder",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 4",
@@ -268,7 +268,7 @@ window.FIXTURES = [
     "location": "Essex Sports Arena",
     "team1": "London Mavericks",
     "team2": "Loughborough Lightning",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 4",
@@ -286,7 +286,7 @@ window.FIXTURES = [
     "location": "Canon Medical Arena",
     "team1": "NIC Leeds Rhinos",
     "team2": "London Pulse",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 5",
@@ -295,7 +295,7 @@ window.FIXTURES = [
     "location": "House Of Sport",
     "team1": "Lexisnexis Dragons",
     "team2": "London Mavericks",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 5",
@@ -304,7 +304,7 @@ window.FIXTURES = [
     "location": "Belle Vue Arena",
     "team1": "Manchester Thunder",
     "team2": "Nottingham Forest",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 5",
@@ -322,7 +322,7 @@ window.FIXTURES = [
     "location": "Motorpoint Arena",
     "team1": "Nottingham Forest",
     "team2": "Lexisnexis Dragons",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 6",
@@ -340,7 +340,7 @@ window.FIXTURES = [
     "location": "Motorpoint Arena",
     "team1": "Loughborough Lightning",
     "team2": "Manchester Thunder",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 6",
@@ -349,7 +349,7 @@ window.FIXTURES = [
     "location": "Hertfordshire Sports Village",
     "team1": "London Mavericks",
     "team2": "NIC Leeds Rhinos",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 7",
@@ -358,7 +358,7 @@ window.FIXTURES = [
     "location": "Copper Box Arena",
     "team1": "London Pulse",
     "team2": "London Mavericks",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 7",
@@ -376,7 +376,7 @@ window.FIXTURES = [
     "location": "Belle Vue Arena",
     "team1": "Manchester Thunder",
     "team2": "NIC Leeds Rhinos",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 7",
@@ -385,7 +385,7 @@ window.FIXTURES = [
     "location": "Motorpoint Arena",
     "team1": "Nottingham Forest",
     "team2": "Loughborough Lightning",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 8",
@@ -394,7 +394,7 @@ window.FIXTURES = [
     "location": "Worcester Arena",
     "team1": "Birmingham Panthers",
     "team2": "Nottingham Forest",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 8",
@@ -403,7 +403,7 @@ window.FIXTURES = [
     "location": "Belle Vue Arena",
     "team1": "Manchester Thunder",
     "team2": "Lexisnexis Dragons",
-    "watch": "Sky Sports; Sky Sport YouTube; Netball Pass"
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 8",
