@@ -1,4 +1,4 @@
-/* Generated 2026-02-15T17:01:48.362Z */
+/* Generated 2026-02-15T17:10:43.300Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
@@ -7,7 +7,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "Loughborough Lightning",
     "team2": "Nottingham Forest",
-    "watch": ""
+    "watch": "SKY sports mix"
   },
   {
     "competition": "NSL - Super Cup",
