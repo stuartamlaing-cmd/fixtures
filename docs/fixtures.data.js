@@ -1,4 +1,4 @@
-/* Generated 2026-02-13T15:04:49.409Z */
+/* Generated 2026-02-15T17:01:48.362Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
@@ -134,5 +134,14 @@ window.FIXTURES = [
     "team1": "Winner of Semi-Final 1",
     "team2": "Winner of Semi-Final 2",
     "watch": ""
+  },
+  {
+    "competition": "NSL- Round 1",
+    "date": "2026-02-27",
+    "timeUK": "19:30",
+    "location": "Copper Box Arena",
+    "team1": "London Pulse",
+    "team2": "Manchester Thunder",
+    "watch": "Sky Sports"
   }
 ];
