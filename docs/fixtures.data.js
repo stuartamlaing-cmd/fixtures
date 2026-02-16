@@ -1,4 +1,4 @@
-/* Generated 2026-02-16T11:48:11.687Z */
+/* Generated 2026-02-16T11:49:45.307Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
@@ -223,7 +223,7 @@ window.FIXTURES = [
     "location": "Motorpoint Arena",
     "team1": "Birmingham Panthers",
     "team2": "London Mavericks",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
+    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 3",
@@ -232,7 +232,7 @@ window.FIXTURES = [
     "location": "Motorpoint Arena",
     "team1": "Loughborough Lightning",
     "team2": "London Pulse",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
+    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 3",
@@ -250,7 +250,7 @@ window.FIXTURES = [
     "location": "Canon Medical Arena",
     "team1": "NIC Leeds Rhinos",
     "team2": "Lexisnexis Dragons",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
+    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 4",
