@@ -1,4 +1,4 @@
-/* Generated 2026-02-15T18:58:31.535Z */
+/* Generated 2026-02-16T11:33:34.880Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
@@ -142,7 +142,7 @@ window.FIXTURES = [
     "location": "Copper Box Arena",
     "team1": "London Pulse",
     "team2": "Manchester Thunder",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
+    "watch": "Sky Sports+; Sky Sports Mix; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 1",
