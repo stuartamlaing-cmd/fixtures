@@ -1,4 +1,4 @@
-/* Generated 2026-02-16T11:52:17.312Z */
+/* Generated 2026-02-16T11:53:00.471Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
@@ -322,7 +322,7 @@ window.FIXTURES = [
     "location": "Motorpoint Arena",
     "team1": "Nottingham Forest",
     "team2": "Lexisnexis Dragons",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
+    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 6",
