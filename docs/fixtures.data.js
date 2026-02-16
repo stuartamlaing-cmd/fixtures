@@ -1,4 +1,4 @@
-/* Generated 2026-02-16T11:34:24.412Z */
+/* Generated 2026-02-16T11:48:11.687Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
@@ -214,7 +214,7 @@ window.FIXTURES = [
     "location": "House Of Sport",
     "team1": "Lexisnexis Dragons",
     "team2": "Manchester Thunder",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
+    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 3",
