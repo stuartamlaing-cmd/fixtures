@@ -1,4 +1,4 @@
-/* Generated 2026-02-16T11:53:00.471Z */
+/* Generated 2026-02-16T11:54:39.107Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
@@ -340,7 +340,7 @@ window.FIXTURES = [
     "location": "Motorpoint Arena",
     "team1": "Loughborough Lightning",
     "team2": "Manchester Thunder",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
+    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 6",
