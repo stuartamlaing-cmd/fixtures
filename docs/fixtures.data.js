@@ -1,4 +1,4 @@
-/* Generated 2026-02-16T11:54:39.107Z */
+/* Generated 2026-02-16T11:55:18.201Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
@@ -358,7 +358,7 @@ window.FIXTURES = [
     "location": "Copper Box Arena",
     "team1": "London Pulse",
     "team2": "London Mavericks",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
+    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 7",
