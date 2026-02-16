@@ -1,4 +1,4 @@
-/* Generated 2026-02-16T11:33:34.880Z */
+/* Generated 2026-02-16T11:34:24.412Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
@@ -187,7 +187,7 @@ window.FIXTURES = [
     "location": "Canon Medical Arena",
     "team1": "NIC Leeds Rhinos",
     "team2": "Loughborough Lightning",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
+    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 2",
