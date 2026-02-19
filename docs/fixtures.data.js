@@ -1,4 +1,4 @@
-/* Generated 2026-02-19T15:08:36.092Z */
+/* Generated 2026-02-19T20:56:04.814Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
@@ -79,7 +79,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "Nottingham Forest",
     "team2": "Lexisnexis Dragons",
-    "watch": "Sky Sports mix"
+    "watch": "Sky Sports mix; Netball Pass"
   },
   {
     "competition": "NSL - Super Cup",
@@ -88,7 +88,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "Manchester Thunder",
     "team2": "London Mavericks",
-    "watch": "Sky Sports mix"
+    "watch": "Sky Sports mix; Netball Pass"
   },
   {
     "competition": "NSL - Super Cup",
@@ -97,7 +97,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "NIC Leeds Rhinos",
     "team2": "London Pulse",
-    "watch": "Sky Sports mix"
+    "watch": "Sky Sports mix; Netball Pass"
   },
   {
     "competition": "NSL - Super Cup",
@@ -106,7 +106,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "Birmingham Panthers",
     "team2": "Loughborough Lightning",
-    "watch": "Sky Sports mix"
+    "watch": "Sky Sports mix; Netball Pass"
   },
   {
     "competition": "NSL - Super Cup",
@@ -115,7 +115,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "1st Group 1",
     "team2": "2nd Group 2",
-    "watch": "Sky Sports mix"
+    "watch": "Sky Sports mix; Netball Pass"
   },
   {
     "competition": "NSL - Super Cup",
@@ -124,7 +124,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "2nd Group 1",
     "team2": "1st Group2",
-    "watch": "Sky Sports mix"
+    "watch": "Sky Sports mix; Netball Pass"
   },
   {
     "competition": "NSL - Super Cup",
@@ -133,7 +133,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "Winner of Semi-Final 1",
     "team2": "Winner of Semi-Final 2",
-    "watch": "Sky Sports mix"
+    "watch": "Sky Sports mix; Netball Pass"
   },
   {
     "competition": "NSL- Round 1",
