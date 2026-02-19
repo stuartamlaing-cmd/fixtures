@@ -1,4 +1,4 @@
-/* Generated 2026-02-16T11:55:18.201Z */
+/* Generated 2026-02-19T15:08:02.038Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
@@ -7,7 +7,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "Loughborough Lightning",
     "team2": "Nottingham Forest",
-    "watch": "Sky Sports mix"
+    "watch": "Sky Sports mix; Netball Pass"
   },
   {
     "competition": "NSL - Super Cup",
@@ -16,7 +16,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "Manchester Thunder",
     "team2": "NIC Leeds Rhinos",
-    "watch": "Sky Sports mix"
+    "watch": "Sky Sports mix; Netball Pass"
   },
   {
     "competition": "NSL - Super Cup",
@@ -394,7 +394,7 @@ window.FIXTURES = [
     "location": "Worcester Arena",
     "team1": "Birmingham Panthers",
     "team2": "Nottingham Forest",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
+    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 8",
