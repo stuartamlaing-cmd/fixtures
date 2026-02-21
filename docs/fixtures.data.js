@@ -1,4 +1,4 @@
-/* Generated 2026-02-21T12:03:36.759Z */
+/* Generated 2026-02-21T12:04:20.570Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
@@ -115,7 +115,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "1st Group 1",
     "team2": "2nd Group 2",
-    "watch": "Sky Sports mix; Netball Pass"
+    "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Super Cup",
@@ -124,7 +124,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "2nd Group 1",
     "team2": "1st Group2",
-    "watch": "Sky Sports mix; Netball Pass"
+    "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Super Cup",
@@ -133,7 +133,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "Winner of Semi-Final 1",
     "team2": "Winner of Semi-Final 2",
-    "watch": "Sky Sports mix; Netball Pass"
+    "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 1",
