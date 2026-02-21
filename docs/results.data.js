@@ -1,4 +1,4 @@
-/* Generated 2026-02-21T17:28:05.783Z */
+/* Generated 2026-02-21T18:38:12.660Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Super Cup",
