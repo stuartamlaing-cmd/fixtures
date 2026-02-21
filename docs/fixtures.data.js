@@ -1,14 +1,5 @@
-/* Generated 2026-02-21T13:20:38.807Z */
+/* Generated 2026-02-21T13:48:10.277Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Super Cup",
-    "date": "2026-02-21",
-    "timeUK": "13:00",
-    "location": "Utilita Arena, Sheffield",
-    "team1": "Birmingham Panthers",
-    "team2": "Lexisnexis Dragons",
-    "watch": "Sky Sports mix; Netball Pass"
-  },
   {
     "competition": "NSL - Super Cup",
     "date": "2026-02-21",
