@@ -1,4 +1,4 @@
-/* Generated 2026-02-21T18:39:21.923Z */
+/* Generated 2026-02-21T18:57:33.115Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Super Cup",
@@ -142,6 +142,17 @@ window.RESULTS  = [
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
     "score1": "13",
     "score2": "9"
+  },
+  {
+    "competition": "NSL - Super Cup - Semi Final",
+    "date": "2026-02-21",
+    "timeUK": "18:05",
+    "location": "Utilita Arena, Sheffield",
+    "team1": "Lexisnexis Dragons",
+    "team2": "London Pulse",
+    "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
+    "score1": "16",
+    "score2": ""
   },
   {
     "competition": "Australia vs Jamaica Series",
