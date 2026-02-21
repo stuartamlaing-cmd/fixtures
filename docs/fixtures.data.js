@@ -1,14 +1,5 @@
-/* Generated 2026-02-21T19:02:38.128Z */
+/* Generated 2026-02-21T20:30:14.812Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Super Cup - Final",
-    "date": "2026-02-21",
-    "timeUK": "18:45",
-    "location": "Utilita Arena, Sheffield",
-    "team1": "Loughborough Lightning",
-    "team2": "Winner of Semi-Final 2",
-    "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL- Round 1",
     "date": "2026-02-27",
