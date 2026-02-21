@@ -1,14 +1,5 @@
-/* Generated 2026-02-21T13:20:04.548Z */
+/* Generated 2026-02-21T13:20:38.807Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Super Cup",
-    "date": "2026-02-21",
-    "timeUK": "12:40",
-    "location": "Utilita Arena, Sheffield",
-    "team1": "London Pulse",
-    "team2": "London Mavericks",
-    "watch": "Sky Sports mix; Netball Pass"
-  },
   {
     "competition": "NSL - Super Cup",
     "date": "2026-02-21",
