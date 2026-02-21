@@ -1,4 +1,4 @@
-/* Generated 2026-02-21T13:20:38.809Z */
+/* Generated 2026-02-21T13:48:10.280Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Super Cup",
@@ -32,6 +32,17 @@ window.RESULTS  = [
     "watch": "Sky Sports mix; Netball Pass",
     "score1": "15",
     "score2": "8"
+  },
+  {
+    "competition": "NSL - Super Cup",
+    "date": "2026-02-21",
+    "timeUK": "13:00",
+    "location": "Utilita Arena, Sheffield",
+    "team1": "Birmingham Panthers",
+    "team2": "Lexisnexis Dragons",
+    "watch": "Sky Sports mix; Netball Pass",
+    "score1": "6",
+    "score2": ""
   },
   {
     "competition": "Australia vs Jamaica Series",
