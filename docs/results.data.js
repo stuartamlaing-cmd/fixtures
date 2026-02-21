@@ -1,4 +1,4 @@
-/* Generated 2026-02-21T20:30:14.813Z */
+/* Generated 2026-02-21T21:48:00.815Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Super Cup",
@@ -158,7 +158,7 @@ window.RESULTS  = [
     "competition": "NSL - Super Cup - Final",
     "date": "2026-02-21",
     "timeUK": "18:45",
-    "location": "Utilita Arena h",
+    "location": "Utilita Arena, Sheffield",
     "team1": "Loughborough Lightning",
     "team2": "London Pulse",
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
