@@ -1,14 +1,5 @@
-/* Generated 2026-02-21T15:12:28.476Z */
+/* Generated 2026-02-21T16:08:49.132Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Super Cup",
-    "date": "2026-02-21",
-    "timeUK": "15:50",
-    "location": "Utilita Arena, Sheffield",
-    "team1": "Nottingham Forest",
-    "team2": "Lexisnexis Dragons",
-    "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL - Super Cup",
     "date": "2026-02-21",
