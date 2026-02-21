@@ -1,4 +1,4 @@
-/* Generated 2026-02-21T14:22:42.631Z */
+/* Generated 2026-02-21T14:40:02.699Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Super Cup",
@@ -53,6 +53,17 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
     "score1": "21",
+    "score2": "13"
+  },
+  {
+    "competition": "NSL - Super Cup",
+    "date": "2026-02-21",
+    "timeUK": "14:15",
+    "location": "Utilita Arena, Sheffield",
+    "team1": "Nottingham Forest",
+    "team2": "Birmingham Panthers",
+    "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
+    "score1": "14",
     "score2": ""
   },
   {
