@@ -1,4 +1,4 @@
-/* Generated 2026-02-21T19:02:38.130Z */
+/* Generated 2026-02-21T20:30:14.813Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Super Cup",
@@ -153,6 +153,17 @@ window.RESULTS  = [
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
     "score1": "16",
     "score2": "18"
+  },
+  {
+    "competition": "NSL - Super Cup - Final",
+    "date": "2026-02-21",
+    "timeUK": "18:45",
+    "location": "Utilita Arena h",
+    "team1": "Loughborough Lightning",
+    "team2": "London Pulse",
+    "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
+    "score1": "18",
+    "score2": "17"
   },
   {
     "competition": "Australia vs Jamaica Series",
