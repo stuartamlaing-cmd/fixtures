@@ -1,4 +1,4 @@
-/* Generated 2026-02-19T20:56:04.814Z */
+/* Generated 2026-02-21T12:01:37.125Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
@@ -43,7 +43,7 @@ window.FIXTURES = [
     "location": "Utilita Arena, Sheffield",
     "team1": "London Pulse",
     "team2": "Manchester Thunder",
-    "watch": "Sky Sports mix; Netball Pass"
+    "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Super Cup",
