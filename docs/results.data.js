@@ -1,5 +1,16 @@
-/* Generated 2026-02-21T12:54:22.058Z */
+/* Generated 2026-02-21T13:18:05.205Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL - Super Cup",
+    "date": "2026-02-21",
+    "timeUK": "12:20",
+    "location": "Utilita Arena, Sheffield",
+    "team1": "Manchester Thunder",
+    "team2": "NIC Leeds Rhinos",
+    "watch": "Sky Sports mix; Netball Pass",
+    "score1": "9",
+    "score2": ""
+  },
   {
     "competition": "Australia vs Jamaica Series",
     "date": "2026-02-12",
