@@ -1,4 +1,4 @@
-/* Generated 2026-02-21T13:48:10.280Z */
+/* Generated 2026-02-21T14:22:42.631Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Super Cup",
@@ -42,6 +42,17 @@ window.RESULTS  = [
     "team2": "Lexisnexis Dragons",
     "watch": "Sky Sports mix; Netball Pass",
     "score1": "6",
+    "score2": "18"
+  },
+  {
+    "competition": "NSL - Super Cup",
+    "date": "2026-02-21",
+    "timeUK": "13:55",
+    "location": "Utilita Arena, Sheffield",
+    "team1": "London Pulse",
+    "team2": "Manchester Thunder",
+    "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
+    "score1": "21",
     "score2": ""
   },
   {
