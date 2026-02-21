@@ -1,4 +1,4 @@
-/* Generated 2026-02-21T17:22:57.846Z */
+/* Generated 2026-02-21T17:24:27.117Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Super Cup",
@@ -109,6 +109,17 @@ window.RESULTS  = [
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
     "score1": "8",
     "score2": "19"
+  },
+  {
+    "competition": "NSL - Super Cup",
+    "date": "2026-02-21",
+    "timeUK": "16:30",
+    "location": "Utilita Arena, Sheffield",
+    "team1": "NIC Leeds Rhinos",
+    "team2": "London Pulse",
+    "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
+    "score1": "12",
+    "score2": ""
   },
   {
     "competition": "Australia vs Jamaica Series",
