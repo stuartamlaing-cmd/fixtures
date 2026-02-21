@@ -1,14 +1,5 @@
-/* Generated 2026-02-21T18:39:21.920Z */
+/* Generated 2026-02-21T18:57:33.114Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Super Cup - Semi Final",
-    "date": "2026-02-21",
-    "timeUK": "18:05",
-    "location": "Utilita Arena, Sheffield",
-    "team1": "Lexisnexis Dragons",
-    "team2": "1st Group2",
-    "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL - Super Cup - Final",
     "date": "2026-02-21",
