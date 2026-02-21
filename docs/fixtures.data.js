@@ -1,14 +1,5 @@
-/* Generated 2026-02-21T13:18:05.205Z */
+/* Generated 2026-02-21T13:20:04.548Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Super Cup",
-    "date": "2026-02-21",
-    "timeUK": "12:00",
-    "location": "Utilita Arena, Sheffield",
-    "team1": "Loughborough Lightning",
-    "team2": "Nottingham Forest",
-    "watch": "Sky Sports mix; Netball Pass"
-  },
   {
     "competition": "NSL - Super Cup",
     "date": "2026-02-21",
