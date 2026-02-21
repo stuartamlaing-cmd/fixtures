@@ -1,4 +1,4 @@
-/* Generated 2026-02-21T13:20:04.549Z */
+/* Generated 2026-02-21T13:20:38.809Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Super Cup",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "Sky Sports mix; Netball Pass",
     "score1": "23",
-    "score2": ""
+    "score2": "21"
   },
   {
     "competition": "NSL - Super Cup",
@@ -21,6 +21,17 @@ window.RESULTS  = [
     "watch": "Sky Sports mix; Netball Pass",
     "score1": "9",
     "score2": "16"
+  },
+  {
+    "competition": "NSL - Super Cup",
+    "date": "2026-02-21",
+    "timeUK": "12:40",
+    "location": "Utilita Arena, Sheffield",
+    "team1": "London Pulse",
+    "team2": "London Mavericks",
+    "watch": "Sky Sports mix; Netball Pass",
+    "score1": "15",
+    "score2": "8"
   },
   {
     "competition": "Australia vs Jamaica Series",
