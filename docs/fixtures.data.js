@@ -1,4 +1,4 @@
-/* Generated 2026-02-21T12:53:49.249Z */
+/* Generated 2026-02-21T12:54:22.057Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Super Cup",
