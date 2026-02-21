@@ -1,4 +1,4 @@
-/* Generated 2026-02-21T18:57:33.115Z */
+/* Generated 2026-02-21T19:02:38.130Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Super Cup",
@@ -152,7 +152,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
     "score1": "16",
-    "score2": ""
+    "score2": "18"
   },
   {
     "competition": "Australia vs Jamaica Series",
