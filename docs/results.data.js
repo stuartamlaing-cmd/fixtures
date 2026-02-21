@@ -1,4 +1,4 @@
-/* Generated 2026-02-21T17:24:27.117Z */
+/* Generated 2026-02-21T17:28:05.783Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Super Cup",
@@ -119,7 +119,18 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
     "score1": "12",
-    "score2": ""
+    "score2": "13"
+  },
+  {
+    "competition": "NSL - Super Cup",
+    "date": "2026-02-21",
+    "timeUK": "16:50",
+    "location": "Utilita Arena, Sheffield",
+    "team1": "Birmingham Panthers",
+    "team2": "Loughborough Lightning",
+    "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
+    "score1": "18",
+    "score2": "21"
   },
   {
     "competition": "Australia vs Jamaica Series",
