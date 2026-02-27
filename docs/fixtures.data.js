@@ -1,14 +1,5 @@
-/* Generated 2026-02-27T21:05:50.214Z */
+/* Generated 2026-02-27T21:11:00.876Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL- Round 1",
-    "date": "2026-02-28",
-    "timeUK": "14:00",
-    "location": "Hertfordshire Sports Village",
-    "team1": "London Mavericks",
-    "team2": "Nottingham Forest",
-    "watch": "BBC Sport; Netball Pass"
-  },
   {
     "competition": "NSL- Round 1",
     "date": "2026-02-28",
