@@ -1,5 +1,27 @@
-/* Generated 2026-02-27T21:05:50.215Z */
+/* Generated 2026-02-27T21:11:00.877Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL- Round 1",
+    "date": "2026-02-28",
+    "timeUK": "14:00",
+    "location": "Hertfordshire Sports Village",
+    "team1": "London Mavericks",
+    "team2": "Nottingham Forest",
+    "watch": "BBC Sport; Netball Pass",
+    "score1": "London Pulse vs Manchester Thunder at 19:30.",
+    "score2": ""
+  },
+  {
+    "competition": "NSL- Round 1",
+    "date": "2026-02-27",
+    "timeUK": "19:30",
+    "location": "Copper Box Arena",
+    "team1": "London Pulse",
+    "team2": "Manchester Thunder",
+    "watch": "Sky Sports+; Sky Sports Mix; Sky Sports YouTube; Netball Pass",
+    "score1": "56",
+    "score2": "51"
+  },
   {
     "competition": "NSL - Super Cup",
     "date": "2026-02-21",
