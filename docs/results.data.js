@@ -1,5 +1,16 @@
-/* Generated 2026-02-21T21:48:00.815Z */
+/* Generated 2026-02-27T21:01:38.395Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL- Round 1",
+    "date": "2026-02-27",
+    "timeUK": "19:30",
+    "location": "Copper Box Arena",
+    "team1": "London Pulse",
+    "team2": "Manchester Thunder",
+    "watch": "Sky Sports+; Sky Sports Mix; Sky Sports YouTube; Netball Pass",
+    "score1": "56",
+    "score2": ""
+  },
   {
     "competition": "NSL - Super Cup",
     "date": "2026-02-21",
