@@ -1,14 +1,5 @@
-/* Generated 2026-02-21T21:48:00.814Z */
+/* Generated 2026-02-27T21:01:38.395Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL- Round 1",
-    "date": "2026-02-27",
-    "timeUK": "19:30",
-    "location": "Copper Box Arena",
-    "team1": "London Pulse",
-    "team2": "Manchester Thunder",
-    "watch": "Sky Sports+; Sky Sports Mix; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL- Round 1",
     "date": "2026-02-28",
