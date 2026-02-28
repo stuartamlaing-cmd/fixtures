@@ -1,14 +1,5 @@
-/* Generated 2026-02-28T15:37:58.146Z */
+/* Generated 2026-02-28T20:42:59.683Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL- Round 1",
-    "date": "2026-02-28",
-    "timeUK": "18:00",
-    "location": "Sir David Wallace Arena",
-    "team1": "Loughborough Lightning",
-    "team2": "Lexisnexis Dragons",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL- Round 1",
     "date": "2026-02-28",
