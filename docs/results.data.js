@@ -1,4 +1,4 @@
-/* Generated 2026-02-27T21:11:00.877Z */
+/* Generated 2026-02-28T15:37:22.074Z */
 window.RESULTS  = [
   {
     "competition": "NSL- Round 1",
@@ -8,7 +8,7 @@ window.RESULTS  = [
     "team1": "London Mavericks",
     "team2": "Nottingham Forest",
     "watch": "BBC Sport; Netball Pass",
-    "score1": "London Pulse vs Manchester Thunder at 19:30.",
+    "score1": "59",
     "score2": ""
   },
   {
