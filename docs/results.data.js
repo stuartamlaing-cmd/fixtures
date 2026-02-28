@@ -1,4 +1,4 @@
-/* Generated 2026-02-28T15:37:58.148Z */
+/* Generated 2026-02-28T20:42:59.684Z */
 window.RESULTS  = [
   {
     "competition": "NSL- Round 1",
@@ -10,6 +10,17 @@ window.RESULTS  = [
     "watch": "BBC Sport; Netball Pass",
     "score1": "59",
     "score2": "60"
+  },
+  {
+    "competition": "NSL- Round 1",
+    "date": "2026-02-28",
+    "timeUK": "18:00",
+    "location": "Sir David Wallace Arena",
+    "team1": "Loughborough Lightning",
+    "team2": "Lexisnexis Dragons",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "76",
+    "score2": ""
   },
   {
     "competition": "NSL- Round 1",
