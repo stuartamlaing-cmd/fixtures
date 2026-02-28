@@ -1,4 +1,4 @@
-/* Generated 2026-02-28T20:42:59.684Z */
+/* Generated 2026-02-28T21:00:11.872Z */
 window.RESULTS  = [
   {
     "competition": "NSL- Round 1",
@@ -20,7 +20,18 @@ window.RESULTS  = [
     "team2": "Lexisnexis Dragons",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "76",
-    "score2": ""
+    "score2": "60"
+  },
+  {
+    "competition": "NSL- Round 1",
+    "date": "2026-02-28",
+    "timeUK": "19:00",
+    "location": "Worcester Arena",
+    "team1": "Birmingham Panthers",
+    "team2": "NIC Leeds Rhinos",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "39",
+    "score2": "54"
   },
   {
     "competition": "NSL- Round 1",
