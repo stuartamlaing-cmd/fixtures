@@ -1,4 +1,4 @@
-/* Generated 2026-03-06T20:48:03.283Z */
+/* Generated 2026-03-06T21:09:42.371Z */
 window.RESULTS  = [
   {
     "competition": "NSL- Round 2",
@@ -9,6 +9,17 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "50",
+    "score2": "51"
+  },
+  {
+    "competition": "NSL- Round 2",
+    "date": "2026-03-06",
+    "timeUK": "19:30",
+    "location": "Canon Medical Arena",
+    "team1": "NIC Leeds Rhinos",
+    "team2": "Loughborough Lightning",
+    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
+    "score1": "41",
     "score2": ""
   },
   {
