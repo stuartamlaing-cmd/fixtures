@@ -1,14 +1,5 @@
-/* Generated 2026-02-28T21:00:11.869Z */
+/* Generated 2026-03-06T20:48:03.279Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL- Round 2",
-    "date": "2026-03-06",
-    "timeUK": "19:00",
-    "location": "House Of Sport",
-    "team1": "Lexisnexis Dragons",
-    "team2": "London Pulse",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL- Round 2",
     "date": "2026-03-06",
