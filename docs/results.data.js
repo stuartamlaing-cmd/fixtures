@@ -1,4 +1,4 @@
-/* Generated 2026-03-06T21:15:18.973Z */
+/* Generated 2026-03-06T21:16:18.137Z */
 window.RESULTS  = [
   {
     "competition": "NSL- Round 2",
@@ -20,7 +20,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "41",
-    "score2": ""
+    "score2": "70"
   },
   {
     "competition": "NSL- Round 1",
