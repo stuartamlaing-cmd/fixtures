@@ -1,14 +1,5 @@
-/* Generated 2026-03-06T21:17:29.218Z */
+/* Generated 2026-03-07T18:58:14.946Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL- Round 2",
-    "date": "2026-03-07",
-    "timeUK": "17:00",
-    "location": "Belle Vue Arena",
-    "team1": "Manchester Thunder",
-    "team2": "London Mavericks",
-    "watch": "BBC Sports; Netball Pass"
-  },
   {
     "competition": "NSL- Round 2",
     "date": "2026-03-08",
