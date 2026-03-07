@@ -1,16 +1,5 @@
-/* Generated 2026-03-07T18:58:14.949Z */
+/* Generated 2026-03-07T19:07:56.398Z */
 window.RESULTS  = [
-  {
-    "competition": "NSL- Round 2",
-    "date": "2026-03-07",
-    "timeUK": "17:00",
-    "location": "Belle Vue Arena",
-    "team1": "Manchester Thunder",
-    "team2": "London Mavericks",
-    "watch": "BBC Sports; Netball Pass",
-    "score1": "",
-    "score2": "69"
-  },
   {
     "competition": "NSL- Round 2",
     "date": "2026-03-06",
