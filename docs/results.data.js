@@ -1,4 +1,4 @@
-/* Generated 2026-03-08T18:28:35.862Z */
+/* Generated 2026-03-08T18:30:54.874Z */
 window.RESULTS  = [
   {
     "competition": "NSL- Round 2",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "68",
-    "score2": ""
+    "score2": "58"
   },
   {
     "competition": "NSL- Round 2",
