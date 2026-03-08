@@ -1,14 +1,14 @@
-/* Generated 2026-03-08T18:27:28.326Z */
+/* Generated 2026-03-08T18:28:35.862Z */
 window.RESULTS  = [
   {
-    "competition": "NSL- Round 6",
-    "date": "2026-04-04",
-    "timeUK": "17:00",
+    "competition": "NSL- Round 2",
+    "date": "2026-03-08",
+    "timeUK": "16:00",
     "location": "Motorpoint Arena",
-    "team1": "Loughborough Lightning",
-    "team2": "Manchester Thunder",
-    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
-    "score1": "...",
+    "team1": "Nottingham Forest",
+    "team2": "Birmingham Panthers",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "68",
     "score2": ""
   },
   {
