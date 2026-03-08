@@ -1,4 +1,4 @@
-/* Generated 2026-03-07T19:08:31.302Z */
+/* Generated 2026-03-08T18:27:28.323Z */
 window.FIXTURES = [
   {
     "competition": "NSL- Round 2",
@@ -134,15 +134,6 @@ window.FIXTURES = [
     "team1": "London Pulse",
     "team2": "Birmingham Panthers",
     "watch": "BBC Sport; Netball Pass"
-  },
-  {
-    "competition": "NSL- Round 6",
-    "date": "2026-04-04",
-    "timeUK": "17:00",
-    "location": "Motorpoint Arena",
-    "team1": "Loughborough Lightning",
-    "team2": "Manchester Thunder",
-    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL- Round 6",
