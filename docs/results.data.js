@@ -1,4 +1,4 @@
-/* Generated 2026-03-14T18:04:53.999Z */
+/* Generated 2026-03-14T20:48:29.311Z */
 window.RESULTS  = [
   {
     "competition": "NSL- Round 3",
@@ -10,6 +10,17 @@ window.RESULTS  = [
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "49",
     "score2": "76"
+  },
+  {
+    "competition": "NSL- Round 3",
+    "date": "2026-03-14",
+    "timeUK": "18:00",
+    "location": "Motorpoint Arena",
+    "team1": "Loughborough Lightning",
+    "team2": "London Pulse",
+    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
+    "score1": "68",
+    "score2": ""
   },
   {
     "competition": "NSL- Round 3",
