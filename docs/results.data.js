@@ -1,5 +1,16 @@
-/* Generated 2026-03-14T11:22:50.505Z */
+/* Generated 2026-03-14T18:04:15.702Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL- Round 3",
+    "date": "2026-03-14",
+    "timeUK": "16:00",
+    "location": "Motorpoint Arena",
+    "team1": "Birmingham Panthers",
+    "team2": "London Mavericks",
+    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
+    "score1": "49",
+    "score2": ""
+  },
   {
     "competition": "NSL- Round 3",
     "date": "2026-03-13",
@@ -9,7 +20,7 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "55",
-    "score2": ""
+    "score2": "69"
   },
   {
     "competition": "NSL- Round 2",
