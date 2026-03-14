@@ -1,14 +1,5 @@
-/* Generated 2026-03-14T18:04:53.999Z */
+/* Generated 2026-03-14T20:48:29.309Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL- Round 3",
-    "date": "2026-03-14",
-    "timeUK": "18:00",
-    "location": "Motorpoint Arena",
-    "team1": "Loughborough Lightning",
-    "team2": "London Pulse",
-    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL- Round 3",
     "date": "2026-03-15",
