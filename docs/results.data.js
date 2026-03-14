@@ -1,4 +1,4 @@
-/* Generated 2026-03-14T20:48:29.311Z */
+/* Generated 2026-03-14T20:49:05.750Z */
 window.RESULTS  = [
   {
     "competition": "NSL- Round 3",
@@ -20,7 +20,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "68",
-    "score2": ""
+    "score2": "61"
   },
   {
     "competition": "NSL- Round 3",
