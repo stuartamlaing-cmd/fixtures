@@ -1,14 +1,5 @@
-/* Generated 2026-03-14T11:22:50.503Z */
+/* Generated 2026-03-14T18:04:15.701Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL- Round 3",
-    "date": "2026-03-14",
-    "timeUK": "16:00",
-    "location": "Motorpoint Arena",
-    "team1": "Birmingham Panthers",
-    "team2": "London Mavericks",
-    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL- Round 3",
     "date": "2026-03-14",
