@@ -1,14 +1,5 @@
-/* Generated 2026-03-14T20:49:05.747Z */
+/* Generated 2026-03-15T18:10:26.091Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL- Round 3",
-    "date": "2026-03-15",
-    "timeUK": "16:00",
-    "location": "Motorpoint Arena",
-    "team1": "Nottingham Forest",
-    "team2": "NIC Leeds Rhinos",
-    "watch": "BBC Sport; Netball Pass"
-  },
   {
     "competition": "NSL - Round 4",
     "date": "2026-03-20",
