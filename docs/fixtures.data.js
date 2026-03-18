@@ -1,14 +1,5 @@
-/* Generated 2026-03-15T18:12:23.422Z */
+/* Generated 2026-03-18T13:25:02.376Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 4",
-    "date": "2026-03-20",
-    "timeUK": "19:00",
-    "location": "Canon Medical Arena",
-    "team1": "NIC Leeds Rhinos",
-    "team2": "Lexisnexis Dragons",
-    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL - Round 4",
     "date": "2026-03-22",
