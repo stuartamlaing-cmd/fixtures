@@ -1,4 +1,4 @@
-/* Generated 2026-03-22T17:37:24.779Z */
+/* Generated 2026-03-22T20:39:57.871Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 4",
@@ -21,6 +21,17 @@ window.RESULTS  = [
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "58",
     "score2": "66"
+  },
+  {
+    "competition": "NSL - Round 4",
+    "date": "2026-03-22",
+    "timeUK": "18:00",
+    "location": "Copper Box Arena",
+    "team1": "London Pulse",
+    "team2": "Nottingham Forest",
+    "watch": "BBC Sport; Netball Pass",
+    "score1": "73",
+    "score2": "63"
   },
   {
     "competition": "NSL - Round 4",
