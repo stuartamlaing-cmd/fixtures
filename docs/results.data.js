@@ -1,4 +1,4 @@
-/* Generated 2026-03-22T17:36:43.428Z */
+/* Generated 2026-03-22T17:37:24.779Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 4",
@@ -9,7 +9,18 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "48",
-    "score2": ""
+    "score2": "58"
+  },
+  {
+    "competition": "NSL - Round 4",
+    "date": "2026-03-22",
+    "timeUK": "16:00",
+    "location": "Essex Sports Arena",
+    "team1": "London Mavericks",
+    "team2": "Loughborough Lightning",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "58",
+    "score2": "66"
   },
   {
     "competition": "NSL - Round 4",
