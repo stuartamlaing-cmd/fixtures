@@ -1,14 +1,5 @@
-/* Generated 2026-03-22T17:36:43.425Z */
+/* Generated 2026-03-22T17:37:24.779Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 4",
-    "date": "2026-03-22",
-    "timeUK": "16:00",
-    "location": "Essex Sports Arena",
-    "team1": "London Mavericks",
-    "team2": "Loughborough Lightning",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL - Round 4",
     "date": "2026-03-22",
