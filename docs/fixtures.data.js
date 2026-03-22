@@ -1,14 +1,5 @@
-/* Generated 2026-03-22T17:37:24.779Z */
+/* Generated 2026-03-22T20:39:57.865Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 4",
-    "date": "2026-03-22",
-    "timeUK": "18:00",
-    "location": "Copper Box Arena",
-    "team1": "London Pulse",
-    "team2": "Nottingham Forest",
-    "watch": "BBC Sport; Netball Pass"
-  },
   {
     "competition": "NSL - Round 5",
     "date": "2026-03-27",
