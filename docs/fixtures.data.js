@@ -1,14 +1,5 @@
-/* Generated 2026-03-21T11:00:24.016Z */
+/* Generated 2026-03-22T17:36:43.425Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 4",
-    "date": "2026-03-22",
-    "timeUK": "15:00",
-    "location": "Utilita Arena",
-    "team1": "Birmingham Panthers",
-    "team2": "Manchester Thunder",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL - Round 4",
     "date": "2026-03-22",
