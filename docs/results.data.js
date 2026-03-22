@@ -1,5 +1,16 @@
-/* Generated 2026-03-21T11:00:24.019Z */
+/* Generated 2026-03-22T17:36:43.428Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL - Round 4",
+    "date": "2026-03-22",
+    "timeUK": "15:00",
+    "location": "Utilita Arena",
+    "team1": "Birmingham Panthers",
+    "team2": "Manchester Thunder",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "48",
+    "score2": ""
+  },
   {
     "competition": "NSL - Round 4",
     "date": "2026-03-20",
@@ -9,7 +20,7 @@ window.RESULTS  = [
     "team2": "Lexisnexis Dragons",
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "51",
-    "score2": ""
+    "score2": "62"
   },
   {
     "competition": "NSL- Round 3",
