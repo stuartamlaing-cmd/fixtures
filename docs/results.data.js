@@ -1,5 +1,16 @@
-/* Generated 2026-03-22T20:39:57.871Z */
+/* Generated 2026-03-27T20:45:21.234Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL - Round 5",
+    "date": "2026-03-27",
+    "timeUK": "19:00",
+    "location": "Canon Medical Arena",
+    "team1": "NIC Leeds Rhinos",
+    "team2": "London Pulse",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "52",
+    "score2": ""
+  },
   {
     "competition": "NSL - Round 4",
     "date": "2026-03-22",
