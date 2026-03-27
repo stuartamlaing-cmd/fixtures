@@ -1,14 +1,5 @@
-/* Generated 2026-03-22T20:39:57.865Z */
+/* Generated 2026-03-27T20:45:21.231Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 5",
-    "date": "2026-03-27",
-    "timeUK": "19:00",
-    "location": "Canon Medical Arena",
-    "team1": "NIC Leeds Rhinos",
-    "team2": "London Pulse",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL - Round 5",
     "date": "2026-03-28",
