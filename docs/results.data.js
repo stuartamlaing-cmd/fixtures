@@ -1,4 +1,4 @@
-/* Generated 2026-03-28T19:35:44.620Z */
+/* Generated 2026-03-28T20:00:47.789Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 5",
@@ -21,6 +21,17 @@ window.RESULTS  = [
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "78",
     "score2": "53"
+  },
+  {
+    "competition": "NSL - Round 5",
+    "date": "2026-03-28",
+    "timeUK": "18:30",
+    "location": "Sir David Wallace Arena",
+    "team1": "Loughborough Lightning",
+    "team2": "Birmingham Panthers",
+    "watch": "BBC Sport; Netball Pass",
+    "score1": "81",
+    "score2": ""
   },
   {
     "competition": "NSL - Round 5",
