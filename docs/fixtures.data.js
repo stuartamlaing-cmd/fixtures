@@ -1,9 +1,9 @@
-/* Generated 2026-03-28T19:34:26.990Z */
+/* Generated 2026-03-28T19:35:44.619Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Round 5",
     "date": "2026-03-28",
-    "timeUK": "18:00",
+    "timeUK": "18:30",
     "location": "Sir David Wallace Arena",
     "team1": "Loughborough Lightning",
     "team2": "Birmingham Panthers",
