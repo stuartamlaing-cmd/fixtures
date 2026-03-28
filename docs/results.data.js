@@ -1,4 +1,4 @@
-/* Generated 2026-03-28T20:09:18.070Z */
+/* Generated 2026-03-28T20:10:20.200Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 5",
@@ -31,7 +31,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "BBC Sport; Netball Pass",
     "score1": "81",
-    "score2": ""
+    "score2": "69"
   },
   {
     "competition": "NSL - Round 5",
