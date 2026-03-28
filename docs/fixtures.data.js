@@ -1,14 +1,5 @@
-/* Generated 2026-03-28T17:59:40.172Z */
+/* Generated 2026-03-28T19:22:57.778Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 5",
-    "date": "2026-03-28",
-    "timeUK": "17:00",
-    "location": "Belle Vue Arena",
-    "team1": "Manchester Thunder",
-    "team2": "Nottingham Forest",
-    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL - Round 5",
     "date": "2026-03-28",
