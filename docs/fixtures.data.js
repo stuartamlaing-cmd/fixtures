@@ -1,14 +1,5 @@
-/* Generated 2026-03-28T19:35:44.619Z */
+/* Generated 2026-03-28T20:00:47.789Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 5",
-    "date": "2026-03-28",
-    "timeUK": "18:30",
-    "location": "Sir David Wallace Arena",
-    "team1": "Loughborough Lightning",
-    "team2": "Birmingham Panthers",
-    "watch": "BBC Sport; Netball Pass"
-  },
   {
     "competition": "NSL- Round 6",
     "date": "2026-04-04",
