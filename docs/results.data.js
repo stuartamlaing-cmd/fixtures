@@ -1,5 +1,16 @@
-/* Generated 2026-03-27T20:50:34.342Z */
+/* Generated 2026-03-28T17:59:03.425Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL - Round 5",
+    "date": "2026-03-28",
+    "timeUK": "16:00",
+    "location": "House Of Sport",
+    "team1": "Lexisnexis Dragons",
+    "team2": "London Mavericks",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "54",
+    "score2": ""
+  },
   {
     "competition": "NSL - Round 5",
     "date": "2026-03-27",
