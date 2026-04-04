@@ -1,4 +1,4 @@
-/* Generated 2026-04-04T18:11:36.512Z */
+/* Generated 2026-04-04T20:02:39.815Z */
 window.RESULTS  = [
   {
     "competition": "NSL- Round 6",
@@ -10,6 +10,17 @@ window.RESULTS  = [
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "57",
     "score2": "62"
+  },
+  {
+    "competition": "NSL- Round 6",
+    "date": "2026-04-04",
+    "timeUK": "19:00",
+    "location": "Hertfordshire Sports Village",
+    "team1": "London Mavericks",
+    "team2": "NIC Leeds Rhinos",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "54",
+    "score2": ""
   },
   {
     "competition": "NSL- Round 6",
