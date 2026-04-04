@@ -1,4 +1,4 @@
-/* Generated 2026-04-04T18:09:39.649Z */
+/* Generated 2026-04-04T18:10:35.584Z */
 window.RESULTS  = [
   {
     "competition": "NSL- Round 6",
@@ -10,6 +10,17 @@ window.RESULTS  = [
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "57",
     "score2": "62"
+  },
+  {
+    "competition": "NSL- Round 6",
+    "date": "2026-04-04",
+    "timeUK": "17:00",
+    "location": "Copper Box Arena",
+    "team1": "London Pulse",
+    "team2": "Birmingham Panthers",
+    "watch": "BBC Sport; Netball Pass",
+    "score1": "78",
+    "score2": ""
   },
   {
     "competition": "NSL- Round 6",
