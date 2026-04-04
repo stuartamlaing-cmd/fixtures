@@ -1,14 +1,5 @@
-/* Generated 2026-04-04T18:11:36.510Z */
+/* Generated 2026-04-04T20:02:39.813Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL- Round 6",
-    "date": "2026-04-04",
-    "timeUK": "19:00",
-    "location": "Hertfordshire Sports Village",
-    "team1": "London Mavericks",
-    "team2": "NIC Leeds Rhinos",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL - Round 7",
     "date": "2026-04-10",
