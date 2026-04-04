@@ -1,5 +1,16 @@
-/* Generated 2026-03-28T20:10:20.200Z */
+/* Generated 2026-04-04T17:21:58.166Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL- Round 6",
+    "date": "2026-04-04",
+    "timeUK": "15:00",
+    "location": "Motorpoint Arena",
+    "team1": "Nottingham Forest",
+    "team2": "Lexisnexis Dragons",
+    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
+    "score1": "57",
+    "score2": ""
+  },
   {
     "competition": "NSL - Round 5",
     "date": "2026-03-28",
