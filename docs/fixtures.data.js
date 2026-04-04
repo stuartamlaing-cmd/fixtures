@@ -1,14 +1,5 @@
-/* Generated 2026-04-04T18:09:39.649Z */
+/* Generated 2026-04-04T18:10:35.581Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL- Round 6",
-    "date": "2026-04-04",
-    "timeUK": "17:00",
-    "location": "Copper Box Arena",
-    "team1": "London Pulse",
-    "team2": "Birmingham Panthers",
-    "watch": "BBC Sport; Netball Pass"
-  },
   {
     "competition": "NSL- Round 6",
     "date": "2026-04-04",
