@@ -1,4 +1,4 @@
-/* Generated 2026-04-11T09:41:48.858Z */
+/* Generated 2026-04-11T09:42:19.351Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 7",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "56",
-    "score2": ""
+    "score2": "46"
   },
   {
     "competition": "NSL- Round 6",
