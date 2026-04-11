@@ -1,4 +1,4 @@
-/* Generated 2026-04-11T17:57:55.160Z */
+/* Generated 2026-04-11T17:58:27.179Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 7",
@@ -9,7 +9,18 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "BBC Sport; Netball Pass",
     "score1": "47",
-    "score2": ""
+    "score2": "48"
+  },
+  {
+    "competition": "NSL - Round 7",
+    "date": "2026-04-11",
+    "timeUK": "17:00",
+    "location": "Belle Vue Arena",
+    "team1": "Manchester Thunder",
+    "team2": "NIC Leeds Rhinos",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "63",
+    "score2": "49"
   },
   {
     "competition": "NSL - Round 7",
