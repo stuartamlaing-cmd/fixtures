@@ -1,9 +1,9 @@
-/* Generated 2026-04-11T17:59:36.057Z */
+/* Generated 2026-04-11T18:00:28.049Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Round 7",
     "date": "2026-04-11",
-    "timeUK": "",
+    "timeUK": "19:00",
     "location": "Motorpoint Arena",
     "team1": "Nottingham Forest",
     "team2": "Loughborough Lightning",
