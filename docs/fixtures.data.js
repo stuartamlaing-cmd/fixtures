@@ -1,14 +1,5 @@
-/* Generated 2026-04-11T17:57:55.159Z */
+/* Generated 2026-04-11T17:58:27.178Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 7",
-    "date": "2026-04-11",
-    "timeUK": "17:00",
-    "location": "Belle Vue Arena",
-    "team1": "Manchester Thunder",
-    "team2": "NIC Leeds Rhinos",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL - Round 7",
     "date": "2026-04-11",
