@@ -1,4 +1,4 @@
-/* Generated 2026-04-11T18:01:51.720Z */
+/* Generated 2026-04-11T20:20:50.639Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 7",
@@ -21,6 +21,17 @@ window.RESULTS  = [
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "63",
     "score2": "49"
+  },
+  {
+    "competition": "NSL - Round 7",
+    "date": "2026-04-11",
+    "timeUK": "19:00",
+    "location": "Motorpoint Arena",
+    "team1": "Nottingham Forest",
+    "team2": "Loughborough Lightning",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "73",
+    "score2": "75"
   },
   {
     "competition": "NSL - Round 7",
