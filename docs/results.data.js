@@ -1,4 +1,4 @@
-/* Generated 2026-04-11T17:58:27.179Z */
+/* Generated 2026-04-11T17:59:02.884Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 7",
@@ -14,7 +14,7 @@ window.RESULTS  = [
   {
     "competition": "NSL - Round 7",
     "date": "2026-04-11",
-    "timeUK": "17:00",
+    "timeUK": "5:00:00 PM17:00:00",
     "location": "Belle Vue Arena",
     "team1": "Manchester Thunder",
     "team2": "NIC Leeds Rhinos",
