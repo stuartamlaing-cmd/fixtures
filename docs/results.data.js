@@ -1,5 +1,16 @@
-/* Generated 2026-04-04T20:04:18.894Z */
+/* Generated 2026-04-11T09:41:48.858Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL - Round 7",
+    "date": "2026-04-10",
+    "timeUK": "19:00",
+    "location": "Copper Box Arena",
+    "team1": "London Pulse",
+    "team2": "London Mavericks",
+    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
+    "score1": "56",
+    "score2": ""
+  },
   {
     "competition": "NSL- Round 6",
     "date": "2026-04-04",
