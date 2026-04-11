@@ -1,5 +1,16 @@
-/* Generated 2026-04-11T09:42:19.351Z */
+/* Generated 2026-04-11T17:57:55.160Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL - Round 7",
+    "date": "2026-04-11",
+    "timeUK": "16:00",
+    "location": "House Of Sport",
+    "team1": "Lexisnexis Dragons",
+    "team2": "Birmingham Panthers",
+    "watch": "BBC Sport; Netball Pass",
+    "score1": "47",
+    "score2": ""
+  },
   {
     "competition": "NSL - Round 7",
     "date": "2026-04-10",
