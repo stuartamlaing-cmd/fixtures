@@ -1,14 +1,5 @@
-/* Generated 2026-04-11T18:01:51.719Z */
+/* Generated 2026-04-11T20:20:50.639Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 7",
-    "date": "2026-04-11",
-    "timeUK": "19:00",
-    "location": "Motorpoint Arena",
-    "team1": "Nottingham Forest",
-    "team2": "Loughborough Lightning",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL - Round 8",
     "date": "2026-04-17",
