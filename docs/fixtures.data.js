@@ -1,4 +1,4 @@
-/* Generated 2026-04-17T12:01:14.889Z */
+/* Generated 2026-04-17T12:01:46.457Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Round 8",
@@ -142,7 +142,7 @@ window.FIXTURES = [
     "location": "M&S Bank Arena",
     "team1": "Manchester Thunder",
     "team2": "London Pulse",
-    "watch": ""
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL Round 12",
@@ -151,7 +151,7 @@ window.FIXTURES = [
     "location": "Canon Medical Arena",
     "team1": "NIC Leeds Rhinos",
     "team2": "Manchester Thunder",
-    "watch": ""
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL Round 12",
@@ -160,7 +160,7 @@ window.FIXTURES = [
     "location": "Sir David Wallace Arena",
     "team1": "Loughborough Lightning",
     "team2": "Nottingham Forest",
-    "watch": ""
+    "watch": "BBC Sport; Netball Pass"
   },
   {
     "competition": "NSL Round 12",
@@ -169,7 +169,7 @@ window.FIXTURES = [
     "location": "Skydome",
     "team1": "Birmingham Panthers",
     "team2": "Lexisnexis Dragons",
-    "watch": ""
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL Round 12",
@@ -178,7 +178,7 @@ window.FIXTURES = [
     "location": "Ovo Arena",
     "team1": "London Mavericks",
     "team2": "London Pulse",
-    "watch": ""
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL Round 13",
