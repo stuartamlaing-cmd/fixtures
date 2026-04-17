@@ -1,4 +1,4 @@
-/* Generated 2026-04-17T11:57:02.259Z */
+/* Generated 2026-04-17T11:57:39.301Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Round 8",
@@ -69,7 +69,7 @@ window.FIXTURES = [
     "timeUK": "16:00",
     "location": "Utilita Arena",
     "team1": "Lexisnexis Dragons",
-    "team2": "Loughborough Lightning",
+    "team2": "",
     "watch": ""
   },
   {
@@ -78,7 +78,7 @@ window.FIXTURES = [
     "timeUK": "16:00",
     "location": "Utilita Arena",
     "team1": "Lexisnexis Dragons",
-    "team2": "Loughborough Lightning",
+    "team2": "",
     "watch": ""
   },
   {
