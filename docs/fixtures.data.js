@@ -1,4 +1,4 @@
-/* Generated 2026-04-17T12:02:19.853Z */
+/* Generated 2026-04-17T12:57:26.478Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Round 8",
@@ -205,7 +205,7 @@ window.FIXTURES = [
     "location": "Copper Box Arena",
     "team1": "London Pulse",
     "team2": "Lexisnexis Dragons",
-    "watch": ""
+    "watch": "BBC Sport; Netball Pass"
   },
   {
     "competition": "NSL Round 13",
