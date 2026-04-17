@@ -1,4 +1,4 @@
-/* Generated 2026-04-17T12:00:39.382Z */
+/* Generated 2026-04-17T12:01:14.889Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Round 8",
@@ -124,7 +124,7 @@ window.FIXTURES = [
     "location": "Motorpoint Arena",
     "team1": "Nottingham Forest",
     "team2": "London Mavericks",
-    "watch": ""
+    "watch": "BBC Sport; Netball Pass"
   },
   {
     "competition": "NSL Round 11",
@@ -133,7 +133,7 @@ window.FIXTURES = [
     "location": "M&S Bank Arena",
     "team1": "Lexisnexis Dragons",
     "team2": "NIC Leeds Rhinos",
-    "watch": ""
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL Round 11",
