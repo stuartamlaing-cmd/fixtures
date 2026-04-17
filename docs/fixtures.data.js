@@ -1,4 +1,4 @@
-/* Generated 2026-04-17T11:58:55.405Z */
+/* Generated 2026-04-17T11:59:26.138Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Round 8",
@@ -96,17 +96,8 @@ window.FIXTURES = [
     "timeUK": "18:00",
     "location": "Copper Box Arena",
     "team1": "London Pulse",
-    "team2": "",
-    "watch": ""
-  },
-  {
-    "competition": "NSL - Round 10",
-    "date": "2026-05-03",
-    "timeUK": "18:00",
-    "location": "Copper Box Arena",
-    "team1": "London Pulse",
     "team2": "Loughborough Lightning",
-    "watch": ""
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 10",
@@ -115,7 +106,7 @@ window.FIXTURES = [
     "location": "Belle Vue Arena",
     "team1": "Manchester Thunder",
     "team2": "Birmingham Panthers",
-    "watch": ""
+    "watch": "BBC Sport; Netball Pass"
   },
   {
     "competition": "NSL Round 11",
