@@ -1,4 +1,4 @@
-/* Generated 2026-04-17T11:56:19.492Z */
+/* Generated 2026-04-17T11:57:02.259Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Round 8",
@@ -61,6 +61,15 @@ window.FIXTURES = [
     "location": "Worcester Arena",
     "team1": "Birmingham Panthers",
     "team2": "London Pulse",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
+  },
+  {
+    "competition": "NSL - Round 9",
+    "date": "2026-04-26",
+    "timeUK": "16:00",
+    "location": "Utilita Arena",
+    "team1": "Lexisnexis Dragons",
+    "team2": "Loughborough Lightning",
     "watch": ""
   },
   {
