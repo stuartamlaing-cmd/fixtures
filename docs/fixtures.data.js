@@ -1,4 +1,4 @@
-/* Generated 2026-04-17T11:58:15.569Z */
+/* Generated 2026-04-17T11:58:55.405Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Round 8",
@@ -88,6 +88,15 @@ window.FIXTURES = [
     "location": "Canon Medical Arena",
     "team1": "NIC Leeds Rhinos",
     "team2": "London Mavericks",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
+  },
+  {
+    "competition": "NSL - Round 10",
+    "date": "2026-05-03",
+    "timeUK": "18:00",
+    "location": "Copper Box Arena",
+    "team1": "London Pulse",
+    "team2": "",
     "watch": ""
   },
   {
