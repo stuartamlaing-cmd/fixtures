@@ -1,4 +1,4 @@
-/* Generated 2026-04-17T11:48:54.050Z */
+/* Generated 2026-04-17T11:55:32.576Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Round 8",
@@ -43,7 +43,7 @@ window.FIXTURES = [
     "location": "Canon Medical Arena",
     "team1": "NIC Leeds Rhinos",
     "team2": "Nottingham Forest",
-    "watch": ""
+    "watch": "BBC Sport; Netball Pass"
   },
   {
     "competition": "NSL - Round 9",
