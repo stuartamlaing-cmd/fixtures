@@ -1,4 +1,4 @@
-/* Generated 2026-04-11T20:20:50.639Z */
+/* Generated 2026-04-17T11:47:51.854Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Round 8",
@@ -34,7 +34,7 @@ window.FIXTURES = [
     "location": "Copper Box Arena",
     "team1": "London Pulse",
     "team2": "NIC Leeds Rhinos",
-    "watch": ""
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 9",
