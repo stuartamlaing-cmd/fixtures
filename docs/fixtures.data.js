@@ -1,4 +1,4 @@
-/* Generated 2026-04-17T11:57:39.301Z */
+/* Generated 2026-04-17T11:58:15.569Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Round 8",
@@ -69,17 +69,8 @@ window.FIXTURES = [
     "timeUK": "16:00",
     "location": "Utilita Arena",
     "team1": "Lexisnexis Dragons",
-    "team2": "",
-    "watch": ""
-  },
-  {
-    "competition": "NSL - Round 9",
-    "date": "2026-04-26",
-    "timeUK": "16:00",
-    "location": "Utilita Arena",
-    "team1": "Lexisnexis Dragons",
-    "team2": "",
-    "watch": ""
+    "team2": "Loughborough Lightning",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 10",
@@ -88,7 +79,7 @@ window.FIXTURES = [
     "location": "House Of Sport",
     "team1": "Lexisnexis Dragons",
     "team2": "Nottingham Forest",
-    "watch": ""
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL - Round 10",
