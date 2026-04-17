@@ -1,4 +1,4 @@
-/* Generated 2026-04-17T11:59:26.138Z */
+/* Generated 2026-04-17T12:00:01.078Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Round 8",
@@ -115,7 +115,7 @@ window.FIXTURES = [
     "location": "Skydome",
     "team1": "Birmingham Panthers",
     "team2": "Loughborough Lightning",
-    "watch": ""
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL Round 11",
