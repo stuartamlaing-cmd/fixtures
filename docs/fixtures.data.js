@@ -1,14 +1,5 @@
-/* Generated 2026-04-18T17:46:02.121Z */
+/* Generated 2026-04-18T18:52:18.923Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 8",
-    "date": "2026-04-18",
-    "timeUK": "18:00",
-    "location": "Sir David Wallace Arena",
-    "team1": "Loughborough Lightning",
-    "team2": "London Mavericks",
-    "watch": "BBC Sport; Netball Pass"
-  },
   {
     "competition": "NSL - Round 8",
     "date": "2026-04-19",
