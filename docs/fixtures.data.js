@@ -1,14 +1,5 @@
-/* Generated 2026-04-17T12:57:26.478Z */
+/* Generated 2026-04-18T11:27:14.235Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 8",
-    "date": "2026-04-17",
-    "timeUK": "19:00",
-    "location": "Worcester Arena",
-    "team1": "Birmingham Panthers",
-    "team2": "Nottingham Forest",
-    "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL - Round 8",
     "date": "2026-04-18",
