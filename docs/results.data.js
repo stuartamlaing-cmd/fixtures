@@ -1,4 +1,4 @@
-/* Generated 2026-04-18T18:52:18.924Z */
+/* Generated 2026-04-18T18:52:56.643Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 8",
@@ -20,7 +20,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "BBC Sport; Netball Pass",
     "score1": "73",
-    "score2": ""
+    "score2": "56"
   },
   {
     "competition": "NSL - Round 8",
