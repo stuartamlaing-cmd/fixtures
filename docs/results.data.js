@@ -1,4 +1,4 @@
-/* Generated 2026-04-18T11:27:14.240Z */
+/* Generated 2026-04-18T11:27:54.567Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 8",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "54",
-    "score2": ""
+    "score2": "70"
   },
   {
     "competition": "NSL - Round 7",
