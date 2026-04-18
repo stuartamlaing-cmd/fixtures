@@ -1,4 +1,4 @@
-/* Generated 2026-04-18T11:28:32.828Z */
+/* Generated 2026-04-18T15:50:39.296Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 8",
