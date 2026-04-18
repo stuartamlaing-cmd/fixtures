@@ -1,4 +1,4 @@
-/* Generated 2026-04-18T17:46:02.122Z */
+/* Generated 2026-04-18T18:52:18.924Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 8",
@@ -10,6 +10,17 @@ window.RESULTS  = [
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "67",
     "score2": "55"
+  },
+  {
+    "competition": "NSL - Round 8",
+    "date": "2026-04-18",
+    "timeUK": "18:00",
+    "location": "Sir David Wallace Arena",
+    "team1": "Loughborough Lightning",
+    "team2": "London Mavericks",
+    "watch": "BBC Sport; Netball Pass",
+    "score1": "73",
+    "score2": ""
   },
   {
     "competition": "NSL - Round 8",
