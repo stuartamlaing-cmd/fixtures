@@ -1,14 +1,5 @@
-/* Generated 2026-04-18T15:50:39.293Z */
+/* Generated 2026-04-18T17:45:22.272Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 8",
-    "date": "2026-04-18",
-    "timeUK": "16:00",
-    "location": "Belle Vue Arena",
-    "team1": "Manchester Thunder",
-    "team2": "Lexisnexis Dragons",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL - Round 8",
     "date": "2026-04-18",
