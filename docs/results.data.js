@@ -1,4 +1,4 @@
-/* Generated 2026-04-18T17:45:22.273Z */
+/* Generated 2026-04-18T17:46:02.122Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 8",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "Lexisnexis Dragons",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "67",
-    "score2": ""
+    "score2": "55"
   },
   {
     "competition": "NSL - Round 8",
