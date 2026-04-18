@@ -1,5 +1,16 @@
-/* Generated 2026-04-18T15:50:39.296Z */
+/* Generated 2026-04-18T17:45:22.273Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL - Round 8",
+    "date": "2026-04-18",
+    "timeUK": "16:00",
+    "location": "Belle Vue Arena",
+    "team1": "Manchester Thunder",
+    "team2": "Lexisnexis Dragons",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "67",
+    "score2": ""
+  },
   {
     "competition": "NSL - Round 8",
     "date": "2026-04-17",
