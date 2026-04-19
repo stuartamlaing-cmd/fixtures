@@ -1,5 +1,16 @@
-/* Generated 2026-04-18T18:52:56.643Z */
+/* Generated 2026-04-19T19:09:06.009Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL - Round 8",
+    "date": "2026-04-19",
+    "timeUK": "18:00",
+    "location": "Copper Box Arena",
+    "team1": "London Pulse",
+    "team2": "NIC Leeds Rhinos",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "65",
+    "score2": ""
+  },
   {
     "competition": "NSL - Round 8",
     "date": "2026-04-18",
