@@ -1,5 +1,16 @@
-/* Generated 2026-04-19T19:10:22.754Z */
+/* Generated 2026-04-24T20:28:44.910Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL - Round 9",
+    "date": "2026-04-24",
+    "timeUK": "19:00",
+    "location": "Canon Medical Arena",
+    "team1": "NIC Leeds Rhinos",
+    "team2": "Nottingham Forest",
+    "watch": "BBC Sport; Netball Pass",
+    "score1": "63",
+    "score2": ""
+  },
   {
     "competition": "NSL - Round 8",
     "date": "2026-04-19",
