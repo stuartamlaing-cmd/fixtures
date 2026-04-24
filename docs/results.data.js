@@ -1,4 +1,4 @@
-/* Generated 2026-04-24T20:28:44.910Z */
+/* Generated 2026-04-24T20:29:15.279Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 9",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "BBC Sport; Netball Pass",
     "score1": "63",
-    "score2": ""
+    "score2": "68"
   },
   {
     "competition": "NSL - Round 8",
