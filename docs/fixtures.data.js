@@ -1,14 +1,5 @@
-/* Generated 2026-04-19T19:10:22.750Z */
+/* Generated 2026-04-24T20:28:44.906Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 9",
-    "date": "2026-04-24",
-    "timeUK": "19:00",
-    "location": "Canon Medical Arena",
-    "team1": "NIC Leeds Rhinos",
-    "team2": "Nottingham Forest",
-    "watch": "BBC Sport; Netball Pass"
-  },
   {
     "competition": "NSL - Round 9",
     "date": "2026-04-25",
