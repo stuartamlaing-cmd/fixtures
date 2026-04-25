@@ -1,4 +1,4 @@
-/* Generated 2026-04-25T18:59:56.555Z */
+/* Generated 2026-04-25T19:03:43.284Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 9",
@@ -14,13 +14,13 @@ window.RESULTS  = [
   {
     "competition": "NSL - Round 9",
     "date": "2026-04-25",
-    "timeUK": "18:00",
+    "timeUK": "",
     "location": "Worcester Arena",
     "team1": "Birmingham Panthers",
     "team2": "London Pulse",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "35",
-    "score2": ""
+    "score2": "61"
   },
   {
     "competition": "NSL - Round 9",
