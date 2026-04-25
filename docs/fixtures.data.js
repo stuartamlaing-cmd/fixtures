@@ -1,14 +1,5 @@
-/* Generated 2026-04-24T20:29:15.276Z */
+/* Generated 2026-04-25T18:59:21.081Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 9",
-    "date": "2026-04-25",
-    "timeUK": "16:00",
-    "location": "Brighton Centre",
-    "team1": "London Mavericks",
-    "team2": "Manchester Thunder",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL - Round 9",
     "date": "2026-04-25",
