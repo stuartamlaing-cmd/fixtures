@@ -1,5 +1,16 @@
-/* Generated 2026-04-24T20:29:15.279Z */
+/* Generated 2026-04-25T18:59:21.082Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL - Round 9",
+    "date": "2026-04-25",
+    "timeUK": "16:00",
+    "location": "Brighton Centre",
+    "team1": "London Mavericks",
+    "team2": "Manchester Thunder",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "47",
+    "score2": ""
+  },
   {
     "competition": "NSL - Round 9",
     "date": "2026-04-24",
