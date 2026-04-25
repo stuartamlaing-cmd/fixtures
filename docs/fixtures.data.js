@@ -1,14 +1,5 @@
-/* Generated 2026-04-25T18:59:21.081Z */
+/* Generated 2026-04-25T18:59:56.542Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 9",
-    "date": "2026-04-25",
-    "timeUK": "18:00",
-    "location": "Worcester Arena",
-    "team1": "Birmingham Panthers",
-    "team2": "London Pulse",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL - Round 9",
     "date": "2026-04-26",
