@@ -1,4 +1,4 @@
-/* Generated 2026-04-26T19:52:33.814Z */
+/* Generated 2026-04-26T19:53:07.656Z */
 window.FIXTURES = [
   {
     "competition": "NSL - Round 10",
