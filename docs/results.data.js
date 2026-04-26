@@ -1,5 +1,16 @@
-/* Generated 2026-04-25T19:03:43.284Z */
+/* Generated 2026-04-26T19:52:33.815Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL - Round 9",
+    "date": "2026-04-26",
+    "timeUK": "16:00",
+    "location": "Utilita Arena",
+    "team1": "Lexisnexis Dragons",
+    "team2": "Loughborough Lightning",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "62",
+    "score2": ""
+  },
   {
     "competition": "NSL - Round 9",
     "date": "2026-04-25",
@@ -14,7 +25,7 @@ window.RESULTS  = [
   {
     "competition": "NSL - Round 9",
     "date": "2026-04-25",
-    "timeUK": "",
+    "timeUK": "18:00",
     "location": "Worcester Arena",
     "team1": "Birmingham Panthers",
     "team2": "London Pulse",
