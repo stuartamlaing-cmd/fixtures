@@ -1,14 +1,5 @@
-/* Generated 2026-04-25T19:03:43.282Z */
+/* Generated 2026-04-26T19:52:33.814Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 9",
-    "date": "2026-04-26",
-    "timeUK": "16:00",
-    "location": "Utilita Arena",
-    "team1": "Lexisnexis Dragons",
-    "team2": "Loughborough Lightning",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL - Round 10",
     "date": "2026-05-02",
