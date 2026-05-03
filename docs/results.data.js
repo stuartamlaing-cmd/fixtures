@@ -1,4 +1,4 @@
-/* Generated 2026-05-03T11:52:26.378Z */
+/* Generated 2026-05-03T11:52:59.251Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 10",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "65",
-    "score2": ""
+    "score2": "64"
   },
   {
     "competition": "NSL - Round 10",
@@ -19,8 +19,8 @@ window.RESULTS  = [
     "team1": "NIC Leeds Rhinos",
     "team2": "London Mavericks",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
-    "score1": "",
-    "score2": ""
+    "score1": "60",
+    "score2": "63"
   },
   {
     "competition": "NSL - Round 9",
