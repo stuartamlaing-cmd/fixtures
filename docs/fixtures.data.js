@@ -1,23 +1,5 @@
-/* Generated 2026-04-26T19:53:07.656Z */
+/* Generated 2026-05-03T11:52:26.374Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 10",
-    "date": "2026-05-02",
-    "timeUK": "18:00",
-    "location": "House Of Sport",
-    "team1": "Lexisnexis Dragons",
-    "team2": "Nottingham Forest",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
-  {
-    "competition": "NSL - Round 10",
-    "date": "2026-05-02",
-    "timeUK": "19:30",
-    "location": "Canon Medical Arena",
-    "team1": "NIC Leeds Rhinos",
-    "team2": "London Mavericks",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL - Round 10",
     "date": "2026-05-03",
