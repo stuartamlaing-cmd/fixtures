@@ -1,10 +1,21 @@
-/* Generated 2026-05-04T08:09:43.017Z */
+/* Generated 2026-05-04T19:51:11.392Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL - Round 10",
+    "date": "2026-05-04",
+    "timeUK": "18:00",
+    "location": "Belle Vue Arena",
+    "team1": "Manchester Thunder",
+    "team2": "Birmingham Panthers",
+    "watch": "BBC Sport; Netball Pass",
+    "score1": "48",
+    "score2": ""
+  },
   {
     "competition": "NSL - Round 10",
     "date": "2026-05-03",
     "timeUK": "18:00",
-    "location": "Copper Box Aren",
+    "location": "Copper Box Arena",
     "team1": "London Pulse",
     "team2": "Loughborough Lightning",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
