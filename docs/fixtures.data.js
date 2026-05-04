@@ -1,14 +1,5 @@
-/* Generated 2026-05-04T08:09:43.014Z */
+/* Generated 2026-05-04T19:51:11.391Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL - Round 10",
-    "date": "2026-05-04",
-    "timeUK": "18:00",
-    "location": "Belle Vue Arena",
-    "team1": "Manchester Thunder",
-    "team2": "Birmingham Panthers",
-    "watch": "BBC Sport; Netball Pass"
-  },
   {
     "competition": "NSL Round 11",
     "date": "2026-05-08",
