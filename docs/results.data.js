@@ -1,4 +1,4 @@
-/* Generated 2026-05-04T19:51:11.392Z */
+/* Generated 2026-05-04T19:53:04.766Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 10",
@@ -9,13 +9,13 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "BBC Sport; Netball Pass",
     "score1": "48",
-    "score2": ""
+    "score2": "58"
   },
   {
     "competition": "NSL - Round 10",
     "date": "2026-05-03",
     "timeUK": "18:00",
-    "location": "Copper Box Arena",
+    "location": "Copper Box Aren",
     "team1": "London Pulse",
     "team2": "Loughborough Lightning",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
