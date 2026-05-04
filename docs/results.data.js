@@ -1,15 +1,15 @@
-/* Generated 2026-05-04T08:08:13.023Z */
+/* Generated 2026-05-04T08:09:43.017Z */
 window.RESULTS  = [
   {
     "competition": "NSL - Round 10",
     "date": "2026-05-03",
     "timeUK": "18:00",
-    "location": "Copper Box Arena",
+    "location": "Copper Box Aren",
     "team1": "London Pulse",
     "team2": "Loughborough Lightning",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "75",
-    "score2": ""
+    "score2": "71"
   },
   {
     "competition": "NSL - Round 10",
