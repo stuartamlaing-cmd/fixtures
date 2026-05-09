@@ -1,4 +1,4 @@
-/* Generated 2026-05-09T17:42:49.221Z */
+/* Generated 2026-05-09T20:26:41.069Z */
 window.RESULTS  = [
   {
     "competition": "NSL Round 11",
@@ -21,6 +21,17 @@ window.RESULTS  = [
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "68",
     "score2": "62"
+  },
+  {
+    "competition": "NSL Round 11",
+    "date": "2026-05-09",
+    "timeUK": "18:00",
+    "location": "M&S Bank Arena",
+    "team1": "Manchester Thunder",
+    "team2": "London Pulse",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "64",
+    "score2": ""
   },
   {
     "competition": "NSL Round 11",
