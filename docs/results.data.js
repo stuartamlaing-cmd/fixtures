@@ -1,4 +1,4 @@
-/* Generated 2026-05-09T17:42:09.083Z */
+/* Generated 2026-05-09T17:42:49.221Z */
 window.RESULTS  = [
   {
     "competition": "NSL Round 11",
@@ -9,7 +9,18 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "BBC Sport; Netball Pass",
     "score1": "57",
-    "score2": ""
+    "score2": "49"
+  },
+  {
+    "competition": "NSL Round 11",
+    "date": "2026-05-09",
+    "timeUK": "15:30",
+    "location": "M&S Bank Arena",
+    "team1": "Lexisnexis Dragons",
+    "team2": "NIC Leeds Rhinos",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "68",
+    "score2": "62"
   },
   {
     "competition": "NSL Round 11",
