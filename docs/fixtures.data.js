@@ -1,14 +1,5 @@
-/* Generated 2026-05-08T20:12:01.635Z */
+/* Generated 2026-05-09T17:42:09.083Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL Round 11",
-    "date": "2026-05-09",
-    "timeUK": "15:00",
-    "location": "Motorpoint Arena",
-    "team1": "Nottingham Forest",
-    "team2": "London Mavericks",
-    "watch": "BBC Sport; Netball Pass"
-  },
   {
     "competition": "NSL Round 11",
     "date": "2026-05-09",
