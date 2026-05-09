@@ -1,14 +1,5 @@
-/* Generated 2026-05-09T17:42:49.221Z */
+/* Generated 2026-05-09T20:26:41.068Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL Round 11",
-    "date": "2026-05-09",
-    "timeUK": "18:00",
-    "location": "M&S Bank Arena",
-    "team1": "Manchester Thunder",
-    "team2": "London Pulse",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL Round 12",
     "date": "2026-05-15",
