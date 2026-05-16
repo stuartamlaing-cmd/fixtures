@@ -1,4 +1,4 @@
-/* Generated 2026-05-16T18:01:13.108Z */
+/* Generated 2026-05-16T18:01:59.575Z */
 window.RESULTS  = [
   {
     "competition": "NSL Round 12",
@@ -19,8 +19,8 @@ window.RESULTS  = [
     "team1": "Loughborough Lightning",
     "team2": "Nottingham Forest",
     "watch": "BBC Sport; Netball Pass",
-    "score1": "",
-    "score2": ""
+    "score1": "65",
+    "score2": "76"
   },
   {
     "competition": "NSL Round 11",
