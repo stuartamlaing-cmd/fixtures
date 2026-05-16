@@ -1,23 +1,5 @@
-/* Generated 2026-05-09T20:27:12.781Z */
+/* Generated 2026-05-16T18:00:28.059Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL Round 12",
-    "date": "2026-05-15",
-    "timeUK": "19:00",
-    "location": "Canon Medical Arena",
-    "team1": "NIC Leeds Rhinos",
-    "team2": "Manchester Thunder",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
-  {
-    "competition": "NSL Round 12",
-    "date": "2026-05-15",
-    "timeUK": "19:00",
-    "location": "Sir David Wallace Arena",
-    "team1": "Loughborough Lightning",
-    "team2": "Nottingham Forest",
-    "watch": "BBC Sport; Netball Pass"
-  },
   {
     "competition": "NSL Round 12",
     "date": "2026-05-16",
