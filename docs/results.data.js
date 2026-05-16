@@ -1,4 +1,4 @@
-/* Generated 2026-05-16T18:02:31.709Z */
+/* Generated 2026-05-16T18:03:07.340Z */
 window.RESULTS  = [
   {
     "competition": "NSL Round 12",
@@ -14,7 +14,7 @@ window.RESULTS  = [
   {
     "competition": "NSL Round 12",
     "date": "2026-05-15",
-    "timeUK": "19:",
+    "timeUK": "19:00",
     "location": "Sir David Wallace Arena",
     "team1": "Loughborough Lightning",
     "team2": "Nottingham Forest",
