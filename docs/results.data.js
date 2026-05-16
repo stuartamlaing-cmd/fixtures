@@ -1,4 +1,4 @@
-/* Generated 2026-05-16T18:00:28.060Z */
+/* Generated 2026-05-16T18:01:13.108Z */
 window.RESULTS  = [
   {
     "competition": "NSL Round 12",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "66",
-    "score2": ""
+    "score2": "82"
   },
   {
     "competition": "NSL Round 12",
