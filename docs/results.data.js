@@ -1,5 +1,27 @@
-/* Generated 2026-05-09T20:27:12.782Z */
+/* Generated 2026-05-16T18:00:28.060Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL Round 12",
+    "date": "2026-05-15",
+    "timeUK": "19:00",
+    "location": "Canon Medical Arena",
+    "team1": "NIC Leeds Rhinos",
+    "team2": "Manchester Thunder",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "66",
+    "score2": ""
+  },
+  {
+    "competition": "NSL Round 12",
+    "date": "2026-05-15",
+    "timeUK": "19:00",
+    "location": "Sir David Wallace Arena",
+    "team1": "Loughborough Lightning",
+    "team2": "Nottingham Forest",
+    "watch": "BBC Sport; Netball Pass",
+    "score1": "",
+    "score2": ""
+  },
   {
     "competition": "NSL Round 11",
     "date": "2026-05-09",
