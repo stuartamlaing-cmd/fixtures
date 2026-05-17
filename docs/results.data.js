@@ -1,5 +1,16 @@
-/* Generated 2026-05-16T18:03:07.340Z */
+/* Generated 2026-05-17T17:09:15.521Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL Round 12",
+    "date": "2026-05-16",
+    "timeUK": "18:00",
+    "location": "Skydome",
+    "team1": "Birmingham Panthers",
+    "team2": "Lexisnexis Dragons",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "50",
+    "score2": ""
+  },
   {
     "competition": "NSL Round 12",
     "date": "2026-05-15",
