@@ -1,5 +1,16 @@
-/* Generated 2026-05-17T17:09:15.521Z */
+/* Generated 2026-05-17T17:09:56.977Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL Round 12",
+    "date": "2026-05-17",
+    "timeUK": "16:00",
+    "location": "Ovo Arena",
+    "team1": "London Mavericks",
+    "team2": "London Pulse",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "49",
+    "score2": "55"
+  },
   {
     "competition": "NSL Round 12",
     "date": "2026-05-16",
@@ -9,7 +20,7 @@ window.RESULTS  = [
     "team2": "Lexisnexis Dragons",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "50",
-    "score2": ""
+    "score2": "62"
   },
   {
     "competition": "NSL Round 12",
