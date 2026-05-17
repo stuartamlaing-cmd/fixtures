@@ -1,14 +1,5 @@
-/* Generated 2026-05-16T18:03:07.339Z */
+/* Generated 2026-05-17T17:09:15.521Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL Round 12",
-    "date": "2026-05-16",
-    "timeUK": "18:00",
-    "location": "Skydome",
-    "team1": "Birmingham Panthers",
-    "team2": "Lexisnexis Dragons",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL Round 12",
     "date": "2026-05-17",
