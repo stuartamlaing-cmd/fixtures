@@ -1,14 +1,5 @@
-/* Generated 2026-05-17T17:09:56.976Z */
+/* Generated 2026-05-22T20:24:37.452Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL Round 13",
-    "date": "2026-05-22",
-    "timeUK": "19:00",
-    "location": "Motorpoint Arena",
-    "team1": "Nottingham Forest",
-    "team2": "Manchester Thunder",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL Round 13",
     "date": "2026-05-23",
