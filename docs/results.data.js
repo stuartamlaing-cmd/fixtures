@@ -1,5 +1,16 @@
-/* Generated 2026-05-17T17:09:56.977Z */
+/* Generated 2026-05-22T20:24:37.455Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL Round 13",
+    "date": "2026-05-22",
+    "timeUK": "19:00",
+    "location": "Motorpoint Arena",
+    "team1": "Nottingham Forest",
+    "team2": "Manchester Thunder",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "51",
+    "score2": ""
+  },
   {
     "competition": "NSL Round 12",
     "date": "2026-05-17",
