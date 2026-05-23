@@ -1,4 +1,4 @@
-/* Generated 2026-05-23T19:50:49.611Z */
+/* Generated 2026-05-23T19:51:31.054Z */
 window.RESULTS  = [
   {
     "competition": "NSL Round 13",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "NIC Leeds Rhinos",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "79",
-    "score2": ""
+    "score2": "55"
   },
   {
     "competition": "NSL Round 13",
