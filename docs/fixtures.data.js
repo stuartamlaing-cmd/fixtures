@@ -1,14 +1,5 @@
-/* Generated 2026-05-22T20:25:12.486Z */
+/* Generated 2026-05-23T19:50:49.611Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL Round 13",
-    "date": "2026-05-23",
-    "timeUK": "18:00",
-    "location": "Sir David Wallace Arena",
-    "team1": "Loughborough Lightning",
-    "team2": "NIC Leeds Rhinos",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL Round 13",
     "date": "2026-05-24",
