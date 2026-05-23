@@ -1,4 +1,4 @@
-/* Generated 2026-05-23T19:50:49.611Z */
+/* Generated 2026-05-23T19:51:31.052Z */
 window.FIXTURES = [
   {
     "competition": "NSL Round 13",
