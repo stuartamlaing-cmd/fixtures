@@ -1,14 +1,5 @@
-/* Generated 2026-05-24T19:31:07.508Z */
+/* Generated 2026-05-24T19:31:51.757Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL Round 13",
-    "date": "2026-05-24",
-    "timeUK": "18:00",
-    "location": "Essex Sports Arena",
-    "team1": "London Mavericks",
-    "team2": "Birmingham Panthers",
-    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
-  },
   {
     "competition": "NSL Round 14",
     "date": "2026-05-29",
