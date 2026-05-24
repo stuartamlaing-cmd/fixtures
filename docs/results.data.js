@@ -1,4 +1,4 @@
-/* Generated 2026-05-24T19:31:07.509Z */
+/* Generated 2026-05-24T19:31:51.757Z */
 window.RESULTS  = [
   {
     "competition": "NSL Round 13",
@@ -10,6 +10,17 @@ window.RESULTS  = [
     "watch": "BBC Sport; Netball Pass",
     "score1": "67",
     "score2": "66"
+  },
+  {
+    "competition": "NSL Round 13",
+    "date": "2026-05-24",
+    "timeUK": "18:00",
+    "location": "Essex Sports Arena",
+    "team1": "London Mavericks",
+    "team2": "Birmingham Panthers",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "51",
+    "score2": "52"
   },
   {
     "competition": "NSL Round 13",
