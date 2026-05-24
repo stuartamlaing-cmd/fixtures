@@ -1,14 +1,5 @@
-/* Generated 2026-05-23T19:51:31.052Z */
+/* Generated 2026-05-24T19:30:37.105Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL Round 13",
-    "date": "2026-05-24",
-    "timeUK": "17:00",
-    "location": "Copper Box Arena",
-    "team1": "London Pulse",
-    "team2": "Lexisnexis Dragons",
-    "watch": "BBC Sport; Netball Pass"
-  },
   {
     "competition": "NSL Round 13",
     "date": "2026-05-24",
