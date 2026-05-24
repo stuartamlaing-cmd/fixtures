@@ -1,4 +1,4 @@
-/* Generated 2026-05-24T19:30:37.106Z */
+/* Generated 2026-05-24T19:31:07.509Z */
 window.RESULTS  = [
   {
     "competition": "NSL Round 13",
@@ -8,8 +8,8 @@ window.RESULTS  = [
     "team1": "London Pulse",
     "team2": "Lexisnexis Dragons",
     "watch": "BBC Sport; Netball Pass",
-    "score1": "66",
-    "score2": ""
+    "score1": "67",
+    "score2": "66"
   },
   {
     "competition": "NSL Round 13",
