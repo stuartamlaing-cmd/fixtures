@@ -1,5 +1,16 @@
-/* Generated 2026-05-24T19:31:51.757Z */
+/* Generated 2026-05-29T19:37:59.948Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL Round 14",
+    "date": "2026-05-29",
+    "timeUK": "19:00",
+    "location": "Canon Medical Arena",
+    "team1": "NIC Leeds Rhinos",
+    "team2": "Birmingham Panthers",
+    "watch": "",
+    "score1": "43",
+    "score2": ""
+  },
   {
     "competition": "NSL Round 13",
     "date": "2026-05-24",
