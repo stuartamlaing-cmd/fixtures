@@ -1,4 +1,4 @@
-/* Generated 2026-05-29T19:37:59.948Z */
+/* Generated 2026-05-29T19:38:45.201Z */
 window.RESULTS  = [
   {
     "competition": "NSL Round 14",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "",
     "score1": "43",
-    "score2": ""
+    "score2": "67"
   },
   {
     "competition": "NSL Round 13",
