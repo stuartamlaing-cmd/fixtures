@@ -1,14 +1,5 @@
-/* Generated 2026-05-24T19:31:51.757Z */
+/* Generated 2026-05-29T19:37:59.947Z */
 window.FIXTURES = [
-  {
-    "competition": "NSL Round 14",
-    "date": "2026-05-29",
-    "timeUK": "19:00",
-    "location": "Canon Medical Arena",
-    "team1": "NIC Leeds Rhinos",
-    "team2": "Birmingham Panthers",
-    "watch": ""
-  },
   {
     "competition": "NSL Round 14",
     "date": "2026-05-30",
