@@ -1,5 +1,16 @@
-/* Generated 2026-05-29T19:38:45.201Z */
+/* Generated 2026-05-30T18:52:13.417Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL Round 14",
+    "date": "2026-05-30",
+    "timeUK": "16:00",
+    "location": "Hertfordshire Sports Village",
+    "team1": "London Mavericks",
+    "team2": "Lexisnexis Dragons",
+    "watch": "",
+    "score1": "50",
+    "score2": ""
+  },
   {
     "competition": "NSL Round 14",
     "date": "2026-05-29",
