@@ -1,4 +1,4 @@
-/* Generated 2026-05-30T18:52:13.417Z */
+/* Generated 2026-05-30T18:52:44.046Z */
 window.RESULTS  = [
   {
     "competition": "NSL Round 14",
@@ -9,7 +9,18 @@ window.RESULTS  = [
     "team2": "Lexisnexis Dragons",
     "watch": "",
     "score1": "50",
-    "score2": ""
+    "score2": "57"
+  },
+  {
+    "competition": "NSL Round 14",
+    "date": "2026-05-30",
+    "timeUK": "17:00",
+    "location": "National Cycling Centre",
+    "team1": "Manchester Thunder",
+    "team2": "Loughborough Lightning",
+    "watch": "",
+    "score1": "68",
+    "score2": "67"
   },
   {
     "competition": "NSL Round 14",
