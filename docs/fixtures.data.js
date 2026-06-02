@@ -1,12 +1,12 @@
-/* Generated 2026-06-02T14:55:50.741Z */
+/* Generated 2026-06-02T14:56:30.563Z */
 window.FIXTURES = [
   {
     "competition": "Major Semi Final",
     "date": "2026-06-06",
     "timeUK": "19:30",
     "location": "National Cycling Centre",
-    "team1": "",
-    "team2": "",
+    "team1": "AO Manchester Thunder",
+    "team2": "London Pulse",
     "watch": ""
   },
   {
