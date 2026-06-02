@@ -1,4 +1,4 @@
-/* Generated 2026-06-02T14:53:20.635Z */
+/* Generated 2026-06-02T14:54:15.267Z */
 window.RESULTS  = [
   {
     "competition": "NSL Round 14",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "",
     "score1": "51",
-    "score2": ""
+    "score2": "62"
   },
   {
     "competition": "NSL Round 14",
