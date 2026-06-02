@@ -1,4 +1,4 @@
-/* Generated 2026-06-02T15:00:22.315Z */
+/* Generated 2026-06-02T15:01:00.181Z */
 window.RESULTS  = [
   {
     "competition": "NSL Round 14",
