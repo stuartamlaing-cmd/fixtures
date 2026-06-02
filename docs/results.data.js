@@ -1,16 +1,5 @@
-/* Generated 2026-06-02T14:54:46.701Z */
+/* Generated 2026-06-02T14:55:19.219Z */
 window.RESULTS  = [
-  {
-    "competition": "Major Semi Final",
-    "date": "2026-06-01",
-    "timeUK": "",
-    "location": "",
-    "team1": "",
-    "team2": "",
-    "watch": "",
-    "score1": "",
-    "score2": ""
-  },
   {
     "competition": "NSL Round 14",
     "date": "2026-05-31",
