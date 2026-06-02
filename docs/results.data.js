@@ -1,4 +1,4 @@
-/* Generated 2026-06-02T14:56:30.563Z */
+/* Generated 2026-06-02T14:57:35.427Z */
 window.RESULTS  = [
   {
     "competition": "NSL Round 14",
@@ -40,7 +40,7 @@ window.RESULTS  = [
     "location": "Canon Medical Arena",
     "team1": "NIC Leeds Rhinos",
     "team2": "Birmingham Panthers",
-    "watch": "",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "43",
     "score2": "67"
   },
