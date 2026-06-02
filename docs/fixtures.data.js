@@ -1,4 +1,4 @@
-/* Generated 2026-06-02T14:56:30.563Z */
+/* Generated 2026-06-02T14:57:35.427Z */
 window.FIXTURES = [
   {
     "competition": "Major Semi Final",
