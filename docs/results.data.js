@@ -1,4 +1,4 @@
-/* Generated 2026-06-02T14:59:16.177Z */
+/* Generated 2026-06-02T15:00:22.315Z */
 window.RESULTS  = [
   {
     "competition": "NSL Round 14",
@@ -28,8 +28,8 @@ window.RESULTS  = [
     "timeUK": "17:00",
     "location": "National Cycling Centre",
     "team1": "Manchester Thunder",
-    "team2": "",
-    "watch": "",
+    "team2": "Loughborough Lightning",
+    "watch": "BBC Sport; Netball Pass",
     "score1": "68",
     "score2": "67"
   },
