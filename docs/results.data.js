@@ -1,4 +1,4 @@
-/* Generated 2026-06-02T14:57:35.427Z */
+/* Generated 2026-06-02T14:58:26.201Z */
 window.RESULTS  = [
   {
     "competition": "NSL Round 14",
@@ -7,7 +7,7 @@ window.RESULTS  = [
     "location": "Motorpoint Arena",
     "team1": "Nottingham Forest",
     "team2": "London Pulse",
-    "watch": "",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "51",
     "score2": "62"
   },
@@ -18,7 +18,7 @@ window.RESULTS  = [
     "location": "Hertfordshire Sports Village",
     "team1": "London Mavericks",
     "team2": "Lexisnexis Dragons",
-    "watch": "",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "50",
     "score2": "57"
   },
@@ -28,7 +28,7 @@ window.RESULTS  = [
     "timeUK": "17:00",
     "location": "National Cycling Centre",
     "team1": "Manchester Thunder",
-    "team2": "Loughborough Lightning",
+    "team2": "",
     "watch": "",
     "score1": "68",
     "score2": "67"
