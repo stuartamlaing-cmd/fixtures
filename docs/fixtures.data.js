@@ -1,4 +1,4 @@
-/* Generated 2026-06-05T15:33:31.108Z */
+/* Generated 2026-06-05T15:35:27.022Z */
 window.FIXTURES = [
   {
     "competition": "Minor Semi Final",
@@ -7,7 +7,7 @@ window.FIXTURES = [
     "location": "Sir David Wallace Arena",
     "team1": "Loughborough Lightning",
     "team2": "Nottingham Forest",
-    "watch": ""
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "Major Semi Final",
