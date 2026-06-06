@@ -1,5 +1,16 @@
-/* Generated 2026-06-05T15:35:27.023Z */
+/* Generated 2026-06-06T17:19:55.936Z */
 window.RESULTS  = [
+  {
+    "competition": "Minor Semi Final",
+    "date": "2026-06-06",
+    "timeUK": "15:00",
+    "location": "Sir David Wallace Arena",
+    "team1": "Loughborough Lightning",
+    "team2": "Nottingham Forest",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "77",
+    "score2": ""
+  },
   {
     "competition": "NSL Round 14",
     "date": "2026-05-31",
