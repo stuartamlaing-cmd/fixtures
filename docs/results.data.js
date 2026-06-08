@@ -1,4 +1,4 @@
-/* Generated 2026-06-08T09:03:37.716Z */
+/* Generated 2026-06-08T09:04:09.722Z */
 window.RESULTS  = [
   {
     "competition": "Major Semi Final",
