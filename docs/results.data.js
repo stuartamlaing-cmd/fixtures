@@ -1,4 +1,4 @@
-/* Generated 2026-06-06T17:58:57.285Z */
+/* Generated 2026-06-08T09:03:37.716Z */
 window.RESULTS  = [
   {
     "competition": "Major Semi Final",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "60",
-    "score2": ""
+    "score2": "56"
   },
   {
     "competition": "Minor Semi Final",
