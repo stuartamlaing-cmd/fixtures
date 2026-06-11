@@ -1,4 +1,4 @@
-/* Generated 2026-06-11T13:18:45.388Z */
+/* Generated 2026-06-11T13:20:02.556Z */
 window.FIXTURES = [
   {
     "competition": "NSL 2026 Preliminary finals",
@@ -6,8 +6,8 @@ window.FIXTURES = [
     "timeUK": "16:00",
     "location": "Lee Valley Velo Park",
     "team1": "London Pulse",
-    "team2": "",
-    "watch": ""
+    "team2": "Loughborough Lightning",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   },
   {
     "competition": "NSL 2026 Final",
