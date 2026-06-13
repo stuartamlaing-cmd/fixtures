@@ -1,4 +1,4 @@
-/* Generated 2026-06-13T09:12:35.864Z */
+/* Generated 2026-06-13T09:55:53.670Z */
 window.RESULTS  = [
   {
     "competition": "Major Semi Final",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "56"
+    "score2": "60"
   },
   {
     "competition": "Minor Semi Final",
@@ -20,7 +20,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "57"
+    "score2": "77"
   },
   {
     "competition": "NSL Round 14",
@@ -31,7 +31,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "62"
+    "score2": "51"
   },
   {
     "competition": "NSL Round 14",
@@ -42,7 +42,7 @@ window.RESULTS  = [
     "team2": "Lexisnexis Dragons",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "57"
+    "score2": "50"
   },
   {
     "competition": "NSL Round 14",
@@ -53,7 +53,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "BBC Sport; Netball Pass",
     "score1": "",
-    "score2": "67"
+    "score2": "68"
   },
   {
     "competition": "NSL Round 14",
@@ -64,7 +64,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "67"
+    "score2": "43"
   },
   {
     "competition": "NSL Round 13",
@@ -75,7 +75,7 @@ window.RESULTS  = [
     "team2": "Lexisnexis Dragons",
     "watch": "BBC Sport; Netball Pass",
     "score1": "",
-    "score2": "66"
+    "score2": "67"
   },
   {
     "competition": "NSL Round 13",
@@ -86,7 +86,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "52"
+    "score2": "51"
   },
   {
     "competition": "NSL Round 13",
@@ -97,7 +97,7 @@ window.RESULTS  = [
     "team2": "NIC Leeds Rhinos",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "55"
+    "score2": "79"
   },
   {
     "competition": "NSL Round 13",
@@ -108,7 +108,7 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "78"
+    "score2": "51"
   },
   {
     "competition": "NSL Round 12",
@@ -119,7 +119,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "55"
+    "score2": "49"
   },
   {
     "competition": "NSL Round 12",
@@ -130,7 +130,7 @@ window.RESULTS  = [
     "team2": "Lexisnexis Dragons",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "62"
+    "score2": "50"
   },
   {
     "competition": "NSL Round 12",
@@ -141,7 +141,7 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "82"
+    "score2": "66"
   },
   {
     "competition": "NSL Round 12",
@@ -152,7 +152,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "BBC Sport; Netball Pass",
     "score1": "",
-    "score2": "76"
+    "score2": "65"
   },
   {
     "competition": "NSL Round 11",
@@ -163,7 +163,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "BBC Sport; Netball Pass",
     "score1": "",
-    "score2": "49"
+    "score2": "57"
   },
   {
     "competition": "NSL Round 11",
@@ -174,7 +174,7 @@ window.RESULTS  = [
     "team2": "NIC Leeds Rhinos",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "62"
+    "score2": "68"
   },
   {
     "competition": "NSL Round 11",
@@ -185,7 +185,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "52"
+    "score2": "64"
   },
   {
     "competition": "NSL Round 11",
@@ -196,7 +196,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "76"
+    "score2": "60"
   },
   {
     "competition": "NSL - Round 10",
@@ -207,7 +207,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "BBC Sport; Netball Pass",
     "score1": "",
-    "score2": "58"
+    "score2": "48"
   },
   {
     "competition": "NSL - Round 10",
@@ -218,7 +218,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "71"
+    "score2": "75"
   },
   {
     "competition": "NSL - Round 10",
@@ -229,7 +229,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "64"
+    "score2": "65"
   },
   {
     "competition": "NSL - Round 10",
@@ -240,7 +240,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "63"
+    "score2": "60"
   },
   {
     "competition": "NSL - Round 9",
@@ -251,7 +251,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "82"
+    "score2": "62"
   },
   {
     "competition": "NSL - Round 9",
@@ -262,7 +262,7 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "60"
+    "score2": "47"
   },
   {
     "competition": "NSL - Round 9",
@@ -273,7 +273,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "61"
+    "score2": "35"
   },
   {
     "competition": "NSL - Round 9",
@@ -284,7 +284,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "BBC Sport; Netball Pass",
     "score1": "",
-    "score2": "68"
+    "score2": "63"
   },
   {
     "competition": "NSL - Round 8",
@@ -295,7 +295,7 @@ window.RESULTS  = [
     "team2": "NIC Leeds Rhinos",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "44"
+    "score2": "65"
   },
   {
     "competition": "NSL - Round 8",
@@ -306,7 +306,7 @@ window.RESULTS  = [
     "team2": "Lexisnexis Dragons",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "55"
+    "score2": "67"
   },
   {
     "competition": "NSL - Round 8",
@@ -317,7 +317,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "BBC Sport; Netball Pass",
     "score1": "",
-    "score2": "56"
+    "score2": "73"
   },
   {
     "competition": "NSL - Round 8",
@@ -328,7 +328,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "70"
+    "score2": "54"
   },
   {
     "competition": "NSL - Round 7",
@@ -339,7 +339,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "BBC Sport; Netball Pass",
     "score1": "",
-    "score2": "48"
+    "score2": "47"
   },
   {
     "competition": "NSL - Round 7",
@@ -350,7 +350,7 @@ window.RESULTS  = [
     "team2": "NIC Leeds Rhinos",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "49"
+    "score2": "63"
   },
   {
     "competition": "NSL - Round 7",
@@ -361,7 +361,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "75"
+    "score2": "73"
   },
   {
     "competition": "NSL - Round 7",
@@ -372,7 +372,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "46"
+    "score2": "56"
   },
   {
     "competition": "NSL- Round 6",
@@ -383,7 +383,7 @@ window.RESULTS  = [
     "team2": "Lexisnexis Dragons",
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "62"
+    "score2": "57"
   },
   {
     "competition": "NSL- Round 6",
@@ -394,7 +394,7 @@ window.RESULTS  = [
     "team2": "NIC Leeds Rhinos",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "44"
+    "score2": "54"
   },
   {
     "competition": "NSL- Round 6",
@@ -405,7 +405,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "BBC Sport; Netball Pass",
     "score1": "",
-    "score2": "45"
+    "score2": "78"
   },
   {
     "competition": "NSL- Round 6",
@@ -416,7 +416,7 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "58"
+    "score2": "68"
   },
   {
     "competition": "NSL - Round 5",
@@ -427,7 +427,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "58"
+    "score2": "54"
   },
   {
     "competition": "NSL - Round 5",
@@ -438,7 +438,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "53"
+    "score2": "78"
   },
   {
     "competition": "NSL - Round 5",
@@ -449,7 +449,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "BBC Sport; Netball Pass",
     "score1": "",
-    "score2": "69"
+    "score2": "81"
   },
   {
     "competition": "NSL - Round 5",
@@ -460,7 +460,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "61"
+    "score2": "52"
   },
   {
     "competition": "NSL - Round 4",
@@ -471,7 +471,7 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "58"
+    "score2": "48"
   },
   {
     "competition": "NSL - Round 4",
@@ -482,7 +482,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "66"
+    "score2": "58"
   },
   {
     "competition": "NSL - Round 4",
@@ -493,7 +493,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "BBC Sport; Netball Pass",
     "score1": "",
-    "score2": "63"
+    "score2": "73"
   },
   {
     "competition": "NSL - Round 4",
@@ -504,7 +504,7 @@ window.RESULTS  = [
     "team2": "Lexisnexis Dragons",
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "62"
+    "score2": "51"
   },
   {
     "competition": "NSL- Round 3",
@@ -515,7 +515,7 @@ window.RESULTS  = [
     "team2": "NIC Leeds Rhinos",
     "watch": "BBC Sport; Netball Pass",
     "score1": "",
-    "score2": "51"
+    "score2": "61"
   },
   {
     "competition": "NSL- Round 3",
@@ -526,7 +526,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "76"
+    "score2": "49"
   },
   {
     "competition": "NSL- Round 3",
@@ -537,7 +537,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "61"
+    "score2": "68"
   },
   {
     "competition": "NSL- Round 3",
@@ -548,7 +548,7 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "69"
+    "score2": "55"
   },
   {
     "competition": "NSL- Round 2",
@@ -559,7 +559,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "58"
+    "score2": "68"
   },
   {
     "competition": "NSL- Round 2",
@@ -570,7 +570,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "BBC Sports; Netball Pass",
     "score1": "",
-    "score2": "59"
+    "score2": "69"
   },
   {
     "competition": "NSL- Round 2",
@@ -581,7 +581,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "51"
+    "score2": "50"
   },
   {
     "competition": "NSL- Round 2",
@@ -592,7 +592,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "70"
+    "score2": "41"
   },
   {
     "competition": "NSL- Round 1",
@@ -603,7 +603,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "BBC Sport; Netball Pass",
     "score1": "",
-    "score2": "60"
+    "score2": "59"
   },
   {
     "competition": "NSL- Round 1",
@@ -614,7 +614,7 @@ window.RESULTS  = [
     "team2": "Lexisnexis Dragons",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "60"
+    "score2": "76"
   },
   {
     "competition": "NSL- Round 1",
@@ -625,7 +625,7 @@ window.RESULTS  = [
     "team2": "NIC Leeds Rhinos",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "54"
+    "score2": "39"
   },
   {
     "competition": "NSL- Round 1",
@@ -636,7 +636,7 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "Sky Sports+; Sky Sports Mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "51"
+    "score2": "56"
   },
   {
     "competition": "NSL - Super Cup",
@@ -647,7 +647,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "Sky Sports mix; Netball Pass",
     "score1": "",
-    "score2": "21"
+    "score2": "23"
   },
   {
     "competition": "NSL - Super Cup",
@@ -658,7 +658,7 @@ window.RESULTS  = [
     "team2": "NIC Leeds Rhinos",
     "watch": "Sky Sports mix; Netball Pass",
     "score1": "",
-    "score2": "16"
+    "score2": "9"
   },
   {
     "competition": "NSL - Super Cup",
@@ -669,7 +669,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "Sky Sports mix; Netball Pass",
     "score1": "",
-    "score2": "8"
+    "score2": "15"
   },
   {
     "competition": "NSL - Super Cup",
@@ -680,7 +680,7 @@ window.RESULTS  = [
     "team2": "Lexisnexis Dragons",
     "watch": "Sky Sports mix; Netball Pass",
     "score1": "",
-    "score2": "18"
+    "score2": "6"
   },
   {
     "competition": "NSL - Super Cup",
@@ -691,7 +691,7 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "13"
+    "score2": "21"
   },
   {
     "competition": "NSL - Super Cup",
@@ -702,7 +702,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "12"
+    "score2": "14"
   },
   {
     "competition": "NSL - Super Cup",
@@ -713,7 +713,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "18"
+    "score2": "15"
   },
   {
     "competition": "NSL - Super Cup",
@@ -735,7 +735,7 @@ window.RESULTS  = [
     "team2": "Lexisnexis Dragons",
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "16"
+    "score2": "9"
   },
   {
     "competition": "NSL - Super Cup",
@@ -746,7 +746,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "19"
+    "score2": "8"
   },
   {
     "competition": "NSL - Super Cup",
@@ -757,7 +757,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "13"
+    "score2": "12"
   },
   {
     "competition": "NSL - Super Cup",
@@ -768,7 +768,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "21"
+    "score2": "18"
   },
   {
     "competition": "NSL - Super Cup -Semi Final",
@@ -779,7 +779,7 @@ window.RESULTS  = [
     "team2": "Leeds Rhinos",
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "9"
+    "score2": "13"
   },
   {
     "competition": "NSL - Super Cup - Semi Final",
@@ -790,7 +790,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "18"
+    "score2": "16"
   },
   {
     "competition": "NSL - Super Cup - Final",
@@ -801,7 +801,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports mix; Sky Sports YouTube; Netball Pass",
     "score1": "",
-    "score2": "17"
+    "score2": "18"
   },
   {
     "competition": "Australia vs Jamaica Series",
@@ -812,7 +812,7 @@ window.RESULTS  = [
     "team2": "Jamaica",
     "watch": "Netball Pass",
     "score1": "",
-    "score2": "33"
+    "score2": "80"
   },
   {
     "competition": "Australia vs Jamaica Series",
@@ -823,7 +823,7 @@ window.RESULTS  = [
     "team2": "Jamaica",
     "watch": "Netball Pass",
     "score1": "",
-    "score2": "41"
+    "score2": "73"
   },
   {
     "competition": "Australia vs Jamaica Series",
@@ -834,7 +834,7 @@ window.RESULTS  = [
     "team2": "Jamaica",
     "watch": "Netball Pass",
     "score1": "",
-    "score2": "41"
+    "score2": "72"
   },
   {
     "competition": "SPAR Challenge Series 2026",
@@ -845,7 +845,7 @@ window.RESULTS  = [
     "team2": "Vitality Roses",
     "watch": "Sky Sports; Sky Sports Youtube",
     "score1": "",
-    "score2": "50"
+    "score2": "65"
   },
   {
     "competition": "SPAR Challenge Series 2026",
@@ -856,7 +856,7 @@ window.RESULTS  = [
     "team2": "Vitality Roses",
     "watch": "Sky Sports; Sky Sports Youtube",
     "score1": "",
-    "score2": "61"
+    "score2": "49"
   },
   {
     "competition": "SPAR Challenge Series 2026",
@@ -867,7 +867,7 @@ window.RESULTS  = [
     "team2": "Vitality Roses",
     "watch": "Sky Sports; Sky Sports Youtube",
     "score1": "",
-    "score2": "48"
+    "score2": "52"
   },
   {
     "competition": "Nations Series Final",
@@ -878,7 +878,7 @@ window.RESULTS  = [
     "team2": "Australia",
     "watch": "SG Sports live",
     "score1": "",
-    "score2": "68"
+    "score2": "24"
   },
   {
     "competition": "Nations Series - Semi Final",
@@ -889,7 +889,7 @@ window.RESULTS  = [
     "team2": "New Zealand",
     "watch": "SG Sports live",
     "score1": "",
-    "score2": "45"
+    "score2": "50"
   },
   {
     "competition": "Nations Series",
@@ -900,7 +900,7 @@ window.RESULTS  = [
     "team2": "New Zealand",
     "watch": "SG Sports live",
     "score1": "",
-    "score2": "46"
+    "score2": "49"
   },
   {
     "competition": "Nations Series",
@@ -911,7 +911,7 @@ window.RESULTS  = [
     "team2": "Australia",
     "watch": "SG Sports live",
     "score1": "",
-    "score2": "72"
+    "score2": "28"
   },
   {
     "competition": "Nations Series",
@@ -922,7 +922,7 @@ window.RESULTS  = [
     "team2": "Singapore",
     "watch": "SG Sports live",
     "score1": "",
-    "score2": "42"
+    "score2": "56"
   },
   {
     "competition": "Nations Series",
@@ -933,7 +933,7 @@ window.RESULTS  = [
     "team2": "UAE",
     "watch": "SG Sports live",
     "score1": "",
-    "score2": "16"
+    "score2": "65"
   },
   {
     "competition": "The Horizon Series",
@@ -944,7 +944,7 @@ window.RESULTS  = [
     "team2": "Jamaica",
     "watch": "BBC iplayer; BBC Sport; Netball Pass",
     "score1": "",
-    "score2": "30"
+    "score2": "81"
   },
   {
     "competition": "The Horizon Series",
@@ -955,7 +955,7 @@ window.RESULTS  = [
     "team2": "Jamaica",
     "watch": "BBC TWO; BBC iplayer; BBC Sport; Netball Pass",
     "score1": "",
-    "score2": "37"
+    "score2": "80"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -966,7 +966,7 @@ window.RESULTS  = [
     "team2": "Northern Ireland",
     "watch": "Netball Pass",
     "score1": "",
-    "score2": "39"
+    "score2": "43"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -977,7 +977,7 @@ window.RESULTS  = [
     "team2": "Uganda",
     "watch": "BBC iplayer; Netball Pass",
     "score1": "",
-    "score2": "70"
+    "score2": "48"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -988,7 +988,7 @@ window.RESULTS  = [
     "team2": "Zimbabwe",
     "watch": "BBC iplayer; Netball Pass",
     "score1": "",
-    "score2": "45"
+    "score2": "55"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -999,7 +999,7 @@ window.RESULTS  = [
     "team2": "Namibia",
     "watch": "BBC iplayer; Netball Pass",
     "score1": "",
-    "score2": "39"
+    "score2": "67"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -1010,7 +1010,7 @@ window.RESULTS  = [
     "team2": "Zimbabwe",
     "watch": "Netball Pass",
     "score1": "",
-    "score2": "54"
+    "score2": "67"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -1021,7 +1021,7 @@ window.RESULTS  = [
     "team2": "Scotland",
     "watch": "BBC iplayer; Netball Pass",
     "score1": "",
-    "score2": "60"
+    "score2": "43"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -1032,7 +1032,7 @@ window.RESULTS  = [
     "team2": "Zimbabwe",
     "watch": "Netball Pass",
     "score1": "",
-    "score2": "49"
+    "score2": "39"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -1043,7 +1043,7 @@ window.RESULTS  = [
     "team2": "Northern Ireland",
     "watch": "BBC iplayer; Netball Pass",
     "score1": "",
-    "score2": "48"
+    "score2": "70"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -1054,7 +1054,7 @@ window.RESULTS  = [
     "team2": "Uganda",
     "watch": "BBC iplayer; Netball Pass",
     "score1": "",
-    "score2": "53"
+    "score2": "51"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -1065,7 +1065,7 @@ window.RESULTS  = [
     "team2": "Uganda",
     "watch": "Netball Pass",
     "score1": "",
-    "score2": "72"
+    "score2": "46"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -1076,7 +1076,7 @@ window.RESULTS  = [
     "team2": "Scotland",
     "watch": "BBC iplayer; Netball Pass",
     "score1": "",
-    "score2": "58"
+    "score2": "33"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -1087,7 +1087,7 @@ window.RESULTS  = [
     "team2": "Zimbabwe",
     "watch": "BBC iplayer; Netball Pass",
     "score1": "",
-    "score2": "42"
+    "score2": "56"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -1098,7 +1098,7 @@ window.RESULTS  = [
     "team2": "Northern Ireland",
     "watch": "Netball Pass",
     "score1": "",
-    "score2": "40"
+    "score2": "57"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -1109,7 +1109,7 @@ window.RESULTS  = [
     "team2": "Wales",
     "watch": "BBC iplayer; Netball Pass",
     "score1": "",
-    "score2": "54"
+    "score2": "62"
   },
   {
     "competition": "Celtic Cup 2025",
@@ -1120,7 +1120,7 @@ window.RESULTS  = [
     "team2": "Namibia",
     "watch": "Netball Pass",
     "score1": "",
-    "score2": "38"
+    "score2": "65"
   },
   {
     "competition": "Vitality International Series",
@@ -1131,7 +1131,7 @@ window.RESULTS  = [
     "team2": "New Zealand",
     "watch": "Sky Sports",
     "score1": "",
-    "score2": "55"
+    "score2": "49"
   },
   {
     "competition": "Vitality International Series",
@@ -1142,7 +1142,7 @@ window.RESULTS  = [
     "team2": "New Zealand",
     "watch": "Sky Sports",
     "score1": "",
-    "score2": "58"
+    "score2": "61"
   },
   {
     "competition": "Vitality International Series",
@@ -1153,7 +1153,7 @@ window.RESULTS  = [
     "team2": "New Zealand",
     "watch": "Sky sports",
     "score1": "",
-    "score2": "61"
+    "score2": "58"
   },
   {
     "competition": "NZ Test Series 2025",
@@ -1164,7 +1164,7 @@ window.RESULTS  = [
     "team2": "New Zealand",
     "watch": "BBC Sport; BBC iPLAYER; Netball Pass",
     "score1": "",
-    "score2": "80"
+    "score2": "48"
   },
   {
     "competition": "NZ Test Series 2025",
@@ -1175,7 +1175,7 @@ window.RESULTS  = [
     "team2": "New Zealand",
     "watch": "BBC Sport; BBC iPLAYER; Netball Pass",
     "score1": "",
-    "score2": "63"
+    "score2": "41"
   },
   {
     "competition": "Constellation Cup",
@@ -1186,7 +1186,7 @@ window.RESULTS  = [
     "team2": "Australia",
     "watch": "Netball pass",
     "score1": "",
-    "score2": "57"
+    "score2": "62"
   },
   {
     "competition": "Constellation Cup",
@@ -1197,7 +1197,7 @@ window.RESULTS  = [
     "team2": "Australia",
     "watch": "Netball pass",
     "score1": "",
-    "score2": "52"
+    "score2": "61"
   },
   {
     "competition": "Constellation Cup",
@@ -1208,7 +1208,7 @@ window.RESULTS  = [
     "team2": "New Zealand",
     "watch": "Netball pass",
     "score1": "",
-    "score2": "51"
+    "score2": "68"
   },
   {
     "competition": "Constellation Cup",
@@ -1219,7 +1219,7 @@ window.RESULTS  = [
     "team2": "New Zealand",
     "watch": "Netball pass",
     "score1": "",
-    "score2": "52"
+    "score2": "69"
   },
   {
     "competition": "South Africa Series",
@@ -1230,7 +1230,7 @@ window.RESULTS  = [
     "team2": "South Africa",
     "watch": "Netball pass",
     "score1": "",
-    "score2": "42"
+    "score2": "65"
   },
   {
     "competition": "South Africa Series",
@@ -1241,7 +1241,7 @@ window.RESULTS  = [
     "team2": "South Africa",
     "watch": "Netball pass",
     "score1": "",
-    "score2": "40"
+    "score2": "67"
   },
   {
     "competition": "South Africa Series",
@@ -1252,7 +1252,7 @@ window.RESULTS  = [
     "team2": "South Africa",
     "watch": "Netball pass",
     "score1": "",
-    "score2": "53"
+    "score2": "64"
   },
   {
     "competition": "Taini Jamison Trophy",
@@ -1263,7 +1263,7 @@ window.RESULTS  = [
     "team2": "South Africa",
     "watch": "Netball pass",
     "score1": "",
-    "score2": "56"
+    "score2": "57"
   },
   {
     "competition": "Taini Jamison Trophy",
@@ -1274,7 +1274,7 @@ window.RESULTS  = [
     "team2": "South Africa",
     "watch": "Netball pass",
     "score1": "",
-    "score2": "58"
+    "score2": "70"
   },
   {
     "competition": "Taini Jamison Trophy",
@@ -1285,7 +1285,7 @@ window.RESULTS  = [
     "team2": "South Africa",
     "watch": "Netball pass",
     "score1": "",
-    "score2": "51"
+    "score2": "77"
   },
   {
     "competition": "NSL",
@@ -1296,7 +1296,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "",
     "score1": "",
-    "score2": "45"
+    "score2": "53"
   },
   {
     "competition": "NSL",
@@ -1307,7 +1307,7 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "",
     "score1": "",
-    "score2": "57"
+    "score2": "69"
   },
   {
     "competition": "NSL",
@@ -1318,7 +1318,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "",
     "score1": "",
-    "score2": "49"
+    "score2": "50"
   },
   {
     "competition": "NSL",
@@ -1329,7 +1329,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "",
     "score1": "",
-    "score2": "49"
+    "score2": "79"
   },
   {
     "competition": "NSL",
@@ -1340,7 +1340,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "",
     "score1": "",
-    "score2": "61"
+    "score2": "80"
   },
   {
     "competition": "NSL",
@@ -1351,7 +1351,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "",
     "score1": "",
-    "score2": "67"
+    "score2": "45"
   },
   {
     "competition": "NSL",
@@ -1362,7 +1362,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "",
     "score1": "",
-    "score2": "67"
+    "score2": "44"
   },
   {
     "competition": "NSL",
@@ -1373,7 +1373,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "",
     "score1": "",
-    "score2": "58"
+    "score2": "67"
   },
   {
     "competition": "NSL",
@@ -1384,7 +1384,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "",
     "score1": "",
-    "score2": "60"
+    "score2": "52"
   },
   {
     "competition": "NSL",
@@ -1395,7 +1395,7 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "",
     "score1": "",
-    "score2": "58"
+    "score2": "48"
   },
   {
     "competition": "NSL",
@@ -1406,7 +1406,7 @@ window.RESULTS  = [
     "team2": "Leeds Rhinos",
     "watch": "",
     "score1": "",
-    "score2": "58"
+    "score2": "79"
   },
   {
     "competition": "NSL",
@@ -1417,7 +1417,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "",
     "score1": "",
-    "score2": "75"
+    "score2": "69"
   },
   {
     "competition": "NSL",
@@ -1428,7 +1428,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "",
     "score1": "",
-    "score2": "69"
+    "score2": "67"
   },
   {
     "competition": "NSL",
@@ -1439,7 +1439,7 @@ window.RESULTS  = [
     "team2": "Cardiff Dragons",
     "watch": "",
     "score1": "",
-    "score2": "50"
+    "score2": "73"
   },
   {
     "competition": "NSL",
@@ -1450,7 +1450,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "",
     "score1": "",
-    "score2": "66"
+    "score2": "62"
   },
   {
     "competition": "NSL",
@@ -1461,7 +1461,7 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "",
     "score1": "",
-    "score2": "54"
+    "score2": "59"
   },
   {
     "competition": "NSL",
@@ -1472,7 +1472,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "",
     "score1": "",
-    "score2": "69"
+    "score2": "55"
   },
   {
     "competition": "NSL",
@@ -1483,7 +1483,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "",
     "score1": "",
-    "score2": "71"
+    "score2": "54"
   },
   {
     "competition": "NSL",
@@ -1494,7 +1494,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "",
     "score1": "",
-    "score2": "48"
+    "score2": "57"
   },
   {
     "competition": "NSL",
@@ -1505,7 +1505,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "",
     "score1": "",
-    "score2": "62"
+    "score2": "56"
   },
   {
     "competition": "NSL",
@@ -1516,7 +1516,7 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "",
     "score1": "",
-    "score2": "71"
+    "score2": "66"
   },
   {
     "competition": "NSL",
@@ -1527,7 +1527,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "",
     "score1": "",
-    "score2": "61"
+    "score2": "67"
   },
   {
     "competition": "NSL",
@@ -1538,7 +1538,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "",
     "score1": "",
-    "score2": "58"
+    "score2": "53"
   },
   {
     "competition": "NSL",
@@ -1549,7 +1549,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "",
     "score1": "",
-    "score2": "77"
+    "score2": "53"
   },
   {
     "competition": "NSL",
@@ -1560,7 +1560,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "",
     "score1": "",
-    "score2": "63"
+    "score2": "53"
   },
   {
     "competition": "NSL",
@@ -1571,7 +1571,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "",
     "score1": "",
-    "score2": "71"
+    "score2": "58"
   },
   {
     "competition": "NSL",
@@ -1582,7 +1582,7 @@ window.RESULTS  = [
     "team2": "Cardiff Dragons",
     "watch": "",
     "score1": "",
-    "score2": "59"
+    "score2": "71"
   },
   {
     "competition": "NSL",
@@ -1593,7 +1593,7 @@ window.RESULTS  = [
     "team2": "Leeds Rhinos",
     "watch": "",
     "score1": "",
-    "score2": "61"
+    "score2": "57"
   },
   {
     "competition": "NSL",
@@ -1604,7 +1604,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "",
     "score1": "",
-    "score2": "69"
+    "score2": "71"
   },
   {
     "competition": "NSL",
@@ -1615,7 +1615,7 @@ window.RESULTS  = [
     "team2": "Cardiff Dragons",
     "watch": "",
     "score1": "",
-    "score2": "59"
+    "score2": "69"
   },
   {
     "competition": "NSL",
@@ -1626,7 +1626,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "",
     "score1": "",
-    "score2": "61"
+    "score2": "72"
   },
   {
     "competition": "NSL",
@@ -1637,7 +1637,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "",
     "score1": "",
-    "score2": "53"
+    "score2": "65"
   },
   {
     "competition": "NSL",
@@ -1648,7 +1648,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "",
     "score1": "",
-    "score2": "54"
+    "score2": "59"
   },
   {
     "competition": "NSL",
@@ -1659,7 +1659,7 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "",
     "score1": "",
-    "score2": "52"
+    "score2": "67"
   },
   {
     "competition": "NSL",
@@ -1670,7 +1670,7 @@ window.RESULTS  = [
     "team2": "Cardiff Dragons",
     "watch": "",
     "score1": "",
-    "score2": "68"
+    "score2": "72"
   },
   {
     "competition": "NSL",
@@ -1681,7 +1681,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "",
     "score1": "",
-    "score2": "74"
+    "score2": "60"
   },
   {
     "competition": "NSL",
@@ -1692,7 +1692,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "",
     "score1": "",
-    "score2": "62"
+    "score2": "56"
   },
   {
     "competition": "NSL",
@@ -1703,7 +1703,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "",
     "score1": "",
-    "score2": "70"
+    "score2": "71"
   },
   {
     "competition": "NSL",
@@ -1714,7 +1714,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "",
     "score1": "",
-    "score2": "69"
+    "score2": "57"
   },
   {
     "competition": "NSL",
@@ -1725,7 +1725,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "",
     "score1": "",
-    "score2": "56"
+    "score2": "61"
   },
   {
     "competition": "NSL",
@@ -1736,7 +1736,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "",
     "score1": "",
-    "score2": "68"
+    "score2": "58"
   },
   {
     "competition": "NSL",
@@ -1747,7 +1747,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "",
     "score1": "",
-    "score2": "57"
+    "score2": "71"
   },
   {
     "competition": "NSL",
@@ -1758,7 +1758,7 @@ window.RESULTS  = [
     "team2": "Cardiff Dragons",
     "watch": "",
     "score1": "",
-    "score2": "63"
+    "score2": "70"
   },
   {
     "competition": "NSL",
@@ -1769,7 +1769,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "",
     "score1": "",
-    "score2": "67"
+    "score2": "56"
   },
   {
     "competition": "NSL",
@@ -1780,7 +1780,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "",
     "score1": "",
-    "score2": "68"
+    "score2": "69"
   },
   {
     "competition": "NSL",
@@ -1791,7 +1791,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "",
     "score1": "",
-    "score2": "71"
+    "score2": "73"
   },
   {
     "competition": "NSL",
@@ -1802,7 +1802,7 @@ window.RESULTS  = [
     "team2": "Leeds Rhinos",
     "watch": "",
     "score1": "",
-    "score2": "68"
+    "score2": "69"
   },
   {
     "competition": "NSL",
@@ -1813,7 +1813,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "",
     "score1": "",
-    "score2": "72"
+    "score2": "47"
   },
   {
     "competition": "NSL",
@@ -1824,7 +1824,7 @@ window.RESULTS  = [
     "team2": "Leeds Rhinos",
     "watch": "",
     "score1": "",
-    "score2": "72"
+    "score2": "58"
   },
   {
     "competition": "NSL",
@@ -1835,7 +1835,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "",
     "score1": "",
-    "score2": "72"
+    "score2": "53"
   },
   {
     "competition": "NSL",
@@ -1846,7 +1846,7 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "",
     "score1": "",
-    "score2": "42"
+    "score2": "78"
   },
   {
     "competition": "NSL",
@@ -1857,7 +1857,7 @@ window.RESULTS  = [
     "team2": "Cardiff Dragons",
     "watch": "",
     "score1": "",
-    "score2": "65"
+    "score2": "81"
   },
   {
     "competition": "NSL",
@@ -1868,7 +1868,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "",
     "score1": "",
-    "score2": "53"
+    "score2": "54"
   },
   {
     "competition": "NSL",
@@ -1879,7 +1879,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "",
     "score1": "",
-    "score2": "54"
+    "score2": "70"
   },
   {
     "competition": "NSL",
@@ -1890,7 +1890,7 @@ window.RESULTS  = [
     "team2": "Manchester Thunder",
     "watch": "",
     "score1": "",
-    "score2": "77"
+    "score2": "47"
   },
   {
     "competition": "NSL",
@@ -1901,7 +1901,7 @@ window.RESULTS  = [
     "team2": "Leeds Rhinos",
     "watch": "",
     "score1": "",
-    "score2": "77"
+    "score2": "51"
   },
   {
     "competition": "NSL",
@@ -1912,7 +1912,7 @@ window.RESULTS  = [
     "team2": "Nottingham Forest",
     "watch": "",
     "score1": "",
-    "score2": "51"
+    "score2": "73"
   },
   {
     "competition": "NSL",
@@ -1923,7 +1923,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "",
     "score1": "",
-    "score2": "66"
+    "score2": "52"
   },
   {
     "competition": "NSL",
@@ -1934,7 +1934,7 @@ window.RESULTS  = [
     "team2": "London Mavericks",
     "watch": "",
     "score1": "",
-    "score2": "65"
+    "score2": "56"
   },
   {
     "competition": "NSL",
@@ -1945,6 +1945,6 @@ window.RESULTS  = [
     "team2": "Birmingham Panthers",
     "watch": "",
     "score1": "",
-    "score2": "63"
+    "score2": "71"
   }
 ];
