@@ -1,4 +1,4 @@
-/* Generated 2026-06-13T09:55:53.666Z */
+/* Generated 2026-06-13T11:35:08.029Z */
 window.FIXTURES = [
   {
     "competition": "NSL 2026 Preliminary finals",
@@ -14,7 +14,7 @@ window.FIXTURES = [
     "date": "2026-06-20",
     "timeUK": "",
     "location": "TBC",
-    "team1": "",
+    "team1": "TBC",
     "team2": "",
     "watch": ""
   }
