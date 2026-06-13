@@ -1,9 +1,9 @@
-/* Generated 2026-06-13T09:12:35.863Z */
+/* Generated 2026-06-13T09:55:53.666Z */
 window.FIXTURES = [
   {
     "competition": "NSL 2026 Preliminary finals",
     "date": "2026-06-13",
-    "timeUK": "16:01",
+    "timeUK": "16:00",
     "location": "Lee Valley Velo Park",
     "team1": "London Pulse",
     "team2": "Loughborough Lightning",
