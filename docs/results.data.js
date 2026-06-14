@@ -1,4 +1,4 @@
-/* Generated 2026-06-14T05:28:23.904Z */
+/* Generated 2026-06-14T05:30:26.334Z */
 window.RESULTS  = [
   {
     "competition": "NSL 2026 Preliminary finals",
