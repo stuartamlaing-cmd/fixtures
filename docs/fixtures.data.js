@@ -1,4 +1,4 @@
-/* Generated 2026-06-14T05:28:23.904Z */
+/* Generated 2026-06-14T05:30:26.325Z */
 window.FIXTURES = [
   {
     "competition": "NSL 2026 Final",
@@ -6,7 +6,7 @@ window.FIXTURES = [
     "timeUK": "15:00",
     "location": "Co-op Live",
     "team1": "AO Manchester Thunder",
-    "team2": "TBC",
-    "watch": "TBC"
+    "team2": "London",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass"
   }
 ];
