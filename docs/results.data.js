@@ -1,4 +1,4 @@
-/* Generated 2026-06-14T05:25:26.460Z */
+/* Generated 2026-06-14T05:27:42.936Z */
 window.RESULTS  = [
   {
     "competition": "NSL 2026 Preliminary finals",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "Loughborough Lightning",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "60",
-    "score2": ""
+    "score2": "56"
   },
   {
     "competition": "Major Semi Final",
