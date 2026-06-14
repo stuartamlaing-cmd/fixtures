@@ -1,5 +1,16 @@
-/* Generated 2026-06-13T11:35:08.030Z */
+/* Generated 2026-06-14T05:25:26.460Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL 2026 Preliminary finals",
+    "date": "2026-06-13",
+    "timeUK": "16:00",
+    "location": "Lee Valley Velo Park",
+    "team1": "London Pulse",
+    "team2": "Loughborough Lightning",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "60",
+    "score2": ""
+  },
   {
     "competition": "Major Semi Final",
     "date": "2026-06-06",
