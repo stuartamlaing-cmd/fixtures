@@ -1,5 +1,16 @@
-/* Generated 2026-06-14T05:31:12.980Z */
+/* Generated 2026-06-20T18:07:15.355Z */
 window.RESULTS  = [
+  {
+    "competition": "NSL 2026 Final",
+    "date": "2026-06-20",
+    "timeUK": "15:00",
+    "location": "Co-op Live",
+    "team1": "AO Manchester Thunder",
+    "team2": "London Pulse",
+    "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
+    "score1": "54",
+    "score2": ""
+  },
   {
     "competition": "NSL 2026 Preliminary finals",
     "date": "2026-06-13",
