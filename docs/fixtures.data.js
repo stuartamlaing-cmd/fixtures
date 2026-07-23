@@ -1,4 +1,4 @@
-/* Generated 2026-07-23T15:09:46.132Z */
+/* Generated 2026-07-23T15:10:22.812Z */
 window.FIXTURES = [
   {
     "competition": "Commonwealth Games 2026",
