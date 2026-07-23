@@ -1,4 +1,4 @@
-/* Generated 2026-07-23T15:15:55.845Z */
+/* Generated 2026-07-23T15:16:29.128Z */
 window.FIXTURES = [
   {
     "competition": "Commonwealth Games 2026",
@@ -66,15 +66,6 @@ window.FIXTURES = [
   {
     "competition": "Commonwealth Games 2026",
     "date": "2026-07-26",
-    "timeUK": "14:00",
-    "location": "",
-    "team1": "England A",
-    "team2": "",
-    "watch": ""
-  },
-  {
-    "competition": "Commonwealth Games 2026",
-    "date": "2026-07-26",
     "timeUK": "16:00",
     "location": "",
     "team1": "South Africa",
@@ -97,6 +88,15 @@ window.FIXTURES = [
     "location": "",
     "team1": "New Zealand",
     "team2": "Jamaica",
+    "watch": "HBO Max"
+  },
+  {
+    "competition": "Commonwealth Games 2026",
+    "date": "2026-07-27",
+    "timeUK": "14:00",
+    "location": "",
+    "team1": "England A",
+    "team2": "Malawi",
     "watch": "HBO Max"
   }
 ];
