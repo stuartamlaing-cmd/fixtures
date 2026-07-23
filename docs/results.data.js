@@ -1,4 +1,4 @@
-/* Generated 2026-06-20T18:07:15.355Z */
+/* Generated 2026-07-23T15:04:51.275Z */
 window.RESULTS  = [
   {
     "competition": "NSL 2026 Final",
@@ -9,7 +9,7 @@ window.RESULTS  = [
     "team2": "London Pulse",
     "watch": "Sky Sports; Sky Sports YouTube; Netball Pass",
     "score1": "54",
-    "score2": ""
+    "score2": "51"
   },
   {
     "competition": "NSL 2026 Preliminary finals",
