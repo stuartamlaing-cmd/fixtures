@@ -1,4 +1,4 @@
-/* Generated 2026-07-23T15:14:37.374Z */
+/* Generated 2026-07-23T15:15:13.007Z */
 window.FIXTURES = [
   {
     "competition": "Commonwealth Games 2026",
@@ -87,7 +87,7 @@ window.FIXTURES = [
     "timeUK": "21:00",
     "location": "",
     "team1": "New Zealand",
-    "team2": "",
-    "watch": ""
+    "team2": "Jamaica",
+    "watch": "HBO Max"
   }
 ];
