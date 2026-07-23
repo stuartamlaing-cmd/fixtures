@@ -1,4 +1,4 @@
-/* Generated 2026-07-23T15:35:54.836Z */
+/* Generated 2026-07-23T15:36:23.601Z */
 window.FIXTURES = [
   {
     "competition": "Commonwealth Games 2026",
@@ -16,7 +16,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "Australia",
     "team2": "Tonga",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -25,7 +25,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "England",
     "team2": "Northern Ireland",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -34,7 +34,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "Wales",
     "team2": "Uganda",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -43,7 +43,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "Jamaica",
     "team2": "Trinidad & Tobago",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -52,7 +52,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "Wales",
     "team2": "Scotland",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -61,7 +61,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "Australia",
     "team2": "England",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -70,7 +70,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "South Africa",
     "team2": "Tonga",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -79,7 +79,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "Uganda",
     "team2": "Trinidad & Tobago",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -88,7 +88,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "New Zealand",
     "team2": "Jamaica",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
