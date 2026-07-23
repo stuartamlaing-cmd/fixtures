@@ -1,14 +1,5 @@
-/* Generated 2026-07-23T15:36:23.601Z */
+/* Generated 2026-07-23T18:23:21.185Z */
 window.FIXTURES = [
-  {
-    "competition": "Commonwealth Games 2026",
-    "date": "2026-07-25",
-    "timeUK": "09:00",
-    "location": "",
-    "team1": "New Zealand",
-    "team2": "Scotland",
-    "watch": "HBO Max; TNT Sports"
-  },
   {
     "competition": "Commonwealth Games 2026",
     "date": "2026-07-25",
@@ -97,7 +88,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "England A",
     "team2": "Malawi",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -106,7 +97,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "Tonga",
     "team2": "Northern Ireland",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -115,7 +106,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "Jamaica",
     "team2": "Uganda",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -124,7 +115,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "Scotland",
     "team2": "Trinidad & Tobago",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -133,7 +124,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "South Africa",
     "team2": "Northern Ireland",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -142,7 +133,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "Wales",
     "team2": "Trinidad & Tobago",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -151,7 +142,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "New Zealand",
     "team2": "Uganda",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -160,7 +151,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "Australia",
     "team2": "Malawi",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -169,7 +160,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "Jamaica",
     "team2": "Scotland",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -178,7 +169,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "England",
     "team2": "Tonga",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -187,7 +178,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "New Zealand",
     "team2": "Wales",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -196,7 +187,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "Australia",
     "team2": "South Africa",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -205,7 +196,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "Malawi",
     "team2": "Tonga",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -214,7 +205,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "New Zealand",
     "team2": "Trinidad & Tobago",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -223,7 +214,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "Australia",
     "team2": "Northern Ireland",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -232,7 +223,7 @@ window.FIXTURES = [
     "location": "",
     "team1": "Jamaica",
     "team2": "Wales",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -241,6 +232,6 @@ window.FIXTURES = [
     "location": "",
     "team1": "England",
     "team2": "South Africa",
-    "watch": "HBO Max"
+    "watch": "HBO Max; TNT Sports"
   }
 ];
