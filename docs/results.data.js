@@ -1,4 +1,4 @@
-/* Generated 2026-07-23T15:21:43.430Z */
+/* Generated 2026-07-23T15:22:17.283Z */
 window.RESULTS  = [
   {
     "competition": "NSL 2026 Final",
