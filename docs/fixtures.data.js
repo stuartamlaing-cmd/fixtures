@@ -1,2 +1,2 @@
-/* Generated 2026-06-20T18:07:15.355Z */
+/* Generated 2026-07-23T15:04:51.275Z */
 window.FIXTURES = [];
