@@ -1,4 +1,4 @@
-/* Generated 2026-07-23T15:20:39.671Z */
+/* Generated 2026-07-23T15:21:13.600Z */
 window.FIXTURES = [
   {
     "competition": "Commonwealth Games 2026",
@@ -137,7 +137,7 @@ window.FIXTURES = [
   },
   {
     "competition": "Commonwealth Games 2026",
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "timeUK": "",
     "location": "",
     "team1": "",
