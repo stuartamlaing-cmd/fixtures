@@ -1,4 +1,4 @@
-/* Generated 2026-07-25T18:35:31.999Z */
+/* Generated 2026-07-25T18:36:04.448Z */
 window.RESULTS  = [
   {
     "competition": "Commonwealth Games 2026",
@@ -31,7 +31,18 @@ window.RESULTS  = [
     "team2": "Northern Ireland",
     "watch": "HBO Max; TNT Sports",
     "score1": "83",
-    "score2": ""
+    "score2": "34"
+  },
+  {
+    "competition": "Commonwealth Games 2026",
+    "date": "2026-07-25",
+    "timeUK": "16:00",
+    "location": "",
+    "team1": "Wales",
+    "team2": "Uganda",
+    "watch": "HBO Max; TNT Sports",
+    "score1": "50",
+    "score2": "59"
   },
   {
     "competition": "NSL 2026 Final",
