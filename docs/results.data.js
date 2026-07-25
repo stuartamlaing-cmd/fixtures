@@ -1,5 +1,16 @@
-/* Generated 2026-07-23T18:29:31.989Z */
+/* Generated 2026-07-25T18:34:47.258Z */
 window.RESULTS  = [
+  {
+    "competition": "Commonwealth Games 2026",
+    "date": "2026-07-25",
+    "timeUK": "09:00",
+    "location": "",
+    "team1": "New Zealand",
+    "team2": "Scotland",
+    "watch": "HBO Max; TNT Sports",
+    "score1": "74",
+    "score2": ""
+  },
   {
     "competition": "NSL 2026 Final",
     "date": "2026-06-20",
