@@ -1,4 +1,4 @@
-/* Generated 2026-07-28T20:09:37.705Z */
+/* Generated 2026-07-28T20:10:09.769Z */
 window.RESULTS  = [
   {
     "competition": "Commonwealth Games 2026",
@@ -8,8 +8,8 @@ window.RESULTS  = [
     "team1": "England",
     "team2": "Malawi",
     "watch": "HBO Max; TNT Sports",
-    "score1": "",
-    "score2": ""
+    "score1": "73",
+    "score2": "38"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -19,7 +19,7 @@ window.RESULTS  = [
     "team1": "Tonga",
     "team2": "Northern Ireland",
     "watch": "HBO Max; TNT Sports",
-    "score1": "",
+    "score1": "58",
     "score2": ""
   },
   {
