@@ -1,4 +1,4 @@
-/* Generated 2026-07-28T20:08:10.990Z */
+/* Generated 2026-07-28T20:08:53.947Z */
 window.RESULTS  = [
   {
     "competition": "Commonwealth Games 2026",
@@ -97,7 +97,7 @@ window.RESULTS  = [
     "team2": "Jamaica",
     "watch": "HBO Max; TNT Sports",
     "score1": "53",
-    "score2": ""
+    "score2": "48"
   },
   {
     "competition": "Commonwealth Games 2026",
@@ -151,7 +151,7 @@ window.RESULTS  = [
     "team1": "Jamaica",
     "team2": "Trinidad & Tobago",
     "watch": "HBO Max; TNT Sports",
-    "score1": "",
+    "score1": "81",
     "score2": ""
   },
   {
