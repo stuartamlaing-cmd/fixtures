@@ -1,4 +1,4 @@
-/* Generated 2026-07-28T20:06:26.713Z */
+/* Generated 2026-07-28T20:07:24.237Z */
 window.RESULTS  = [
   {
     "competition": "Commonwealth Games 2026",
@@ -74,7 +74,7 @@ window.RESULTS  = [
     "team1": "South Africa",
     "team2": "Tonga",
     "watch": "HBO Max; TNT Sports",
-    "score1": "",
+    "score1": "96",
     "score2": ""
   },
   {
