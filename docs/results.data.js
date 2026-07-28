@@ -1,5 +1,104 @@
-/* Generated 2026-07-25T18:36:04.448Z */
+/* Generated 2026-07-28T20:05:52.723Z */
 window.RESULTS  = [
+  {
+    "competition": "Commonwealth Games 2026",
+    "date": "2026-07-27",
+    "timeUK": "14:00",
+    "location": "",
+    "team1": "England A",
+    "team2": "Malawi",
+    "watch": "HBO Max; TNT Sports",
+    "score1": "",
+    "score2": ""
+  },
+  {
+    "competition": "Commonwealth Games 2026",
+    "date": "2026-07-27",
+    "timeUK": "16:00",
+    "location": "",
+    "team1": "Tonga",
+    "team2": "Northern Ireland",
+    "watch": "HBO Max; TNT Sports",
+    "score1": "",
+    "score2": ""
+  },
+  {
+    "competition": "Commonwealth Games 2026",
+    "date": "2026-07-27",
+    "timeUK": "19:00",
+    "location": "",
+    "team1": "Jamaica",
+    "team2": "Uganda",
+    "watch": "HBO Max; TNT Sports",
+    "score1": "",
+    "score2": ""
+  },
+  {
+    "competition": "Commonwealth Games 2026",
+    "date": "2026-07-27",
+    "timeUK": "21:00",
+    "location": "",
+    "team1": "Scotland",
+    "team2": "Trinidad & Tobago",
+    "watch": "HBO Max; TNT Sports",
+    "score1": "",
+    "score2": ""
+  },
+  {
+    "competition": "Commonwealth Games 2026",
+    "date": "2026-07-26",
+    "timeUK": "09:00",
+    "location": "",
+    "team1": "Wales",
+    "team2": "Scotland",
+    "watch": "HBO Max; TNT Sports",
+    "score1": "47",
+    "score2": ""
+  },
+  {
+    "competition": "Commonwealth Games 2026",
+    "date": "2026-07-26",
+    "timeUK": "11:00",
+    "location": "",
+    "team1": "Australia",
+    "team2": "England",
+    "watch": "HBO Max; TNT Sports",
+    "score1": "",
+    "score2": ""
+  },
+  {
+    "competition": "Commonwealth Games 2026",
+    "date": "2026-07-26",
+    "timeUK": "16:00",
+    "location": "",
+    "team1": "South Africa",
+    "team2": "Tonga",
+    "watch": "HBO Max; TNT Sports",
+    "score1": "",
+    "score2": ""
+  },
+  {
+    "competition": "Commonwealth Games 2026",
+    "date": "2026-07-26",
+    "timeUK": "19:00",
+    "location": "",
+    "team1": "Uganda",
+    "team2": "Trinidad & Tobago",
+    "watch": "HBO Max; TNT Sports",
+    "score1": "",
+    "score2": ""
+  },
+  {
+    "competition": "Commonwealth Games 2026",
+    "date": "2026-07-26",
+    "timeUK": "21:00",
+    "location": "",
+    "team1": "New Zealand",
+    "team2": "Jamaica",
+    "watch": "HBO Max; TNT Sports",
+    "score1": "",
+    "score2": ""
+  },
   {
     "competition": "Commonwealth Games 2026",
     "date": "2026-07-25",
@@ -43,6 +142,17 @@ window.RESULTS  = [
     "watch": "HBO Max; TNT Sports",
     "score1": "50",
     "score2": "59"
+  },
+  {
+    "competition": "Commonwealth Games 2026",
+    "date": "2026-07-25",
+    "timeUK": "19:00",
+    "location": "",
+    "team1": "Jamaica",
+    "team2": "Trinidad & Tobago",
+    "watch": "HBO Max; TNT Sports",
+    "score1": "",
+    "score2": ""
   },
   {
     "competition": "NSL 2026 Final",
